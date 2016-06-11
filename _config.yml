@@ -1,0 +1,15 @@
+# Setup
+title:            OPEN DATA HANDBOOK
+tagline:          'California Health and Human Services Agency'
+description:      'CHHS Open Data Handbook'
+url:              http://chhsopendata.github.io/opendatahandbook
+
+author:
+  name:           'California Health and Human Services Agency'
+  url:            https://twitter.com/chhsagency
+
+# Custom vars
+version:          3.0 | January 2015
+
+github:
+  repo:           https://github.com/CHHSOpenData/OpenDataHandbook
