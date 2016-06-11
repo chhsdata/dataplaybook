@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![California Health and Human Services Agency Data Playbook - 1st Edition](/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 1st Edition")
+![California Health and Human Services Agency Data Playbook - 1st Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 1st Edition")
 
 ## Five plays for your department
 
@@ -43,7 +43,7 @@ The plays are intended for program and data analysts; budget analysts; procureme
 
 The Departments can help us identify additional users who may benefit from the Playbook. As we build a culture of data, we hope to not only focus on existing data consumers, but expand how staff across Agency utilize data in their day-to-day work.
 
-![Leadership, Culture, Environment](/assets/images/00_figure03.png "Leadership, Culture, Environment")
+![Leadership, Culture, Environment]({{ site.baseurl }}/assets/images/00_figure03.png "Leadership, Culture, Environment")
 
 ## When to use the Playbook
 
@@ -55,7 +55,7 @@ The Playbook may be leveraged by program and budget staff in the development of 
 
 The Playbook may be used  by program and legislative affairs staff in the development of Legislative Proposals  and/or Enrolled Bill Reports (EBRs). 
 
-![How do you leverage this tool?](/assets/images/00_figure04.png "How do you leverage this tool?")
+![How do you leverage this tool?]({{ site.baseurl }}/assets/images/00_figure04.png "How do you leverage this tool?")
 
 >Departments should leverage this Playbook as a tool with existing processes to maximize impact.
 
@@ -63,5 +63,5 @@ The Playbook may be used  by program and legislative affairs staff in the develo
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="/1_introduction.md">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/1_introduction.md">Next &raquo;</a>
 </div>
