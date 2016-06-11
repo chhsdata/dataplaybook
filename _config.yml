@@ -2,8 +2,8 @@
 title:            DATA PLAYBOOK
 tagline:          'California Health and Human Services Agency'
 description:      'CHHS Data Playbook'
-url:              'http://chhsdata.github.io/dataplaybook'
-baseurl:          'http://chhsdata.github.io/dataplaybook'
+url:              'https://chhsdata.github.io/dataplaybook'
+baseurl:          'https://chhsdata.github.io/dataplaybook'
 
 author:
   name:           'California Health and Human Services Agency'
