@@ -1,15 +1,15 @@
 # Setup
-title:            OPEN DATA HANDBOOK
+title:            DATA PLAYBOOK
 tagline:          'California Health and Human Services Agency'
-description:      'CHHS Open Data Handbook'
-url:              http://chhsopendata.github.io/opendatahandbook
+description:      'CHHS Data Playbook'
+url:              'http://chhsdata.github.io/dataplaybook'
 
 author:
   name:           'California Health and Human Services Agency'
   url:            https://twitter.com/chhsagency
 
 # Custom vars
-version:          3.0 | January 2015
+version:          1.0 | June 2016
 
 github:
-  repo:           https://github.com/CHHSOpenData/OpenDataHandbook
+  repo:           https://github.com/CHHSData/DataPlaybook
