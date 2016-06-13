@@ -14,8 +14,6 @@ This play will include a numeric score card that will assess a Department's curr
 
 The goal is to look at existing capabilities to address the problems or issues outlined.
 
->**"Leverage or be leveraged."**
-
 The capability assessment will help facilitate a conversation within the Department  to help catalog the various resources available in order to address the problems identified in the objective assessment.
 
 >Assess the Department's readiness by **identifying the gaps and needs** in order to operationalize the data strategy.
