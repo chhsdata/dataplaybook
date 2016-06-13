@@ -35,5 +35,5 @@ Don’t have access to the IT services you need? Maybe there is a shared service
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/share">&laquo; Prev</a>
-  <a class="pagination-item newer">Next &raquo;</a>
+  <span class="pagination-item newer">Next &raquo;</span>
 </div>
