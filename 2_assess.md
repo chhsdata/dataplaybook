@@ -3,7 +3,7 @@ layout: page
 title: 2. Assess
 permalink: /assess/
 ---
-# Play 02. Assess: tools & capabilities
+## Play 02. Assess: tools & capabilities
 
 This play will include a numeric score card that will assess a Department's current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions.
 
