@@ -40,8 +40,6 @@ This Play can also help Departments navigate the Stage 1 Business Analysis.
 
 There are dozens of ways each Department can use data, and the applications can seem endless. It will be important to pick one core mission problem, and then gradually build and grow programs based on lessons learned.
 
-![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
-
 [![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
 ]({{ site.baseurl }}/action_items)
 
