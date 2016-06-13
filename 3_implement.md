@@ -3,7 +3,7 @@ layout: page
 title: 3. Implement
 permalink: /implement/
 ---
-# Play 03. Implement: plan & strategy
+## Play 03. Implement: plan & strategy
 
 This play will help Departments move from conversation to action. It will provide resources that will allow the Departments to succeed. This might include: roles and responsibilities; governance structures; and data standards.
 
