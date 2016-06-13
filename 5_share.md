@@ -11,13 +11,13 @@ This play will include a standardized template of how we can catalog our various
 
 >**How do we share lessons learned and create a feedback loop?**.
 
-![Storyboard]({{ site.baseurl }}/assets/images/05_figure02.png "Storyboard")
+[![Storyboard]({{ site.baseurl }}/assets/images/05_figure02.png "Storyboard")](https://letsgethealthy.ca.gov/)
 
 **Documentation** – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.
 
 There’s an opportunity to use this documentation to build a repository of Agency data assets that captures the Agency’s “Information Architecture” for the most critical and valuable Agency data assets.
 
-![Action Item]({{ site.baseurl }}/assets/images/05_figure01.png "Action Item")
+[![Action Item]({{ site.baseurl }}/assets/images/05_figure01.png "Action Item")]({{ site.baseurl }}/action_items)
 
 <!-- Pagination -->
 <div class="pagination">
