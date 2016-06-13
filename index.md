@@ -64,5 +64,5 @@ The Playbook may be used  by program and legislative affairs staff in the develo
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/define.md">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/define">Next &raquo;</a>
 </div>
