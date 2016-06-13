@@ -4,7 +4,7 @@ title: Action Items
 permalink: /action_items/
 ---
 
-# Action Items: Checklist
+## Action Items: Checklist
 *Adapted from the [GovLoop Big Data Playbook for Government](https://www.govloop.com/wp-content/uploads/2015/01/Big-Data-Playbook-.pdf?utm_source=Website&utm_medium=Button&utm_campaign=Guide)*
 
 #### 1. SET CLEAR AND MEASURABLE OUTCOMES
