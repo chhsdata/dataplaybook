@@ -32,7 +32,7 @@ The primary objective is to help Departments increase their efficiency and effec
 
 ## Playbook users
 
-![Use the Playbook throughout the data management lifecycle.](/assets/images/00_figure02.png "Use the Playbook throughout the data management lifecycle.")
+![Use the Playbook throughout the data management lifecycle.]({{ site.baseurl }}/assets/images/00_figure02.png "Use the Playbook throughout the data management lifecycle.")
 
 >Use the Playbook throughout the data management lifecycle
 
