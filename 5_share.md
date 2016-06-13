@@ -9,7 +9,7 @@ It will be important to recognize that we will have successes and failures and i
 
 This play will include a standardized template of how we can catalog our various projects so that we can create a **“Storyboard”** giving us the ability to recognize work across the Agency while also creating a catalog of various activities. 
 
->**How do we share lessons learned and create a feedback loop?**.
+>**How do we share lessons learned and create a feedback loop?**
 
 [![Storyboard]({{ site.baseurl }}/assets/images/05_figure02.png "Storyboard")](https://letsgethealthy.ca.gov/)
 
