@@ -42,6 +42,9 @@ There are dozens of ways each Department can use data, and the applications can 
 
 ![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
 
+[![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
+]({{ site.baseurl }}/action_items)
+
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
