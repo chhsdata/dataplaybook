@@ -3,7 +3,7 @@ layout: page
 title: 1. Define
 permalink: /define/
 ---
-# Play 01. Define: goals & objectives
+## Play 01. Define: goals & objectives
 
 This play is focused on helping Departments facilitate a high-level conversation on some of the most pressing issues facing the Department and what data solutions might be available to address the issue or problem. 
 
