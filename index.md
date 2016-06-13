@@ -33,6 +33,7 @@ The primary objective is to help Departments increase their efficiency and effec
 ## Playbook users
 
 ![Use the Playbook throughout the data management lifecycle.](/assets/images/00_figure02.png "Use the Playbook throughout the data management lifecycle.")
+
 >Use the Playbook throughout the data management lifecycle
 
 The Playbook is designed with the analyst as the primary user. It will serve as a resource and a guide to help build the necessary skillsets within the existing workforce to not only think differently about data, but to proactively utilize data to improve the programs and services delivered. 
@@ -63,5 +64,5 @@ The Playbook may be used  by program and legislative affairs staff in the develo
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/1_introduction.md">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/1_define.md">Next &raquo;</a>
 </div>
