@@ -29,7 +29,8 @@ The capability assessment will help facilitate a conversation within the Departm
 
 >To give an even deeper look at these strategies, Departments share how they’ve put them to use in different scenarios and for different efforts.
 
-![Action Item]({{ site.baseurl }}/assets/images/02_figure02.png "Action Item")
+[![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
+
 
 
 <!-- Pagination -->
