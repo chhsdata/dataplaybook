@@ -3,7 +3,7 @@ layout: page
 title: 4. Evaluate
 permalink: /evaluate/
 ---
-#Play 04. Evaluate: outcomes & impacts
+# Play 04. Evaluate: outcomes & impacts
 
 This is an important play as it will help us validate outcomes and determine successes. It also will help  identify lessons learned, which will grow our toolbox and provide us with better intelligence. This ultimately will allow us to generate new content and additional best practices to help other Departments across the Agency.
 
@@ -22,6 +22,6 @@ Establishing an evaluation process will ensure that the benefits anticipated by 
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="/governance">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/disclosure">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/implement">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/share">Next &raquo;</a>
 </div>
