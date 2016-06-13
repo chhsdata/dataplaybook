@@ -3,7 +3,7 @@ layout: page
 title: 5. Share
 permalink: /share/
 ---
-# Play 05. Share: progress & results
+## Play 05. Share: progress & results
 
 It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from those failures. 
 
