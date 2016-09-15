@@ -27,7 +27,7 @@ The planning and implementation processes will allow any person working on the p
 
 The **Project Management Resources** will include resources on: agile planning and development; resource management; training; communication; and governance.  
 
-The **Data Management Resouces** will include resources on: data access and publishing; data standards; data documentation; and data tools and analytics.
+The **Data Management Resources** will include resources on: data access and publishing; data standards; data documentation; and data tools and analytics.
 
 [![Action Item]({{ site.baseurl }}/assets/images/03_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
 
