@@ -32,7 +32,7 @@ The **Data Management Resources** will include resources on: data access and pub
 [![Action Item]({{ site.baseurl }}/assets/images/03_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
 
 
-###Data De-Identification Guidelines
+### Data De-Identification Guidelines
  
 CHHS collects, manages and disseminates a wide range of data. As departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee commissioned the development of Agency-wide data de-identification guidelines to assist departments in assessing data for public release. 
 
