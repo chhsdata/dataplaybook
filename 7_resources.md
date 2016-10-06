@@ -4,6 +4,8 @@ title: Resource Library
 permalink: /resource_library/
 ---
 
+
+<hr>
 #### 1. CHHS De-Identification Guidelines
 
 The CHHS Data De-identification Guidelines describe a procedure to be used by departments and offices in the Agency to assess data for public release. As part of the guidelines, specific actions that may be taken for each step in the procedure are described. These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) and the Health Insurance Portability and Accountability Act (HIPAA) to prevent the disclosure of personal information.  
