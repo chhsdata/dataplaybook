@@ -2,11 +2,7 @@
 
 ### DATA PLAYBOOK
 
-##### California Health and Human Services Agency (CHHS)
-
-###### 1st Edition
-
-###### June 2016
+###### A Department's Toolkit to Utilizing Data
 
 ## Contents
 
@@ -23,3 +19,26 @@
 ### [05. Share: progress & results](5_share.md)
 
 ### [Action Items](6_action_items.md)
+
+### [Resource Library](7_resource_library.md)
+
+<br>
+### Change Log
+
+<table style="width:75%">
+  <tr>
+    <th>Version</th>
+    <th>Date</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>June 2016</td>
+    <td>Initial release</td>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>October 2016</td>
+    <td>Added CHHS De-Identification Guidelines</td>
+  </tr>
+</table> 
