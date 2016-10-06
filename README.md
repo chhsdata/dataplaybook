@@ -1,4 +1,4 @@
-## California Health and Human Services Agency (CHHS)
+# California Health and Human Services Agency (CHHS)
 
 ### DATA PLAYBOOK
 
@@ -22,8 +22,8 @@
 
 ### [Resource Library](7_resource_library.md)
 
-<br>
-### Change Log
+
+## Change Log
 
 <table style="width:75%">
   <tr>
