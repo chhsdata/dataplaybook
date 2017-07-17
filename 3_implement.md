@@ -32,14 +32,30 @@ The **Data Management Resources** will include resources on: data access and pub
 [![Action Item]({{ site.baseurl }}/assets/images/03_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
 
 
-### Data De-Identification Guidelines
+### CHHS Data De-Identification Guidelines
  
-CHHS collects, manages, and disseminates a wide range of data. As departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee commissioned the development of Agency-wide data de-identification guidelines to assist departments in assessing data for public release. 
+CHHS collects, manages and disseminates a wide range of data.  As departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee commissioned the development of Agency-wide guidelines to assist departments in assessing data for public release. 
 
 The [CHHS Data De-Identification Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines") support CHHS governance goals to reduce inconsistency of practices across departments, align standards used across departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the [CHHS Open Data Portal](https://chhs.data.ca.gov/ "CHHS Open Data Portal"). 
 
-See the full guidelines and related materials [in the Resource Library]({{ site.baseurl }}/resource_library "Data Playbook Resource Library").
+See the full guidelines [in the Resource Library]({{ site.baseurl }}/resource_library "Data Playbook Resource Library").
 
+### CHHS Data De-Identification Guidelines
+ 
+Data sharing at CHHS is governed by the CHHS Data Exchange Agreement and the associated business use case proposal process. The CHHS Data Exchange Agreement is bifurcated into two parts—one master agreement with general legal boilerplate language and subordinate "Business Use Case Proposals" containing the specific business case to document each data exchange under the master agreement. The Business Use Case Proposal includes information such as data type, intended use, etc. The master agreement, when coupled with the Business Use Case Proposal, forms the complete, standardized, legally-compliant data sharing agreement.
+
+The goals of data sharing at CHHS are to:
+ 
+* Establish a legal framework for data initiatives
+* Maximize appropriate sharing to increase positive outcomes and customer service
+* Ensure privacy and security protections
+* Reduce risk and use of duplicative resources
+* Standardize data use agreements among CHHS departments and offices
+* Reduce contracting and data use agreement redundancies
+
+See the CHHS Data Exchange Agreement, Business Use Case Proposal, and related data sharing materials [in the Resource Library]({{ site.baseurl }}/resource_library "Data Playbook Resource Library").
+
+[![CHHS Governance Resources]({{ site.baseurl }}/assets/images/03_figure04.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 
 <!-- Pagination -->
 <div class="pagination">
