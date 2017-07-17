@@ -4,7 +4,7 @@ title: Action Items
 permalink: /action_items/
 ---
 
-*Adapted from the [GovLoop Big Data Playbook for Government](https://www.govloop.com/wp-content/uploads/2015/01/Big-Data-Playbook-.pdf?utm_source=Website&utm_medium=Button&utm_campaign=Guide)*
+*Adapted from the [GovLoop Big Data Playbook for Government](https://www.govloop.com/wp-content/uploads/2015/01/Big-Data-Playbook-.pdf?utm_source=Website&utm_medium=Button&utm_campaign=Guide){:target="_blank"}*
 
 #### 1. SET CLEAR AND MEASURABLE OUTCOMES
 
