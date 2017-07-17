@@ -82,7 +82,7 @@ These resources are intended to achieve the following objectives:
 * Managers and employees see themselves as partners in continuous improvement.
 * Contribute to the recruitment, development and retention of California state employees at all levels.
 
-[Access the Toolkit](https://www.govops.ca.gov/eureka/opendatahandbook "Project and Program Management Toolkit"){:target="_blank"}
+[Access the Toolkit](https://www.govops.ca.gov/eureka/ "Project and Program Management Toolkit"){:target="_blank"}
 
 <hr>
 
