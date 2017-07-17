@@ -82,7 +82,23 @@ These resources are intended to achieve the following objectives:
 * Managers and employees see themselves as partners in continuous improvement.
 * Contribute to the recruitment, development and retention of California state employees at all levels.
 
-[Access the Toolkit](https://www.govops.ca.gov/eureka/ "Project and Program Management Toolkit"){:target="_blank"}
+Access the [toolkit materials](https://www.govops.ca.gov/eureka/ "Project and Program Management Toolkit"){:target="_blank"}:
+
+* [5 Principles of Lean](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/5-Principles-of-Lean.pdf "5 Principles of Lean"){:target="_blank"}
+* [Lean Essentials Reference Guide](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Lean-Essentials-Reference-Guide.pdf "Lean Essentials Reference Guide"){:target="_blank"}
+* [PDCA – Problem Solving Method](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/PDCA.pdf "PDCA – Problem Solving Method"){:target="_blank"}
+* [A3 Problem Solving Guide](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/A3-Guide.pdf "A3 Problem Solving Guide"){:target="_blank"}
+* [A3 Instructions and Blank Template](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/A3-Instructions-Template-11x17.pptx "A3 Instructions and Blank Template")
+* [Process Mapping – Method to Map Workflow](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Value-Stream.pdf "Process Mapping – Method to Map Workflow"){:target="_blank"}
+* [Value Stream – Method to Identify Customer Value](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Value-Stream.pdf "Value Stream – Method to Identify Customer Value"){:target="_blank"}
+* [Eight Wastes Guide](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/8-Wastes.pdf "Eight Wastes Guide"){:target="_blank"}
+* [Eight Wastes Poster](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/8-Wastes-POSTER.pdf "Eight Wastes Poster"){:target="_blank"}
+* [Spaghetti Mapping – Method to Identify Waste In Motion](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Spaghetti-Mapping.pdf "Spaghetti Mapping – Method to Identify Waste In Motion"){:target="_blank"}
+* [Root Cause Analysis/Five Whys – Inspire Thoughtful Questioning](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Root-Cause-Analysis.pdf "Root Cause Analysis/Five Whys – Inspire Thoughtful Questioning"){:target="_blank"}
+* [Standard Work – Method to Standardize Processes](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Standard-Work.pdf "Standard Work – Method to Standardize Processes"){:target="_blank"}
+* [5S – Method to Standardize Workplace Flow](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/5-S.pdf "5S – Method to Standardize Workplace Flow"){:target="_blank"}
+* [Metrics Reference Guide](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Lean-Metrics-Reference-Guide.pdf "Metrics Reference Guide"){:target="_blank"}
+* [Metrics Reporting Tool](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/California-Lean-Results-Report.pdf "Metrics Reporting Tool"){:target="_blank"}
 
 <hr>
 
