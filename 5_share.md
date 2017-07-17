@@ -7,6 +7,8 @@ permalink: /share/
 
 It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from those failures. 
 
+![How do you share progress?]({{ site.baseurl }}/assets/images/05_figure03.png "How do you share progress?")
+
 This play will include a standardized template of how we can catalog our various projects so that we can create a **“Storyboard”** giving us the ability to recognize work across the Agency while also creating a catalog of various activities. 
 
 >**How do we share lessons learned and create a feedback loop?**
@@ -18,6 +20,8 @@ This play will include a standardized template of how we can catalog our various
 There’s an opportunity to use this documentation to build a repository of Agency data assets that captures the Agency’s “Information Architecture” for the most critical and valuable Agency data assets.
 
 [![Action Item]({{ site.baseurl }}/assets/images/05_figure01.png "Action Item")]({{ site.baseurl }}/action_items)
+
+![CHHS Governance Resources]({{ site.baseurl }}/assets/images/05_figure04.png "CHHS Governance Resources")
 
 <!-- Pagination -->
 <div class="pagination">

@@ -18,8 +18,6 @@ The capability assessment will help facilitate a conversation within the Departm
 
 >Assess the Department's readiness by **identifying the gaps and needs** in order to operationalize the data strategy.
 
-![CHHS Governance Resources]({{ site.baseurl }}/assets/images/00_figure05.png "CHHS Governance Resources")
-
 1. How do **programs or stakeholders** use data currently? What do they do with it? How do they use it to make decisions or produce products for external stakeholders?
 2. What are **limits** to either the data or the implementation solution?
 3. What are the **risks/issues** with the current data? What value is not being realized?
@@ -31,7 +29,7 @@ The capability assessment will help facilitate a conversation within the Departm
 
 [![Action Item]({{ site.baseurl }}/assets/images/02_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
 
-
+![CHHS Governance Resources]({{ site.baseurl }}/assets/images/00_figure05.png "CHHS Governance Resources")
 
 <!-- Pagination -->
 <div class="pagination">

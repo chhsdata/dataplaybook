@@ -24,8 +24,6 @@ The objective is to get staff to think about how and what we can do to improve t
 9. Have we received buy-in from leadership and across teams?
 10. Are we delivering on the needs of our customers? How do we know?
 
-![CHHS Governance Resources]({{ site.baseurl }}/assets/images/00_figure05.png "CHHS Governance Resources")
-
 >Use best practice resources to build a use case around a particular **opportunity, issue or problem**. 
 
 ## What is the problem you are trying to solve?
@@ -42,6 +40,8 @@ There are dozens of ways each Department can use data, and the applications can 
 
 [![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
 ]({{ site.baseurl }}/action_items)
+
+![CHHS Governance Resources]({{ site.baseurl }}/assets/images/00_figure05.png "CHHS Governance Resources")
 
 <!-- Pagination -->
 <div class="pagination">

@@ -16,9 +16,15 @@ process improvement.”**
 
 **Outcome Evaluations** – assess how effective you have been in meeting big picture goals. The difficulties associated with outcome evaluations include: attributing change to any one particular project; long periods between the project and being able to see change; and finding reliable and valid ways of gathering this type of information.
 
+![How do you measure success?]({{ site.baseurl }}/assets/images/04_figure01.png "How do you measure success?")
+
 Establishing an evaluation process will ensure that the benefits anticipated by the implementation of any particular program or policy change are realized and an assessment can be made of the project’s overall success.
 
 >**What are the lessons learned?** How will you iterate on the current solution? What are the next steps?
+
+[![Action Item]({{ site.baseurl }}/assets/images/04_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
+
+![CHHS Governance Resources]({{ site.baseurl }}/assets/images/04_figure03.png "CHHS Governance Resources")
 
 <!-- Pagination -->
 <div class="pagination">
