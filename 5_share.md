@@ -21,7 +21,7 @@ There’s an opportunity to use this documentation to build a repository of Agen
 
 [![Action Item]({{ site.baseurl }}/assets/images/05_figure01.png "Action Item")]({{ site.baseurl }}/action_items)
 
-![CHHS Governance Resources]({{ site.baseurl }}/assets/images/05_figure04.png "CHHS Governance Resources")
+[![CHHS Governance Resources]({{ site.baseurl }}/assets/images/05_figure04.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 
 <!-- Pagination -->
 <div class="pagination">

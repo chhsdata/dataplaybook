@@ -41,7 +41,7 @@ There are dozens of ways each Department can use data, and the applications can 
 [![Action Item]({{ site.baseurl }}/assets/images/01_figure02.png "Action Item")
 ]({{ site.baseurl }}/action_items)
 
-![CHHS Governance Resources]({{ site.baseurl }}/assets/images/00_figure05.png "CHHS Governance Resources")
+[![CHHS Governance Resources]({{ site.baseurl }}/assets/images/01_figure04.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 
 <!-- Pagination -->
 <div class="pagination">

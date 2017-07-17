@@ -24,7 +24,7 @@ Establishing an evaluation process will ensure that the benefits anticipated by 
 
 [![Action Item]({{ site.baseurl }}/assets/images/04_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
 
-![CHHS Governance Resources]({{ site.baseurl }}/assets/images/04_figure03.png "CHHS Governance Resources")
+[![CHHS Governance Resources]({{ site.baseurl }}/assets/images/04_figure03.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 
 <!-- Pagination -->
 <div class="pagination">

@@ -29,7 +29,7 @@ The capability assessment will help facilitate a conversation within the Departm
 
 [![Action Item]({{ site.baseurl }}/assets/images/02_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
 
-![CHHS Governance Resources]({{ site.baseurl }}/assets/images/00_figure05.png "CHHS Governance Resources")
+[![CHHS Governance Resources]({{ site.baseurl }}/assets/images/02_figure03.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 
 <!-- Pagination -->
 <div class="pagination">
