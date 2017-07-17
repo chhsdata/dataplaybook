@@ -6,7 +6,7 @@ permalink: /resource_library/
 
 
 <hr>
-#### 1. CHHS Information Strategic Plan
+### 1. CHHS Information Strategic Plan
 
 [CHHS manages a diverse portfolio](http://www.chhs.ca.gov/Pages/Home.aspx "CHHS.ca.gov"){:target="_blank"} of programs and technical infrastructure that requires a complex level of management, operational capabilities and vendor support to effectively meet the expectations of its clients and stakeholders. Aligning the programmatic and operational strategies of the Agency and its departments is an immense undertaking, considering: 
 
@@ -20,7 +20,7 @@ The evolution of technology has provided CHHS, its departments, local government
 
 <hr>
 
-#### 2. CHHS Open Data Handbook
+### 2. CHHS Open Data Handbook
 
 The CHHS Open Data Handbook provides guidelines to identify, review, prioritize, and prepare publishable CHHS data for access by the public via the [CHHS Open Data Portal](https://data.chhs.ca.gov "CHHS Open Data Portal"){:target="_blank"}—with a foundational emphasis on value, quality, data and metadata standards, and governance.
 
@@ -31,7 +31,7 @@ The handbook focuses on general guidelines and thoughtful processes but also pro
 
 <hr>
 
-#### <a name="datasharing"></a>3. CHHS Data Sharing Framework
+### <a name="datasharing"></a>3. CHHS Data Sharing Framework
 
 Data sharing at CHHS is governed by the CHHS data exchange agreement and the associated business use case proposal process. The CHHS Data Exchange Agreement is bifurcated into two parts—one master agreement with general legal boilerplate language and subordinate "Business Use Case Proposals" containing the specific business case to document each data exchange under the master agreement. The Business Use Case Proposal includes information such as data type, intended use, etc. The master agreement, when coupled with the Business Use Case Proposal, forms the complete, standardized, legally-compliant data sharing agreement.
 
@@ -47,7 +47,7 @@ Download the data sharing materials:
 
 <hr>
 
-#### <a name="datade-id"></a>4. CHHS Data De-Identification Guidelines
+### <a name="datade-id"></a>4. CHHS Data De-Identification Guidelines
 
 The CHHS Data De-Identification Guidelines describe a procedure to be used by departments and offices in the Agency to assess data for public release. As part of the guidelines, specific actions that may be taken for each step in the procedure are described. These steps are intended to assist departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) and the Health Insurance Portability and Accountability Act (HIPAA) to prevent the disclosure of personal information.
 
@@ -57,7 +57,7 @@ The CHHS Data De-Identification Guidelines are focused on the assessment of aggr
 
 <hr>
 
-#### 5. Select Public Data Resources
+### 5. Select Public Data Resources
 
 Public data resources are available from a number of online sources, including the federal government and non-profit organizations. Following is a partial list of select data resources that can help contribute to data projects and analyses.
 
@@ -71,7 +71,7 @@ Public data resources are available from a number of online sources, including t
 
 <hr>
 
-#### 6. Project and Program Management Toolkit
+### 6. Project and Program Management Toolkit
 
 The [California Government Operations Agency](https://www.govops.ca.gov/departments/ "California Government Operations Agency"){:target="_blank"} has developed resources to guide, support, and integrate innovation and drive continuous improvement. The resources were developed using the “Lean” concept. Lean is a continuous improvement methodology based on five key principles to eliminate waste and increase value, designed to improve processes and quality from the point of view of the customer. Lean, refined over decades in the manufacturing and service sectors, offers a simple but highly effective system that can be implemented in all areas of an organization using the expertise of the organization’s own employees. 
 
@@ -86,7 +86,7 @@ These resources are intended to achieve the following objectives:
 
 <hr>
 
-#### 7. U.S. Digital Services Playbook
+### 7. U.S. Digital Services Playbook
 
 The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
 

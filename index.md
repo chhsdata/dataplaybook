@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![California Health and Human Services Agency Data Playbook - 1st Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 1st Edition")
+![California Health and Human Services Agency Data Playbook - 1st Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook")
 
 ## Five plays for your department
 
