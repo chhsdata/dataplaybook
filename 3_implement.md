@@ -53,7 +53,7 @@ The goals of data sharing at CHHS are to:
 * Standardize data use agreements among CHHS departments and offices
 * Reduce contracting and data use agreement redundancies
 
-See the CHHS Data Exchange Agreement, Business Use Case Proposal, and related data sharing materials [in the Resource Library]({{ site.baseurl }}/resource_library/#datasharing "CHHS Data Sharing Framework").
+See the CHHS Data Exchange Agreement, Business Use Case Proposal, and related data sharing materials [in the Resource Library]({{ site.baseurl }}/resource_library#datasharing "CHHS Data Sharing Framework").
 
 [![CHHS Governance Resources]({{ site.baseurl }}/assets/images/03_figure04.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 

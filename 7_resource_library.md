@@ -8,8 +8,6 @@ permalink: /resource_library/
 <hr>
 #### 1. CHHS Information Strategic Plan
 
-[link](#head5)
-
 [CHHS manages a diverse portfolio](http://www.chhs.ca.gov/Pages/Home.aspx "CHHS.ca.gov"){:target="_blank"} of programs and technical infrastructure that requires a complex level of management, operational capabilities and vendor support to effectively meet the expectations of its clients and stakeholders. Aligning the programmatic and operational strategies of the Agency and its departments is an immense undertaking, considering: 
 
 * The scope and complexity of CHHS programs and initiatives; 
@@ -33,7 +31,7 @@ The handbook focuses on general guidelines and thoughtful processes but also pro
 
 <hr>
 
-#### 3. <a name="datasharing"></a>CHHS Data Sharing Framework
+#### <a name="datasharing"></a>3. CHHS Data Sharing Framework
 
 Data sharing at CHHS is governed by the CHHS data exchange agreement and the associated business use case proposal process. The CHHS Data Exchange Agreement is bifurcated into two parts—one master agreement with general legal boilerplate language and subordinate "Business Use Case Proposals" containing the specific business case to document each data exchange under the master agreement. The Business Use Case Proposal includes information such as data type, intended use, etc. The master agreement, when coupled with the Business Use Case Proposal, forms the complete, standardized, legally-compliant data sharing agreement.
 
