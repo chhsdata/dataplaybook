@@ -8,6 +8,8 @@ permalink: /resource_library/
 <hr>
 #### 1. CHHS Information Strategic Plan
 
+[link](#head5)
+
 [CHHS manages a diverse portfolio](http://www.chhs.ca.gov/Pages/Home.aspx "CHHS.ca.gov") of programs and technical infrastructure that requires a complex level of management, operational capabilities and vendor support to effectively meet the expectations of its clients and stakeholders. Aligning the programmatic and operational strategies of the Agency and its departments is an immense undertaking, considering: 
 
 * The scope and complexity of CHHS programs and initiatives; 
@@ -57,11 +59,12 @@ The CHHS Data De-Identification Guidelines are focused on the assessment of aggr
 
 <hr>
 
-#### 5. Select Public Data Resources
+#### <a name="head5"></a>5. Select Public Data Resources
 
 Public data resources are available from a number of online sources, including the federal government and non-profit organizations. Following is a partial list of select data resources that can help contribute to data projects and analyses.
 
-* [USAFacts.org](http://usafacts.org/ "USAFacts.org") – A data-driven portrait of the American population, our government’s finances, and government’s impact on society that uses federal, state, and local data from over 70 sources.
+* [USAFacts.org](http://usafacts.org/ "USAFacts.org"){:target="_blank"} – A data-driven portrait of the American population, our government’s finances, and government’s impact on society that uses federal, state, and local data from over 70 sources.
+* <a href="https://healthdata.gov" title="Healthdata.gov" target="_blank">Healthdata.gov</a>
 * [Healthdata.gov](https://www.healthdata.gov/ "Healthdata.gov") – Dedicated to making high value health data more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.
 * [CIA World Fact Book](https://www.cia.gov/library/publications/the-world-factbook/ "CIA World Fact Book") - Provides information on the history, people, government, economy, geography, communications, transportation, military, and transnational issues for 267 world entities.
 * [openFDA](https://open.fda.gov/ "openFDA") – Makes it easier to get access to publicly available FDA data. FDA’s goal is to make it simple for an application, mobile device, web developer, or researcher to use data from the FDA.
