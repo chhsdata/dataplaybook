@@ -2,9 +2,9 @@
 layout: default
 title: Home
 ---
-![California Health and Human Services Agency Data Playbook - 1st Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook")
+![California Health and Human Services Agency Data Playbook - 2nd Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 2nd Edition")
 
-## Five plays for your department
+## Five plays for your Department
 
 Here are five plays designed to help Departments utilize data to inform program and policy development. These plays can also be used to navigate CHHS Governance processes. Each section features detailed best practices. 
 

@@ -34,9 +34,9 @@ The **Data Management Resources** will include resources on: data access and pub
 
 ### CHHS Data De-Identification
  
-CHHS collects, manages and disseminates a wide range of data.  As departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee commissioned the development of Agency-wide guidelines to assist departments in assessing data for public release. 
+CHHS collects, manages and disseminates a wide range of data.  As Departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee commissioned the development of Agency-wide guidelines to assist Departments in assessing data for public release. 
 
-The [CHHS Data De-Identification Guidelines]({{ site.baseurl }}/resource_library#datade-id "CHHS Data De-Identification Guidelines") support CHHS governance goals to reduce inconsistency of practices across departments, align standards used across departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the [CHHS Open Data Portal](https://data.chhs.ca.gov/ "CHHS Open Data Portal"){:target="_blank"}. 
+The [CHHS Data De-Identification Guidelines]({{ site.baseurl }}/resource_library#datade-id "CHHS Data De-Identification Guidelines") support CHHS governance goals to reduce inconsistency of practices across Departments, align standards used across Departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the [CHHS Open Data Portal](https://data.chhs.ca.gov/ "CHHS Open Data Portal"){:target="_blank"}. 
 
 See the full guidelines [in the Resource Library]({{ site.baseurl }}/resource_library#datade-id "CHHS Data De-Identification Guidelines").
 
@@ -50,7 +50,7 @@ The goals of data sharing at CHHS are to:
 * Maximize appropriate sharing to increase positive outcomes and customer service
 * Ensure privacy and security protections
 * Reduce risk and use of duplicative resources
-* Standardize data use agreements among CHHS departments and offices
+* Standardize data use agreements among CHHS Departments and offices
 * Reduce contracting and data use agreement redundancies
 
 See the CHHS Data Exchange Agreement, Business Use Case Proposal, and related data sharing materials [in the Resource Library]({{ site.baseurl }}/resource_library#datasharing "CHHS Data Sharing Framework").
