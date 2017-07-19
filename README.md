@@ -41,4 +41,9 @@
     <td>October 2016</td>
     <td>Added CHHS De-Identification Guidelines</td>
   </tr>
+  <tr>
+    <td>2.0</td>
+    <td>July 2017</td>
+    <td>Added CHHS sharing materials, other resources</td>
+  </tr>
 </table> 
