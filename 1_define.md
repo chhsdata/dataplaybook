@@ -34,7 +34,9 @@ This Play helps Departments develop a use case; define the customer/stakeholder 
 
 This Play can also help Departments navigate the Stage 1 Business Analysis.
 
-<center>![Stage 1 Business Analysis]({{ site.baseurl }}/assets/images/01_figure03.png "Stage 1 Business Analysis")</center>
+<center>
+![Stage 1 Business Analysis]({{ site.baseurl }}/assets/images/01_figure03.png "Stage 1 Business Analysis")
+</center>
 
 Consider [creating a Logic Model](https://www.practicalplaybook.org/resources/develop-logic-model){:target="_blank"} to demonstrate how a program achieves an intended outcome or impact and where data-driven interventions can further program goals.
 
