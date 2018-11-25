@@ -130,9 +130,9 @@ There are a number of training resources available from reputable governmental a
   * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202){:target="_blank"} **·** [Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters)){:target="_blank"} **·** <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)" target="_blank">Formulas</a>
   * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203){:target="_blank"}
 * Tableau Business Intelligence and Analytics – Training to help your work with Tableau Desktop and other Tableau tools.
-  * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm){:target="_blank"}. **Provided by:** Tableau.com.
-  * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html){:target="_blank"}. **Provided by:** Lynda.com.
-  * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/){:target="_blank"}. **Provided by:** Coursera.
+  * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm){:target="_blank"}. **Provided by:** Tableau.com
+  * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html){:target="_blank"}. **Provided by:** Lynda.com
+  * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/){:target="_blank"}. **Provided by:** Coursera
 
 
 <hr>

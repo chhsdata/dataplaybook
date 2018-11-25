@@ -17,9 +17,7 @@ The [MIT Center for Civic Media developed a guide](https://datatherapy.org/activ
 
 >**How do we share lessons learned and create a feedback loop?**
 
-<p align="center">
 [![Storyboard]({{ site.baseurl }}/assets/images/05_figure02.png "Storyboard")](https://letsgethealthy.ca.gov/)
-</p>
 
 **Documentation** – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.
 
