@@ -28,7 +28,7 @@ The evolution of technology has provided CHHS, its Departments, local government
 
 [Download the Strategic Plan]({{ site.baseurl }}/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf "CHHS Information Strategic Plan"){:target="_blank"}
 
-[Download the Master Data Management (MDM) Strategy Addendum to the Strategic Plan]({{ site.baseurl }}/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy"){:target="_blank"}
+[Download the Master Data Management (MDM) Strategy Addendum]({{ site.baseurl }}/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy"){:target="_blank"}
 
 <hr>
 
@@ -128,7 +128,7 @@ There are a number of training resources available from reputable governmental a
 * Microsoft Excel – Training to help you create, format, and analyze Excel data tables. **Provided by:** CalHR
   * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201){:target="_blank"}
   * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202){:target="_blank"} · [Level 2 Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters)){:target="_blank"} · <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)" target="_blank">Level 2 Formulas</a>
-  * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
+  * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203){:target="_blank"}
 * Tableau Business Intelligence and Analytics – Training to help your work with Tableau Desktop and other Tableau tools.
   * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm){:target="_blank"}. **Provided by:** Tableau.com.
   * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html){:target="_blank"}. **Provided by:** Lynda.com.
