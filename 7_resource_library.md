@@ -51,11 +51,11 @@ Contact your Department’s data coordinator for information on how to find and 
 
 Download the data sharing materials:
 
-* [CHHS Data Sharing - Process Flow](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/datasharing/CHHS%20Data%20Sharing%20-%20Process%20Flow.pdf "CHHS Data Sharing - Process Flow")
-* [CHHS Data Sharing - Legal Agreement](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/datasharing/CHHS%20Data%20Sharing%20-%20Legal%20Agreement.pdf "CHHS Data Sharing - Legal Agreement")
-* [CHHS Data Sharing - Frequently Asked Questions (FAQs)](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/datasharing/CHHS%20Data%20Sharing%20-%20FAQs.pdf "CHHS Data Sharing - Frequently Asked Questions (FAQs)")
-* [Business Use Case Proposal - Form](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx "Business Use Case Proposal - Form")
-* [Business Use Case Proposal - Instructions](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf "Business Use Case Proposal - Instructions")
+* [CHHS Data Sharing - Process Flow]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20Process%20Flow.pdf "CHHS Data Sharing - Process Flow"){:target="_blank"}
+* [CHHS Data Sharing - Legal Agreement]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20Legal%20Agreement.pdf "CHHS Data Sharing - Legal Agreement"){:target="_blank"}
+* [CHHS Data Sharing - Frequently Asked Questions (FAQs)]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20FAQs.pdf "CHHS Data Sharing - Frequently Asked Questions (FAQs)"){:target="_blank"}
+* [Business Use Case Proposal - Form]({{ site.baseurl }}/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx "Business Use Case Proposal - Form"){:target="_blank"}
+* [Business Use Case Proposal - Instructions]({{ site.baseurl }}/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf "Business Use Case Proposal - Instructions"){:target="_blank"}
 
 <hr>
 
@@ -65,7 +65,7 @@ The CHHS Data De-Identification Guidelines describe a procedure to be used by De
 
 The CHHS Data De-Identification Guidelines are focused on the assessment of aggregate or summary data for purposes of de-identification and public release. Aggregate data means collective data that relates to a group or category of services or individuals. The aggregate data may be shown in table form as counts, percentages, rates, averages, or other statistical groupings.
 
-[Download the Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines")
+[Download the Guidelines]({{ site.baseurl }}/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines"){:target="_blank"}
 
 <hr>
 
