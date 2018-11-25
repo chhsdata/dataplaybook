@@ -26,9 +26,9 @@ permalink: /resource_library/
 
 The evolution of technology has provided CHHS, its Departments, local government partners and providers with a unique opportunity to transform the operational paradigm from one focused on the autonomy of individual Departments or programs to one governed in a way that maximizes benefit to the Agency as a community. This convergence of business and technology, when coordinated and managed appropriately, will better enable more client-centric services, more efficient programmatic execution and better fiscal responsibility. The Agency strives to provide a strategic direction that will evolve the manner in which stakeholders within the Agency collaborate to drive better informed investment decisions, resulting in a more effective utilization of assets and human capital. As the costs and risks of technology have grown, the necessity for a more effective approach to the management of these expensive and critical systems has become a focal point of both the state and the federal government. 
 
-[Download the Strategic Plan](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf "CHHS Information Strategic Plan")
+[Download the Strategic Plan]({{ site.baseurl }}/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf "CHHS Information Strategic Plan"){:target="_blank"}
 
-[Download the Master Data Management (MDM) Strategy Addendum to the Strategic Plan](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy")
+[Download the Master Data Management (MDM) Strategy Addendum to the Strategic Plan]({{ site.baseurl }}/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy"){:target="_blank"}
 
 <hr>
 
@@ -122,17 +122,17 @@ The Digital Services Playbook identifies a series of “plays” drawn from succ
 ### 8. <a name="trainingresources"></a>Select Training Resources
 
 There are a number of training resources available from reputable governmental and non-governmental sources. Following is a partial list of select training resources that can help contribute to data projects and analyses.
-* [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results) – Data analysis is the process of describing and interpreting quantitative information. This introductory seminar will guide students through the three basic steps involved in conducting research: collecting data, analyzing data, and reporting the results. **Provided by:** CalHR
-* [How to Lead with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=How%20to%20Lead%20with%20Data) – As government leaders, we all know that we need to do more to take advantage of the power of data to improve the communities we serve. One of the biggest challenges to realizing this goal is to understand how government leaders value data in advancing strategic priorities, optimizing operations, and building trust with their customers. **Provided by:** CalHR
-* [Communicating with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Communicating%20with%20Data) – This course will help you present numerical data to managers, decision makers, or the general public so they can readily understand the data. You will learn concepts, conventions, and mechanics behind the effective use of tables, charts, and graphs. **Provided by:** CalHR
+* [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results){:target="_blank"} – Data analysis is the process of describing and interpreting quantitative information. This introductory seminar will guide students through the three basic steps involved in conducting research: collecting data, analyzing data, and reporting the results. **Provided by:** CalHR
+* [How to Lead with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=How%20to%20Lead%20with%20Data){:target="_blank"} – As government leaders, we all know that we need to do more to take advantage of the power of data to improve the communities we serve. One of the biggest challenges to realizing this goal is to understand how government leaders value data in advancing strategic priorities, optimizing operations, and building trust with their customers. **Provided by:** CalHR
+* [Communicating with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Communicating%20with%20Data){:target="_blank"} – This course will help you present numerical data to managers, decision makers, or the general public so they can readily understand the data. You will learn concepts, conventions, and mechanics behind the effective use of tables, charts, and graphs. **Provided by:** CalHR
 * Microsoft Excel – Training to help you create, format, and analyze Excel data tables. **Provided by:** CalHR
-  * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201)
-  * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202) · [Level 2 Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters))  · <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)">Level 2 Formulas</a>
+  * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201){:target="_blank"}
+  * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202){:target="_blank"} · [Level 2 Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters)){:target="_blank"} · <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)" target="_blank">Level 2 Formulas</a>
   * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
 * Tableau Business Intelligence and Analytics – Training to help your work with Tableau Desktop and other Tableau tools.
-  * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). **Provided by:** Tableau.com.
-  * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). **Provided by:** Lynda.com.
-  * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). **Provided by:** Coursera.
+  * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm){:target="_blank"}. **Provided by:** Tableau.com.
+  * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html){:target="_blank"}. **Provided by:** Lynda.com.
+  * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/){:target="_blank"}. **Provided by:** Coursera.
 
 
 <hr>
@@ -140,11 +140,11 @@ There are a number of training resources available from reputable governmental a
 ### 9. <a name="technicalresources"></a>Select Technical Resources
 
 There are a number of technical resources available from reputable governmental and non-governmental sources. Following is a partial list of select technical resources that can help contribute to data projects and analyses.
-* [databasic.io](https://databasic.io/) – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
-* [D3.js](https://d3js.org/) – Data-Driven Documents D3 is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
-* [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) – A library of different information visualization types, how each method works and what it is best suited for.
-* [Vega](https://vega.github.io/vega/) – A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format and generate web-based views using Canvas or SVG.
-* [Color Contrast Grid](http://contrast-grid.eightshapes.com/) – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.  
+* [databasic.io](https://databasic.io/){:target="_blank"} – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
+* [D3.js](https://d3js.org/){:target="_blank"} – Data-Driven Documents D3 is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+* [Data Visualization Catalogue](https://datavizcatalogue.com/index.html){:target="_blank"} – A library of different information visualization types, how each method works and what it is best suited for.
+* [Vega](https://vega.github.io/vega/){:target="_blank"} – A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format and generate web-based views using Canvas or SVG.
+* [Color Contrast Grid](http://contrast-grid.eightshapes.com/){:target="_blank"} – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.  
 
 <hr>
 

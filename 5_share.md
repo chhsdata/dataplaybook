@@ -11,7 +11,7 @@ It will be important to recognize that we will have successes and failures and i
 
 **Storyboard** – Create a data story to share the results of your data project. Think about how your data analysis contributes to your Department or program missions and goals.  Create or leverage a Department mailing list to get the word out.
 
-The [MIT Center for Civic Media developed a guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories. [Access the "finding a story" worksheet](https://datatherapy.files.wordpress.com/2014/07/finding-a-story-worksheets-v1-1.pdf).
+The [MIT Center for Civic Media developed a guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/){:target="_blank"} for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories. [Access the "finding a story" worksheet](https://datatherapy.files.wordpress.com/2014/07/finding-a-story-worksheets-v1-1.pdf){:target="_blank"}.
 
 **Meetings and Showcases** – Don’t underestimate the power of leveraging the people network. Organize a “data showcase” for your team, or participate in one of emerging across the Agency. Use these events to build a shared understanding of data, celebrate successes, and learn from your peers.
 
@@ -31,7 +31,7 @@ There’s an opportunity to use this documentation to build a repository of Agen
 
 Many think of data in terms of large reports with many charts and graphs, but we can’t expect all audiences to digest long reports. It’s better to offer increasingly deeper levels of detail. For example, lead with an impactful figure or statistics to entice the reader. Then, offer a single graph or short fact sheet with more detail. You can further link the audience to a full report or interactive visualization.
 
-Use a text analyzer tool, such as [the Hemingway Editor App](http://www.hemingwayapp.com/), to ensure your narrative is impactful, clear, and tailored for your audience. Be sure to also consider your product’s accessibility to a wide array of users.
+Use a text analyzer tool, such as [the Hemingway Editor App](http://www.hemingwayapp.com/){:target="_blank"}, to ensure your narrative is impactful, clear, and tailored for your audience. Be sure to also consider your product’s accessibility to a wide array of users.
 
 [![CHHS Governance Resources]({{ site.baseurl }}/assets/images/05_figure04.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 

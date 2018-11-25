@@ -36,7 +36,7 @@ This Play can also help Departments navigate the Stage 1 Business Analysis.
 
 ![Stage 1 Business Analysis]({{ site.baseurl }}/assets/images/01_figure03.png "Stage 1 Business Analysis")
 
-Consider [creating a Logic Model](https://www.practicalplaybook.org/resources/develop-logic-model) to demonstrate how a program achieves an intended outcome or impact and where data-driven interventions can further program goals.
+Consider [creating a Logic Model](https://www.practicalplaybook.org/resources/develop-logic-model){:target="_blank"} to demonstrate how a program achieves an intended outcome or impact and where data-driven interventions can further program goals.
 
 There are dozens of ways each Department can use data, and the applications can seem endless. It will be important to pick one core mission problem, and then gradually build and grow programs based on lessons learned.
 
