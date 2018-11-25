@@ -5,18 +5,19 @@ permalink: /assess/
 ---
 ## Play 02. Assess: tools & capabilities
 
-This play will include a numeric score card that will assess a Department's current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions.
+This play focuses on assessing a Department’s current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions. The goal is to look at existing capabilities to address the problems or issues.
 
 * What data do you currently collect?
 * What technology can you leverage?
 * What data analytics tools do you have available within the Department or Agency?
 * What established processes can you leverage?
+* What are the training needs?
 
-The goal is to look at existing capabilities to address the problems or issues outlined.
-
-The capability assessment will help facilitate a conversation within the Department  to help catalog the various resources available in order to address the problems identified in the objective assessment.
+Identify staff development and training opportunities. See the Selected Training Resources in the Resource Library.
 
 >Assess the Department's readiness by **identifying the gaps and needs** in order to operationalize the data strategy.
+
+The capability assessment will help facilitate a conversation within the Department  to help catalog the various resources available in order to address the problems identified in the objective assessment.
 
 1. How do **programs or stakeholders** use data currently? What do they do with it? How do they use it to make decisions or produce products for external stakeholders?
 2. What are **limits** to either the data or the implementation solution?
@@ -25,9 +26,17 @@ The capability assessment will help facilitate a conversation within the Departm
 
 ![How do you assess readiness?]({{ site.baseurl }}/assets/images/02_figure01.png "How do you assess readiness?")
 
+Consider applying an existing data capacity framework to your Department.
+* [Strategic Use of Data Rubric](https://www.healthit.gov/playbook/) – A resource that provides direction and support to education organizations to transform their use of data. The rubric establishes a common language and framework to more clearly illustrate what effective data use at the system-level looks like.
+- The California Department of Public Health has adapted the data rubric to their needs. Download the Public Health data rubric here .
+* Analytics Capability Roadmap for Human Service Agencies – Helps assess current analytic capability and developing an analytic strategy to help meet their organizational objectives and measure outcomes across programs.
+* Roadmap to Capacity Building in Analytics – Provides information on (1) analytical capabilities required for successful analytical efforts, (2) skillsets as well as governance structures and change management processes for such efforts, and (3) practical examples of existing solutions across public and private health and human service sectors.
+
 >To give an even deeper look at these strategies, Departments share how they’ve put them to use in different scenarios and for different efforts.
 
 [![Action Item]({{ site.baseurl }}/assets/images/02_figure02.png "Action Item")]({{ site.baseurl }}/action_items)
+
+When looking for data, start with the [Open Data Portal Catalog](https://data.chhs.ca.gov/dataset/dataset-catalog/resource/2d60ad30-db63-43c8-a4b6-0861f27856ff) of public datasets available. You can use the [dataset priority scoring tool](https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Priority-Scoring-Template.xlsx) to inventory department data for your analysis.
 
 [![CHHS Governance Resources]({{ site.baseurl }}/assets/images/02_figure03.png "CHHS Governance Resources")]({{ site.baseurl }}/resource_library)
 

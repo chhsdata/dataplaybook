@@ -54,12 +54,20 @@ For example, the Playbook may be utilized as Departments are developing IT-relat
 
 The Playbook may be leveraged by program and budget staff in the development of Budget Change Concepts (BCCs) and Budget Change Proposals (BCPs). 
 
-The Playbook may be used  by program and legislative affairs staff in the development of Legislative Proposals  and/or Enrolled Bill Reports (EBRs). 
+The Playbook may be used  by program and legislative affairs staff in the development of Legislative Proposals and/or Enrolled Bill Reports (EBRs). 
 
 ![How do you leverage this tool?]({{ site.baseurl }}/assets/images/00_figure04.png "How do you leverage this tool?")
 
 >Departments should leverage this Playbook as a tool with existing processes to maximize impact.
 
+## Resources and More
+
+In addition to the five plays, the Playbook also includes action items, a resource library, and a list of CHHS Data-Driven Success Stories to help you tackle your data project. You can copy the Playbook on GitHub to make it your own and share it with your organization.
+
+- [Action Items]({{ site.baseurl }}/action_items/)
+- [Resource Library]]({{ site.baseurl }}/resouce_library/)
+- [Success Stories]({{ site.baseurl }}/success_stories/)
+- [GitHub Project](https://github.com/CHHSData/DataPlaybook)
 
 <!-- Pagination -->
 <div class="pagination">
