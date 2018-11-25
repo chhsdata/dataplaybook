@@ -15,7 +15,7 @@ By detailing all critical steps before starting the project, the Department can 
 
 The planning becomes proactive instead of reactive, which allows best practices to be used and ensures that energy and time are spent on implementing a high-quality, well‐thought‐out project rather than "putting out fires."
 
-<center>![Solutions]({{ site.baseurl }}/assets/images/03_figure01.png "Solutions")</center>
+<p align="center">![Solutions]({{ site.baseurl }}/assets/images/03_figure01.png "Solutions")</p>
 
 The planning and implementation processes will allow any person working on the project, regardless of his or her level of involvement, to fully understand the goal of the project and how it is to be accomplished. It ensures that everyone working on the project is on the same page and that any discrepancies are resolved before they become costly to the project or population served.
 
