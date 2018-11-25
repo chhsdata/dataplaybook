@@ -5,7 +5,7 @@ permalink: /share/
 ---
 ## Play 05. Share: progress & results
 
-It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from those failures. 
+It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from both. 
 
 ![How do you share progress?]({{ site.baseurl }}/assets/images/05_figure03.png "How do you share progress?")
 

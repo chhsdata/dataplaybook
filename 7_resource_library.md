@@ -18,7 +18,7 @@ permalink: /resource_library/
 <hr>
 ### <a name="strategicplan"></a>1. CHHS Information Strategic Plan
 
-[CHHS manages a diverse portfolio](http://www.chhs.ca.gov/Pages/Home.aspx "CHHS.ca.gov"){:target="_blank"} of programs and technical infrastructure that requires a complex level of management, operational capabilities and vendor support to effectively meet the expectations of its clients and stakeholders. Aligning the programmatic and operational strategies of the Agency and its Departments is an immense undertaking, considering: 
+[CHHS manages a diverse portfolio](http://www.chhs.ca.gov/ "CHHS.ca.gov"){:target="_blank"} of programs and technical infrastructure that requires a complex level of management, operational capabilities and vendor support to effectively meet the expectations of its clients and stakeholders. Aligning the programmatic and operational strategies of the Agency and its Departments is an immense undertaking, considering: 
 
 * The scope and complexity of CHHS programs and initiatives; 
 * The diversity of project management and technical expertise amongst Departments; and 
@@ -28,7 +28,7 @@ The evolution of technology has provided CHHS, its Departments, local government
 
 [Download the Strategic Plan](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf "CHHS Information Strategic Plan")
 
-Download the Master Data Management (MDM) Strategy Addendum to the Strategic Plan
+[Download the Master Data Management (MDM) Strategy Addendum to the Strategic Plan](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy")
 
 <hr>
 
@@ -45,7 +45,7 @@ The handbook focuses on general guidelines and thoughtful processes but also pro
 
 ### <a name="datasharing"></a>3. CHHS Data Sharing Framework
 
-Data sharing at CHHS is governed by the CHHS data exchange agreement and the associated business use case proposal process. The CHHS Data Exchange Agreement is bifurcated into two parts—one master agreement with general legal boilerplate language and subordinate "Business Use Case Proposals" containing the specific business case to document each data exchange under the master agreement. The Business Use Case Proposal includes information such as data type, intended use, etc. The master agreement, when coupled with the Business Use Case Proposal, forms the complete, standardized, legally-compliant data sharing agreement.
+Data sharing at CHHS is governed by the CHHS data exchange agreement. The CHHS Data Exchange Agreement is bifurcated into two parts—one master agreement with general legal boilerplate language and subordinate "Business Use Case Proposals" containing the specific business case to document each data exchange under the master agreement. The Business Use Case Proposal includes information such as data elements, intended use, etc. The master agreement, when coupled with the Business Use Case Proposal, forms the complete, standardized, legally-compliant data sharing agreement.
 
 Contact your Department’s data coordinator for information on how to find and exchange CHHS data.
 
@@ -125,14 +125,14 @@ There are a number of training resources available from reputable governmental a
 * [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results) – Data analysis is the process of describing and interpreting quantitative information. This introductory seminar will guide students through the three basic steps involved in conducting research: collecting data, analyzing data, and reporting the results. **Provided by:** CalHR
 * [How to Lead with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=How%20to%20Lead%20with%20Data) – As government leaders, we all know that we need to do more to take advantage of the power of data to improve the communities we serve. One of the biggest challenges to realizing this goal is to understand how government leaders value data in advancing strategic priorities, optimizing operations, and building trust with their customers. **Provided by:** CalHR
 * [Communicating with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Communicating%20with%20Data) – This course will help you present numerical data to managers, decision makers, or the general public so they can readily understand the data. You will learn concepts, conventions, and mechanics behind the effective use of tables, charts, and graphs. **Provided by:** CalHR
-* Microsoft Excel – Training to help you create, format, and analyze Excel data tables. Provided by: CalHR
-- [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201)
-- [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202) · [Level 2 Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters))  · <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)">Level 2 Formulas</a>
-- [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
+* Microsoft Excel – Training to help you create, format, and analyze Excel data tables. **Provided by:** CalHR
+  * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201)
+  * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202) · [Level 2 Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters))  · <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)">Level 2 Formulas</a>
+  * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
 * Tableau Business Intelligence and Analytics – Training to help your work with Tableau Desktop and other Tableau tools.
-- [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). **Provided by:** Tableau.com.
-- [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). **Provided by:** Lynda.com.
-- [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). **Provided by:** Coursera.
+  * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). **Provided by:** Tableau.com.
+  * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). **Provided by:** Lynda.com.
+  * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). **Provided by:** Coursera.
 
 
 <hr>
@@ -151,5 +151,5 @@ There are a number of technical resources available from reputable governmental 
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/action_items">&laquo; Prev</a>
-  <span class="pagination-item newer">Next &raquo;</span>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/success_stories">Next &raquo;</a>
 </div>

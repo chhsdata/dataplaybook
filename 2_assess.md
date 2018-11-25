@@ -28,9 +28,9 @@ The capability assessment will help facilitate a conversation within the Departm
 
 Consider applying an existing data capacity framework to your Department.
 * [Strategic Use of Data Rubric](https://www.healthit.gov/playbook/) – A resource that provides direction and support to education organizations to transform their use of data. The rubric establishes a common language and framework to more clearly illustrate what effective data use at the system-level looks like.
-- The California Department of Public Health has adapted the data rubric to their needs. Download the Public Health data rubric here .
-* Analytics Capability Roadmap for Human Service Agencies – Helps assess current analytic capability and developing an analytic strategy to help meet their organizational objectives and measure outcomes across programs.
-* Roadmap to Capacity Building in Analytics – Provides information on (1) analytical capabilities required for successful analytical efforts, (2) skillsets as well as governance structures and change management processes for such efforts, and (3) practical examples of existing solutions across public and private health and human service sectors.
+- The California Department of Public Health has adapted the data rubric to their needs. [Download the Public Health data rubric here](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/Public-Health-Strategic-Use-of-Data-Rubric-09-04-18.docx).
+* [Analytics Capability Roadmap for Human Service Agencies](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) – Helps assess current analytic capability and developing an analytic strategy to help meet their organizational objectives and measure outcomes across programs.
+* [Roadmap to Capacity Building in Analytics](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf) – Provides information on (1) analytical capabilities required for successful analytical efforts, (2) skillsets as well as governance structures and change management processes for such efforts, and (3) practical examples of existing solutions across public and private health and human service sectors.
 
 >To give an even deeper look at these strategies, Departments share how they’ve put them to use in different scenarios and for different efforts.
 

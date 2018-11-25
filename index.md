@@ -65,7 +65,7 @@ The Playbook may be used  by program and legislative affairs staff in the develo
 In addition to the five plays, the Playbook also includes action items, a resource library, and a list of CHHS Data-Driven Success Stories to help you tackle your data project. You can copy the Playbook on GitHub to make it your own and share it with your organization.
 
 - [Action Items]({{ site.baseurl }}/action_items/)
-- [Resource Library]]({{ site.baseurl }}/resouce_library/)
+- [Resource Library]]({{ site.baseurl }}/resource_library/)
 - [Success Stories]({{ site.baseurl }}/success_stories/)
 - [GitHub Project](https://github.com/CHHSData/DataPlaybook)
 
