@@ -69,6 +69,9 @@ In addition to the five plays, the Playbook also includes action items, a resour
 - [Success Stories]({{ site.baseurl }}/success_stories/)
 - [GitHub Project](https://github.com/CHHSData/DataPlaybook)
 
+
+If you need help accessing any of the materials in the Playbook, please contact <dataplaybook@chhs.ca.gov>.
+
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
