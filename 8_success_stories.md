@@ -8,7 +8,7 @@ CHHS Data-Driven Success Stories demonstrate how we leverage data and technology
 <br>
 ### <a name="recordreconciliation"></a>Linking Records to Improve Cross-Program Experiences
 
-CHHS Secretary Mike Wilkening and USC researcher Emily Putnam-Hornstein discuss the Record Reconciliation Project at the 2018 Data Expo. The goal of this project is to link and organize administrative, client-level records to improve statistical analysis of CHHS clients. This CHHS-USC collaboration is helping to break down program siloes and create a more holistic view of clients and their cross-program experiences.
+Former CHHS Secretary Mike Wilkening and USC researcher Emily Putnam-Hornstein discuss the Record Reconciliation Project at the 2018 Data Expo. The goal of this project is to link and organize administrative, client-level records to improve statistical analysis of CHHS clients. This CHHS-USC collaboration is helping to break down program siloes and create a more holistic view of clients and their cross-program experiences.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/smJIc6yrJas" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
