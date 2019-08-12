@@ -10,10 +10,9 @@ permalink: /resource_library/
 3. [CHHS Data Sharing Framework](#datasharing "CHHS Data Sharing Framework")
 4. [CHHS Data De-Identification Guidelines](#datade-id "CHHS Data De-Identification Guidelines")
 5. [Select Public Data Resources](#publicdataresources "Select Public Data Resources")
-6. [Project and Program Management Toolkit](#projecttoolkit "Project and Program Management Toolkit")
-7. [U.S. Digital Services Playbook](#USDSplaybook "U.S. Digital Services Playbook")
-8. [Select Training Resources](#trainingresources "Select Training Resources")
-9. [Select Technical Resources](#technicalresources "Select Technical Resources")
+6. [U.S. Digital Services Playbook](#USDSplaybook "U.S. Digital Services Playbook")
+7. [Select Training Resources](#trainingresources "Select Training Resources")
+8. [Select Technical Resources](#technicalresources "Select Technical Resources")
 
 <hr>
 ### <a name="strategicplan"></a>1. CHHS Information Strategic Plan
@@ -84,30 +83,7 @@ Public data resources are available from a number of online sources, including t
 
 <hr>
 
-### 6. <a name="projecttoolkit"></a>Project and Program Management Toolkit
-
-The [California Government Operations Agency](https://www.govops.ca.gov/departments/ "California Government Operations Agency"){:target="_blank"} has developed resources to guide, support, and integrate innovation and drive continuous improvement. The resources were developed using the “Lean” concept. Lean is a continuous improvement methodology based on five key principles to eliminate waste and increase value, designed to improve processes and quality from the point of view of the customer. Lean, refined over decades in the manufacturing and service sectors, offers a simple but highly effective system that can be implemented in all areas of an organization using the expertise of the organization’s own employees. 
-
-These resources are intended to achieve the following objectives:
-
-* Continuous improvement as a standard practice and expectation for improving organizational performance.
-* Standardization of business process improvement methodologies, training and resources across departments.
-* Managers and employees see themselves as partners in continuous improvement.
-* Contribute to the recruitment, development and retention of California state employees at all levels.
-
-Download select [toolkit materials](https://www.govops.ca.gov/eureka/ "Project and Program Management Toolkit"){:target="_blank"}:
-
-* [5 Principles of Lean](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/5-Principles-of-Lean.pdf "5 Principles of Lean"){:target="_blank"}
-* [PDCA – Problem Solving Method](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/PDCA.pdf "PDCA – Problem Solving Method"){:target="_blank"}
-* [A3 Problem Solving Guide](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/A3-Guide.pdf "A3 Problem Solving Guide"){:target="_blank"}
-* [A3 Instructions and Blank Template](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/A3-Instructions-Template-11x17.pptx "A3 Instructions and Blank Template")
-* [Root Cause Analysis/Five Whys – Inspire Thoughtful Questioning](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Root-Cause-Analysis.pdf "Root Cause Analysis/Five Whys – Inspire Thoughtful Questioning"){:target="_blank"}
-* [Metrics Reference Guide](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/Lean-Metrics-Reference-Guide.pdf "Metrics Reference Guide"){:target="_blank"}
-* [Metrics Reporting Tool](https://www.govops.ca.gov/wp-content/uploads/sites/11/2017/04/California-Lean-Results-Report.pdf "Metrics Reporting Tool"){:target="_blank"}
-
-<hr>
-
-### 7. <a name="USDSplaybook"></a>U.S. Digital Services Playbook
+### 6. <a name="USDSplaybook"></a>U.S. Digital Services Playbook
 
 The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
 
@@ -119,7 +95,7 @@ The Digital Services Playbook identifies a series of “plays” drawn from succ
 
 <hr>
 
-### 8. <a name="trainingresources"></a>Select Training Resources
+### 7. <a name="trainingresources"></a>Select Training Resources
 
 There are a number of training resources available from reputable governmental and non-governmental sources. Following is a partial list of select training resources that can help contribute to data projects and analyses.
 * [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results){:target="_blank"} – Data analysis is the process of describing and interpreting quantitative information. This introductory seminar will guide students through the three basic steps involved in conducting research: collecting data, analyzing data, and reporting the results. **Provided by:** CalHR
@@ -137,7 +113,7 @@ There are a number of training resources available from reputable governmental a
 
 <hr>
 
-### 9. <a name="technicalresources"></a>Select Technical Resources
+### 8. <a name="technicalresources"></a>Select Technical Resources
 
 There are a number of technical resources available from reputable governmental and non-governmental sources. Following is a partial list of select technical resources that can help contribute to data projects and analyses.
 * [databasic.io](https://databasic.io/){:target="_blank"} – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
