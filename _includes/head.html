@@ -21,4 +21,10 @@
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico">
+  
+  <!-- Google Analytics -->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+  
 </head>
