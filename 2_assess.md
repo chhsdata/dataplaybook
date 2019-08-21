@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2. Assess
-permalink: assess
+permalink: /assess/
 ---
 ## Play 02. Assess: tools & capabilities
 
