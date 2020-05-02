@@ -4,18 +4,6 @@ title: Home
 ---
 ![California Health and Human Services Agency Data Playbook - 3rd Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 3rd Edition")
 
-## Five plays for your Department
-
-Here are five plays designed to help Departments utilize data to inform program and policy development. These plays can also be used to navigate CHHS Governance processes. Each section features detailed best practices. 
-
-A play contains data strategies, approaches and actions a Department may use to  administer programs and address policy issues.
-
-1. Define: goals & objectives
-2. Assess: tools & capabilities
-3. Implement: plan & strategy
-4. Evaluate: outcomes & impacts
-5. Share: progress & results
-
 ## Data changes everything
 
 >Our goal is to leverage our internal data to **improve the programs and services** we deliver to our clients.
@@ -45,6 +33,18 @@ The plays are intended for program and data analysts; budget analysts; procureme
 The Departments can help us identify additional users who may benefit from the Playbook. As we build a culture of data, we hope to not only focus on existing data consumers, but expand how staff across Agency utilize data in their day-to-day work.
 
 ![Leadership, Culture, Environment]({{ site.baseurl }}/assets/images/00_figure03.png "Leadership, Culture, Environment")
+
+## Five plays for your Department
+
+Here are five plays designed to help Departments utilize data to inform program and policy development. These plays can also be used to navigate CHHS Governance processes. Each section features detailed best practices. 
+
+A play contains data strategies, approaches and actions a Department may use to  administer programs and address policy issues.
+
+1. Define: goals & objectives
+2. Assess: tools & capabilities
+3. Implement: plan & strategy
+4. Evaluate: outcomes & impacts
+5. Share: progress & results
 
 ## When to use the Playbook
 

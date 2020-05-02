@@ -7,7 +7,7 @@ permalink: /share/
 
 It will be important to recognize that we will have successes and failures and it will be equally important to communicate our failures as much as our successes in order for us to learn from both. 
 
-![How do you share progress?]({{ site.baseurl }}/assets/images/05_figure03.png "How do you share progress?")
+[![Action Item]({{ site.baseurl }}/assets/images/05_figure01.png "Action Item")]({{ site.baseurl }}/action_items)
 
 **Storyboard** – Create a data story to share the results of your data project. Think about how your data analysis contributes to your Department or program missions and goals.  Create or leverage a Department mailing list to get the word out.
 
@@ -22,8 +22,6 @@ The [MIT Center for Civic Media developed a guide](https://datatherapy.org/activ
 **Documentation** – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.
 
 There’s an opportunity to use this documentation to build a repository of Agency data assets that captures the Agency’s “Information Architecture” for the most critical and valuable Agency data assets. Consider how the creation, maintenance, and sharing of such documentation can add to a greater Agency repository of resources.
-
-[![Action Item]({{ site.baseurl }}/assets/images/05_figure01.png "Action Item")]({{ site.baseurl }}/action_items)
 
 **Data Publication and Presentation** – Your Department or program may have an established visual and brand style that can provide greater credibility to your data analysis. Aspects such as color, font face, and citation format can add consistency.
 

@@ -5,6 +5,8 @@ description:      'CHHS Data Playbook'
 url:              'https://gellertnp.github.io/dataplaybook'
 baseurl:          'https://gellertnp.github.io/dataplaybook'
 
+markdown:         CommonMarkGhPages
+
 author:
   name:           'California Health and Human Services Agency'
   url:            https://twitter.com/chhsagency
