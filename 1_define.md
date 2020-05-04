@@ -5,7 +5,7 @@ permalink: /define/
 ---
 ## Play 01. Define: goals & objectives
 
-This play is focused on **Defining** what is the problem you are trying to solve. This Play provides frameworks to help **develop a use case**; **define the customer or stakeholder** who would benefit from implementing the use case; and **assess the impact after implementation**.
+This play is focused on **defining** what is the problem you are trying to solve. This Play provides frameworks to help **develop a use case**; **define the customer or stakeholder** who would benefit from implementing the use case; and **assess the impact after implementation**.
 
 ### How do you build a use case? 
 *Build a use case around a particular opportunity, issue or problem. This is Stage 1 Business Analysis.*
