@@ -3,7 +3,7 @@ layout: page
 title: 4. Evaluate
 permalink: /evaluate/
 ---
-## Play 04. Develop your Data Story
+## Play 04. Develop your Story
 
 The focus of this play is to learn how to document, tell, and visualize your data stories. 
 
@@ -15,7 +15,9 @@ There’s an opportunity to use this documentation to build a repository of Agen
 2. What is your data story?
 **Storyboard** – Create a data story to share the results of your data project. Think about how your data analysis contributes to your Department or program missions and goals.  Create or leverage a Department mailing list to get the word out.
 
->**Tool:**The MIT Center for Civic Media developed a [“Find a Story in Data” Activity Guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories.
+[![Storyboard]({{ site.baseurl }}/assets/images/05_figure02.png "Storyboard")](https://letsgethealthy.ca.gov/)
+
+>**Tool:** The MIT Center for Civic Media developed a [“Find a Story in Data” Activity Guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories.
 
 3.**Visualize your data story**
 The Select Technical Resources in the Resource Library provide four tools for visualizing your data. Consider using these resources to tell your data story. 
