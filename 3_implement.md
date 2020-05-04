@@ -1,5 +1,5 @@
 ---
-layout: page/Users/maxsutton/Desktop/19-20/dataplaybook/3_implement.md
+layout: page
 title: 3. Data Management
 permalink: /implement/
 ---
