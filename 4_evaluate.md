@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 4. Evaluate
+title: 4. Document
 permalink: /evaluate/
 ---
-## Play 04. Develop your Story
+## Play 04. Develop your Data Story
 
 The focus of this play is to learn how to document, tell, and visualize your data stories. 
 
