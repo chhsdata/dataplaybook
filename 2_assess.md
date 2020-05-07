@@ -6,6 +6,34 @@ permalink: /assess/
 ## Play 02. Assess: tools & capabilities
 
 This play focuses on assessing a Department’s current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions. The goal is to **address the gaps in current assets and capabilities.**
+
+Click the heading below to see a summary of this play.
+
+<details>
+  <summary style="font-size:18pt; font-weight: bold;">Toolkit Summary</summary>
+
+* Assess Current Assets and Capacities
+* Assess departmental readiness for analytics
+* Data Capacity Frameworks
+    * [Strategic Use of Data Rubric](https://sdp.cepr.harvard.edu/strategic-use-data-rubric/)
+    * [CA Public Health data rubric](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/Public-Health-Strategic-Use-of-Data-Rubric-09-04-18.docx).
+    * [Analytics Capability Roadmap for Human Service Agencies]({{ site.baseurl }}/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) 
+    * [Roadmap to Capacity Building in Analytics]({{ site.baseurl }}/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf)
+* Analytics Capacity Building
+      * [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results)
+    * [How to Lead with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=How%20to%20Lead%20with%20Data)
+    * [Communicating with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Communicating%20with%20Data) 
+    * Microsoft Excel – 
+      * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201)
+      * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202) **·** [Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters)) **·** <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)" target="_blank">Formulas</a>
+      * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
+    * Tableau Business Intelligence and Analytics – 
+      * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). 
+      * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). 
+      * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). 
+
+
+</details>
   
   ### 1. Assess Current Assets and Capacities
 

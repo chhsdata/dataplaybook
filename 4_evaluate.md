@@ -5,7 +5,23 @@ permalink: /evaluate/
 ---
 ## Play 04. Develop your Data Story
 
-The focus of this play is to learn how to document, tell, and visualize your data stories. 
+The focus of this play is to learn how to document, tell, and visualize your data stories.
+
+Click the heading below to see a summary of this play.
+
+<details>
+  <summary style="font-size:18pt; font-weight: bold;">Toolkit Summary</summary>
+
+  * [MIT “Find a Story in Data” Guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/)
+  * Information Architecture Assessment
+  * [Hemingway Editor App](http://www.hemingwayapp.com/)
+  * Select Technical resources:
+    * [D3.js (Data-Driven Documents D3)](https://d3js.org/)
+    * [Data Visualization Catalogue](https://datavizcatalogue.com/index.html)
+    * [Vega](https://vega.github.io/vega/)
+    * [Color Contrast Grid](http://contrast-grid.eightshapes.com/)
+
+</details> 
 
 1. **Document your Data**
 **Documentation** – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.

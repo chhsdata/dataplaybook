@@ -5,6 +5,23 @@ permalink: /implement/
 ---
 ## Play 03. Data Management: accessing and sharing data
 
+Click the heading below to see a summary of this play.
+
+<details>
+  <summary style="font-size:18pt; font-weight: bold;">Toolkit Summary</summary>
+
+* [Select Public Data Resources](https://chhsdata.github.io/dataplaybook/resource_library/#publicdataresources)
+   * [CHHS Open Data Portal](https://data.chhs.ca.gov/)
+* Dataset priority tool for data audit
+* [Data de-identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf)
+* [CHHS Data Exchange agreement](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS%20Data%20Sharing%20-%20Legal%20Agreement.pdf)
+   * [Process Flow](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS%20Data%20Sharing%20-%20Process%20Flow.pdf)
+* [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx)
+   * [Instructions](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf)
+
+
+</details>
+
 This play will provide you **resources to use best practices to access, share, and manage data appropriately.**
 
 ### 1. Identify and Gather

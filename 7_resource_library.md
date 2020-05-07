@@ -3,9 +3,11 @@ layout: page
 title: Resource Library
 permalink: /resource_library/
 ---
+Below you can explore different data resources. Click on each heading to expand the section and see more details.
+If you are looking for resources organized by play, check out the summaries included in the beginning of each play.
 
 <details>
-  <summary style="font-size:18pt;">INTERNAL CHHS STRATEGIES/GUIDELINES</summary>
+  <summary style="font-size:18pt; font-weight: bold;">Internal CHHS Strategies and Guidelines</summary>
 
   [CHHS Home Page](http://www.chhs.ca.gov/ "CHHS.ca.gov")
   The following resources were developed to support the diverse portfolio of programs and technical infrastructure that CHHS manages.
@@ -69,7 +71,7 @@ The CHHS Data De-Identification Guidelines are focused on the assessment of aggr
 </details>
 
 <details>
-  <summary style="font-size:18pt;">DATA SOURCES</summary>
+  <summary style="font-size:18pt; font-weight: bold;">Data Sources</summary>
 
 Public data resources are available from a number of online sources, including the federal government and non-profit organizations. Following is a partial list of select data resources that can help contribute to data projects and analyses.
 
@@ -86,7 +88,7 @@ Public data resources are available from a number of online sources, including t
 
 
 <details>
-  <summary style="font-size:18pt;">SKILL BUILDING</summary>
+  <summary style="font-size:18pt; font-weight: bold;">Skill Building</summary>
 
 There are a number of training resources available from reputable governmental and non-governmental sources. Following is a partial list of select training resources that can help contribute to data projects and analyses.
 * [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results) – Data analysis is the process of describing and interpreting quantitative information. This introductory seminar will guide students through the three basic steps involved in conducting research: collecting data, analyzing data, and reporting the results. **Provided by:** CalHR
@@ -100,11 +102,19 @@ There are a number of training resources available from reputable governmental a
   * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). **Provided by:** Tableau.com
   * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). **Provided by:** Lynda.com
   * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). **Provided by:** Coursera
+  * U.S. Digital Services Playbook
+[Access the Digital Services Playbook](https://playbook.cio.gov/ "U.S. Digital Services Playbook")
+
+The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
+
+One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work. [The US Digital Services (USDS)](https://www.usds.gov/ "United States Digital Service"){:target="_blank"} Playbook documents these best practices and processes.
+
+The Digital Services Playbook identifies a series of “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services. The plays outline an approach to delivering services that increases our ability to be flexible, iterative and, most importantly, to focus on the needs of the people that use our services.
 
 </details>
 
 <details>
-  <summary style="font-size:18pt;">ANALYSIS TOOLS</summary>
+  <summary style="font-size:18pt; font-weight: bold;">Analysis Tools</summary>
 
 There are a number of technical resources available from reputable governmental and non-governmental sources. Following is a partial list of select technical resources that can help contribute to data projects and analyses.
 * [databasic.io](https://databasic.io/) – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
@@ -113,17 +123,6 @@ There are a number of technical resources available from reputable governmental 
 * [Vega](https://vega.github.io/vega/) – A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format and generate web-based views using Canvas or SVG.
 * [Color Contrast Grid](http://contrast-grid.eightshapes.com/) – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.  
 </details>
-
-
-### 6. <a name="USDSplaybook"></a>U.S. Digital Services Playbook
-
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
-
-One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work. [The US Digital Services (USDS)](https://www.usds.gov/ "United States Digital Service"){:target="_blank"} Playbook documents these best practices and processes.
-
-The Digital Services Playbook identifies a series of “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services. The plays outline an approach to delivering services that increases our ability to be flexible, iterative and, most importantly, to focus on the needs of the people that use our services.
-
-[Access the Digital Services Playbook](https://playbook.cio.gov/ "U.S. Digital Services Playbook"){:target="_blank"}
 
 
 
