@@ -8,7 +8,6 @@ permalink: /evaluate/
 The focus of this play is to learn how to document, tell, and visualize your data stories.
 
 Click the heading below to see a summary of this play.
-
 <details>
   <summary style="font-size:18pt; font-weight: bold;">Toolkit Summary</summary>
 
@@ -22,6 +21,7 @@ Click the heading below to see a summary of this play.
     * [Color Contrast Grid](http://contrast-grid.eightshapes.com/)
 
 </details> 
+
 
 1. **Document your Data**
 **Documentation** – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.

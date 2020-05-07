@@ -8,7 +8,6 @@ permalink: /assess/
 This play focuses on assessing a Department’s current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions. The goal is to **address the gaps in current assets and capabilities.**
 
 Click the heading below to see a summary of this play.
-
 <details>
   <summary style="font-size:18pt; font-weight: bold;">Toolkit Summary</summary>
 

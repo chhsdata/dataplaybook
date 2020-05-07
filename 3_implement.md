@@ -6,7 +6,6 @@ permalink: /implement/
 ## Play 03. Data Management: accessing and sharing data
 
 Click the heading below to see a summary of this play.
-
 <details>
   <summary style="font-size:18pt; font-weight: bold;">Toolkit Summary</summary>
 
@@ -19,8 +18,8 @@ Click the heading below to see a summary of this play.
 * [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx)
    * [Instructions](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf)
 
-
 </details>
+
 
 This play will provide you **resources to use best practices to access, share, and manage data appropriately.**
 
