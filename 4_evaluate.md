@@ -20,22 +20,25 @@ Click the heading below to see a summary of this play.
     * [Vega](https://vega.github.io/vega/)
     * [Color Contrast Grid](http://contrast-grid.eightshapes.com/)
 
+
 </details> 
 
 
 1. **Document your Data**
-**Documentation** – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.
+
+Documentation – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.
 
 There’s an opportunity to use this documentation to build a repository of Agency data assets that captures the Agency’s “Information Architecture” for the most critical and valuable Agency data assets. Consider how the creation, maintenance, and sharing of such documentation can add to a greater Agency repository of resources.
 
-2. What is your data story?
-**Storyboard** – Create a data story to share the results of your data project. Think about how your data analysis contributes to your Department or program missions and goals.  Create or leverage a Department mailing list to get the word out.
+2. **What is your data story?**
 
-[![Storyboard]({{ site.baseurl }}/assets/images/05_figure02.png "Storyboard")](https://letsgethealthy.ca.gov/)
+Storyboard – Create a data story to share the results of your data project. Think about how your data analysis contributes to your Department or program missions and goals.  Create or leverage a Department mailing list to get the word out.
 
->**Tool:** The MIT Center for Civic Media developed a [“Find a Story in Data” Activity Guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories.
+>**Tool:** 
+>The MIT Center for Civic Media developed a [“Find a Story in Data” Activity Guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories.
 
 3.**Visualize your data story**
+
 The Select Technical Resources in the Resource Library provide four tools for visualizing your data. Consider using these resources to tell your data story. 
 
 * [databasic.io](https://databasic.io/) – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
@@ -45,6 +48,7 @@ The Select Technical Resources in the Resource Library provide four tools for vi
 * [Color Contrast Grid](http://contrast-grid.eightshapes.com/) – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.  
 
 4.**Consider the Audience**
+
 Consider the audience for the message of your data story. Is the audience the general public, a program manager, or a technician? What is their degree of data literacy? See Play 5 for ways to share your data story with different audiences.
 
 Many think of data in terms of large reports with many charts and graphs, but we can’t expect all audiences to digest long reports. It’s better to offer increasingly deeper levels of detail. For example, lead with an impactful figure or statistics to entice the reader. Then, offer a single graph or short fact sheet with more detail. You can further link the audience to a full report or interactive visualization.

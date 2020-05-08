@@ -20,9 +20,7 @@ The primary objective is to help Departments increase their efficiency and effec
 
 ## Playbook users
 
-![Use the Playbook throughout the data management lifecycle.]({{ site.baseurl }}/assets/images/00_figure02.png "Use the Playbook throughout the data management lifecycle.")
-
->Use the Playbook throughout the data management lifecycle
+Use the Playbook throughout the data management lifecycle
 
 The Playbook is designed with the analyst as the primary user. It will serve as a resource and a guide to help build the necessary skillsets within the existing workforce to not only think differently about data, but to proactively utilize data to improve the programs and services delivered. 
 
@@ -55,8 +53,6 @@ For example, the Playbook may be utilized as Departments are developing IT-relat
 The Playbook may be leveraged by program and budget staff in the development of Budget Change Concepts (BCCs) and Budget Change Proposals (BCPs). 
 
 The Playbook may be used  by program and legislative affairs staff in the development of Legislative Proposals and/or Enrolled Bill Reports (EBRs). 
-
-![How do you leverage this tool?]({{ site.baseurl }}/assets/images/00_figure04.png "How do you leverage this tool?")
 
 >Departments should leverage this Playbook as a tool with existing processes to maximize impact.
 

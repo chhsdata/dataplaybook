@@ -107,7 +107,7 @@ There are a number of training resources available from reputable governmental a
 
 The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
 
-One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work. [The US Digital Services (USDS)](https://www.usds.gov/ "United States Digital Service"){:target="_blank"} Playbook documents these best practices and processes.
+One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work. [The US Digital Services (USDS)](https://www.usds.gov/ "United States Digital Service") Playbook documents these best practices and processes.
 
 The Digital Services Playbook identifies a series of “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services. The plays outline an approach to delivering services that increases our ability to be flexible, iterative and, most importantly, to focus on the needs of the people that use our services.
 
