@@ -24,20 +24,20 @@ Click the heading below to see a summary of this play.
 </details> 
 
 
-###1. Document your Data
+### 1. Document your Data
 
 Documentation – The completion of an “Information Architecture Assessment” provides standard documentation about the characteristics, linkages, and dependencies of all the relevant data for each use case.
 
 There’s an opportunity to use this documentation to build a repository of Agency data assets that captures the Agency’s “Information Architecture” for the most critical and valuable Agency data assets. Consider how the creation, maintenance, and sharing of such documentation can add to a greater Agency repository of resources.
 
-###2. What is your data story?
+### 2. What is your data story?
 
 Storyboard – Create a data story to share the results of your data project. Think about how your data analysis contributes to your Department or program missions and goals.  Create or leverage a Department mailing list to get the word out.
 
 >**Tool:** 
 >The MIT Center for Civic Media developed a [“Find a Story in Data” Activity Guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) for finding and creating various types of data stories: connection, comparison, change, persona, and factoid stories.
 
-###3.Visualize your data story
+### 3.Visualize your data story
 
 The Select Technical Resources in the Resource Library provide four tools for visualizing your data. Consider using these resources to tell your data story. 
 
@@ -47,7 +47,7 @@ The Select Technical Resources in the Resource Library provide four tools for vi
 * [Vega](https://vega.github.io/vega/) – A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format and generate web-based views using Canvas or SVG.
 * [Color Contrast Grid](http://contrast-grid.eightshapes.com/) – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.  
 
-###4. Consider the Audience
+### 4. Consider the Audience
 
 Consider the audience for the message of your data story. Is the audience the general public, a program manager, or a technician? What is their degree of data literacy? See Play 5 for ways to share your data story with different audiences.
 
