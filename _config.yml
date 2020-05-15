@@ -12,10 +12,15 @@ author:
   url:            https://twitter.com/chhsagency
 
 # Custom vars
-version:          3.0 | November 2018
+version:          4.0 | May 2020
 
 github:
   repo:           https://github.com/gellertnp/DataPlaybook
 
 # Google Analytics
 google_analytics: UA-56144207-2
+
+#search
+tipue_search:
+  include:
+    pages: true
