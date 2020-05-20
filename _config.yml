@@ -19,8 +19,3 @@ github:
 
 # Google Analytics
 google_analytics: UA-56144207-2
-
-#search
-tipue_search:
-  include:
-    pages: true

@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 ![California Health and Human Services Agency Data Playbook - 3rd Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 3rd Edition")
-
 ## Data changes everything
 
 >Our goal is to leverage our internal data to **improve the programs and services** we deliver to our clients.
