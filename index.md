@@ -39,8 +39,8 @@ A play contains data strategies, approaches and actions a Department may use to 
 
 1. Define: goals & objectives
 2. Assess: tools & capabilities
-3. Implement: plan & strategy
-4. Evaluate: outcomes & impacts
+3. Data Management: plan & strategy
+4. Document: outcomes & impacts
 5. Share: progress & results
 
 ## When to use the Playbook
