@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 1. Define
-permalink: /define/
+title: 1. Plan
+permalink: /plan/
 ---
 
 ## Play 01. Define: goals & objectives
