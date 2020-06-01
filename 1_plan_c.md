@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Plan A: Find your Data 
+title: 1A: Find your Data 
 permalink: /plan_a_find/
 ---
-
 ## Planning Part C: Where to find your data
 
 

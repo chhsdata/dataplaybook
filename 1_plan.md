@@ -3,7 +3,6 @@ layout: page
 title: 1. Plan 
 permalink: /plan/
 ---
-
 ## Section 1: Planning for your Data Project
 
 ### Table of Contents:

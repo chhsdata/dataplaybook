@@ -1,81 +1,68 @@
 ---
 layout: page
-title: 2. Assess
+title: 2. Analyze
 permalink: /assess/
 ---
-## Play 02. Assess: tools & capabilities
+## Section 2: Analyzing Your Data
 
-This play focuses on assessing a Department’s current assets and capabilities—including technology and human resources–to leverage their data to help formulate program or policy solutions. The goal is to **address the gaps in current assets and capabilities.**
+## Part 1: Learning Resources
 
-Click the heading below to see a summary of this play.
-<details>
-  <summary style="font-size:18pt; font-weight: bold;">Toolkit Summary</summary>
+### Is my Data Cleaned?
 
-* Assess Current Assets and Capacities
-* Assess departmental readiness for analytics
-* Data Capacity Frameworks
-    * [Strategic Use of Data Rubric](https://sdp.cepr.harvard.edu/strategic-use-data-rubric/)
-    * [CA Public Health data rubric](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/Public-Health-Strategic-Use-of-Data-Rubric-09-04-18.docx).
-    * [Analytics Capability Roadmap for Human Service Agencies]({{ site.baseurl }}/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) 
-    * [Roadmap to Capacity Building in Analytics]({{ site.baseurl }}/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf)
-* Analytics Capacity Building
-      * [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results)
-    * [How to Lead with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=How%20to%20Lead%20with%20Data)
-    * [Communicating with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Communicating%20with%20Data) 
-    * Microsoft Excel – 
-      * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201)
-      * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202) **·** [Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters)) **·** <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)" target="_blank">Formulas</a>
-      * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
-    * Tableau Business Intelligence and Analytics – 
-      * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). 
-      * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). 
-      * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). 
+A dataset that has duplicate entries or misspelled words can skew your outcomes. Check out Microsoft Office’s [Top Ten Ways to Clean your Data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19) before starting your analysis. 
 
+### Learning Resources
 
-</details>
-  
-  ### 1. Assess Current Assets and Capacities
+If you don’t have much experience with data analysis, it may be helpful to review some of the key concepts in statistics and math to make sure you understand what you are actually looking at during data analysis.
+  * [Central Tendency](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php)
+  * [Correlation](https://www.excelfunctions.net/excel-correl-function.html)
+  * [Paired t-test](www.real-statistics.com/students-t-distribution/paired-sample-t-test/)
+  * [Regression Analysis](https://www.qimacros.com/hypothesis-testing/regression/)
+  * [Multiple Regression in Excel](https://www.businessinsider.com/understand-excel-multiple-regression-2014-10)
 
-Catalog the various resources available in order to address any gaps identified.
+Other Resources: 
+  * [Coursera](https://www.coursera.org/courses?query=beginner data analysis) almost always has free online classes for new or experienced  data analysts
+  * [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101) is one of the most popular online learning tools if you have more  specific questions about data analysis.
+  * [Lynda](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) has a number of Tableau Learning Tutorials
 
-  * What data do you currently collect?
-  * What technology can you leverage?
-  * What data analytics tools do you have available within the Department or Agency?
-    * See [select technical resources](https://chhsdata.github.io/dataplaybook/resource_library/#technicalresources)
-  * What established processes can you leverage?
-  * What are the training needs?
-    * Identify staff development and training opportunities. [See the Select Training Resources](https://chhsdata.github.io/dataplaybook/resource_library/#trainingresources).
+## Part 2: Review — Facts, Stats, and Trends
 
- ### 2. Assess Readiness
+Data analysis can be daunting for the first-time data analyst. To simplify the vast work of  data science, we’ll stick to the “facts-stats-trends” framework:
+1. Facts are counts, sums, and numbers.  
+2. Stats are basic descriptive statistics  (mean, median, mode, distribution)
+3. Trends are found by comparing data between two points in time or groups (e.g. percent change, percent different)
+    * You can compare **across time** in the same group (*longitudinal*), or **between groups** in the same time period (*cross-sectional*)
 
-  * How do **programs or stakeholders** use data currently? What do they do with it? How do they use it to make decisions or produce products for external stakeholders?
-  * What are **limits** to either the data or the implementation solution?
-  * What are the **risks and issues** with the current data? What value is not being realized?
-  * Identify the current workflow for **collecting, processing, and publishing** data. Are there dependencies to collecting, processing, and publishing the data?
+### Facts
 
- ### 3. Analytics Assessment
+Facts are useful for providing a **high-level summary** of your data or methods. (*e.g. How many participants completed your program?  What was the average calorie intake of participants  at 4 weeks?*) 
 
-Consider using one of these existing data capacity frameworks to continue assessing analytic capacity, developing analytic strategy, and building analytic capacity.
+  * Facts can **contextualize** your data as percentages, fractions, or rates (*e.g. 100 participants  completed the program out of  150 = 67% completion rate*)
+  * If you ever had benchmark measurements or metrics to set a baseline for your data, you can  compare facts with those to assess **whether some intervention was successful.** (*E.g. Only 80/150 participants  completed the program prior to our change in outreach. Thus, we increased completion by nearly 14% through this project.*)
 
-  * [Strategic Use of Data Rubric](https://sdp.cepr.harvard.edu/strategic-use-data-rubric/) – A resource that provides direction and support to education organizations to transform their use of data. The rubric establishes a common language and framework to more clearly illustrate what effective data use at the system-level looks like.
-    * The California Department of Public Health has adapted the data rubric to their needs. [Download the Public Health data rubric here](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/Public-Health-Strategic-Use-of-Data-Rubric-09-04-18.docx).
+### Stats
 
-  * [Analytics Capability Roadmap for Human Service Agencies]({{ site.baseurl }}/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) – Helps assess current analytic capability and developing an analytic strategy to help meet their organizational objectives and measure outcomes across programs.
+Gathering meaningful statistics about your data is essential to gaining a deeper understanding into the impacts it had on your users. Even basic statistical transformations can reveal surprising patterns in your data.
 
-  * [Roadmap to Capacity Building in Analytics]({{ site.baseurl }}/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf) – Provides information on (1) analytical capabilities required for successful analytical efforts, (2) skillsets as well as governance structures and change management processes for such efforts, and (3) practical examples of existing solutions across public and private health and human service sectors.
-  * Select Training Resources for Building Analytic Capacity:
-    * [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results) – collecting data, analyzing data, and reporting the results.
-    * [How to Lead with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=How%20to%20Lead%20with%20Data) – advancing strategic priorities, optimizing operations, and building trust with customers.
-    * [Communicating with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Communicating%20with%20Data) – concepts, conventions, and mechanics behind the effective use of tables, charts, and graphs.
-    * Microsoft Excel – 
-      * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201)
-      * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202) **·** [Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters)) **·** <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)" target="_blank">Formulas</a>
-      * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
-    * Tableau Business Intelligence and Analytics – 
-      * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). 
-      * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). 
-      * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). 
+  * Simply put, stats present high-level summaries and suggest implications of your data
+  * Often the basis of simple charts and tables
+  * **Central Tendency** is one simple but powerful statistical measure
+    * Mean, median, and mode are all measures of central tendency — that is, how each data  point relates to the average
+    * Excel can [calculate](https://access-excel.tips/excel-central-tendency-mean-mode-median/) this for you
+  * It can be useful to **compare the central tendency of different populations** in your study  (*Example: did individuals who completed your program experience fewer days of unemployment on average than those who did not complete the program?*)
+  * **The Distribution** of your dataset — or how each data point relates to the set as a whole — can tell you a lot about your data through **visualizations** or **graphs**
+    * You can easily mistake a skewed dataset for a positive/negative outcome if you only rely on central tendency  (*e.g. out of 100 participants who completed the program, one reported 300 days of unemployment compared to an average of 14-20 days for the remaining 99. Since the 50  who did not complete the program experienced an average of 20-30 days of unemployment, __you underestimated the effectiveness of your program__ due to the presence of this outlier.*) 
 
+### Trends
+
+Trends are what result when you combine your **facts** with your **stats** — they reveal broader patterns that describe your program’s impact and answer your guiding questions.
+
+Some examples trends and how to find them:
+  * Compare the average rate of completion of your project over time (How many participants  completed your program on average at three different timepoints?)
+  * How did the percent of people who reported high satisfaction with the program change over time? (Was the percentage higher in at one time? Why?)
+  * Was one group more likely to experience unemployment one year after completion than another? 
+
+>**Note**: When comparing distributions or central tendencies between two populations over time, you must prove any differences are statistically significant — that is, **it is more than 95% likely** that the differences you found between populations is actually due to your intervention and **not to random chance**. You can do this using something called a [t-test](www.real-statistics.com/students-t-distribution/paired-sample-t-test/).  Read more about statistical  significance [here](https://hbr.org/2016/02/a-refresher-on-statistical-significance).
 
 <!-- Pagination -->
 <div class="pagination">

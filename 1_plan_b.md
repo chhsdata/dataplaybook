@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Plan B: Data Requirements
+title: 1B: Data Requirements
 permalink: /plan_b_collect/
 ---
-
 ## Planning Part B: What Data to Collect
 
 With your goals and strategy successfully outlined, you can now think about **what data or measurements** you need to answer your guiding questions. If you’re a manager, you’ll also need to **define your outcome measures** and **performance/self-assessment metrics** to maintain the integrity of your project and ensure you’re supporting your team and stakeholders as best you can. 
