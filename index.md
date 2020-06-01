@@ -5,8 +5,7 @@ title: Home
 ![California Health and Human Services Agency Data Playbook - 3rd Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 3rd Edition")
 ## Data changes everything
 
-With over 33,000 employees, we at CHHS make up the largest agency under California’s executive branch. 
-Our 13 departments collectively have access to an unprecedented amount of data -- it is our mission to use this data to improve the programs and services we deliver to our clients, amplify the impact of the data reports we create, and to create an organizational culture that is focused on data-driven decision making.  
+With over 33,000 employees, we at CHHS make up the largest agency under California’s executive branch. Our 13 departments collectively have access to an unprecedented amount of data -- it is our mission to use this data to improve the programs and services we deliver to our clients, amplify the impact of the data reports we create, and to create an organizational culture that is focused on data-driven decision making.  
 
 >A data-driven framework and culture is necessary for highly-effective products and services
 
@@ -17,14 +16,13 @@ Our 13 departments collectively have access to an unprecedented amount of data -
 
 ## What’s inside
 
-This playbook is intended to help you with your data project from start to finish. Every member of CHHS -- from the data novice to the data expert -- will find something useful here, whether it’s learning how to analyze a dataset for the first time or refining your knowledge of advanced data visualization.  
+This playbook is intended to help you with your data project from start to finish. Every member of CHHS -- from the data novice to the data expert -- will find something useful here, whether it’s learning how to analyze a dataset for the first time or refining your knowledge of advanced data visualization.   
 
-This playbook walks you through *five essential components* of any data project:
-	- [What]({{ site.baseurl }}/plan/) data do I need?
-	- [Where]({{ site.baseurl }}/assess/) can I find it?
-	- How do I [analyze]({{ site.baseurl }}/implement/) it effectively?
-	- How do I [communicate my findings]({{ site.baseurl }}/evaluate/) clearly? 
-	- How do I [maintain]({{ site.baseurl }}/share/) my project and ensure its success long-term?
+Inside, you will find **four chapters**:
+  1. [Planning]({{ site.baseurl }}/plan/) for your data project
+  2. [Analyzing]({{ site.baseurl }}/assess/) your data
+  3. [Communicating]({{ site.baseurl }}/evaluate/) Your Results
+  4. [Maintaining]({{ site.baseurl }}/share/) Your Project
 
 Additionally, we’ve created a [Resource Library]({{ site.baseurl }}/resource_library/) with a quick summary of all public data sources, skill building and training resources, and useful data analysis tools and software included in the playbook. 
 
