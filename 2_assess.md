@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2. Analyze
-permalink: /assess/
+permalink: /analyze/
 ---
 ## Section 2: Analyzing Your Data
 
