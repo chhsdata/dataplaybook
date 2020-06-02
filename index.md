@@ -22,7 +22,7 @@ Inside, you will find **four chapters**:
   1. [Planning]({{ site.baseurl }}/plan/) for your data project
   2. [Analyzing]({{ site.baseurl }}/analyze/) your data
   3. [Communicating]({{ site.baseurl }}/communicate/) Your Results
-  4. [Maintaining]({{ site.baseurl }}/share/) Your Project
+  4. [Maintaining]({{ site.baseurl }}/maintain/) Your Project
 
 Additionally, we’ve created a [Resource Library]({{ site.baseurl }}/resource_library/) with a quick summary of all public data sources, skill building and training resources, and useful data analysis tools and software included in the playbook. 
 
