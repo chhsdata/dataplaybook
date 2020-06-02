@@ -64,7 +64,7 @@ Here are some resources to help you understand **all types of data visualization
 3. Beginner: This Step-by-Step Guide to Data Visualization and Design written for beginners
 4. **Beginner-Intermediate**: Kaggle’s [Data Visualization Course](https://www.kaggle.com/learn/data-visualization) teaches you how to implement some more basic, powerful data visualization techniques (line charts, scatter plots, and distributions) and how to choose the right one.
 5. **Intermediate-Advanced**: The [Data Visualization Catalogue](https://datavizcatalogue.com/search.html) has a comprehensive list of charts that are separated by what data visualization function they employ. 
-6. **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data visualization&) — check to see if one is available!
+6. **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data&nbsp;visualization&) — check to see if one is available!
 
 ## Part C: Sharing with Others
 

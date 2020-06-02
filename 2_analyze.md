@@ -21,7 +21,7 @@ If you don’t have much experience with data analysis, it may be helpful to rev
   * [Multiple Regression in Excel](https://www.businessinsider.com/understand-excel-multiple-regression-2014-10)
 
 Other Resources: 
-  * [Coursera](https://www.coursera.org/courses?query=beginner data analysis) almost always has free online classes for new or experienced  data analysts
+  * [Coursera](https://www.coursera.org/courses?query=beginner&nbsp;data&nbsp;analysis) almost always has free online classes for new or experienced  data analysts
   * [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101) is one of the most popular online learning tools if you have more  specific questions about data analysis.
   * [Lynda](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) has a number of Tableau Learning Tutorials
 

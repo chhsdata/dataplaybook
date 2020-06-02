@@ -24,17 +24,17 @@ Your goals should be SMART — specific, measurable, achievable, realistic, and 
 
 Now that you have identified your goals, you must develop a strategy for achieving your desired outcomes. A Strategic Plan is first and foremost a **Roadmap to Success** – the more care and thought you put into your plan, the more likely you are to produce a successful data project.
 
->### Identify some *action words* that best describe the work you’ll do:
->
->Action words are verbs that describe how you will approach each task in this project. They don’t describe your intended outcome (i.e. increase and reduce are not action words); rather, they describe roles you will take throughout your project to assure a successful outcome. 
->
->#### Examples:
->If you are creating a product:
->  * Update, Upgrade, Develop, Create, Implement, Evaluate, Produce
->If you are managing a project:
->  * Oversee, coordinate, supervise, manage, plan, support, transition
->If you  are implementing the specifics of a project:
->  * Write, process, provide, maintain, reconcile, direct, administer
+### Identify some *action words* that best describe the work you’ll do:
+
+Action words are verbs that describe how you will approach each task in this project. They don’t describe your intended outcome (i.e. increase and reduce are not action words); rather, they describe roles you will take throughout your project to assure a successful outcome. 
+
+#### Examples:
+If you are creating a product:
+  * Update, Upgrade, Develop, Create, Implement, Evaluate, Produce
+If you are managing a project:
+  * Oversee, coordinate, supervise, manage, plan, support, transition
+If you  are implementing the specifics of a project:
+  * Write, process, provide, maintain, reconcile, direct, administer
 
 ![Example Use Case]({{ site.baseurl }}/assets/images/01_figure06.png "Example Use Case")
 Example Use Case Diagram ([lucidchart.com](https://www.lucidchart.com/pages/uml-use-case-diagram))
@@ -57,7 +57,7 @@ This framework is most helpful for projects where you intend to **build some sor
 ### Instructions for building a Use Case Diagram:
 
 **Step 1:** Start by defining your actors, or the users that interact with your system. they can be anything from a person to an organization or outside system that interacts with your product. 
->Note: Think broadly -- your users may include institutions both within and outside of CHHS as well as specific populations of the public*
+>Note: Think broadly -- your users may include institutions both within and outside of CHHS as well as specific populations of the public
 
 **Step 2:** For each user, list all the ways they can interact with your system (these are the “use cases”)
 >Note: Ensure you consider alternate/undesirable courses of events and use cases that aren’t obvious
@@ -71,7 +71,7 @@ Also check out this [Online resource](https://online.visual-paradigm.com/diagram
 
 The logic model framework focuses on **visualizing the relationship** between **inputs**, **outcomes**, and **costs** associated with your project. It is a **graphical model** where each component (or “phase”) of your project relates to a list of intended effects in **an implicit, ‘if-then’ way**. 
 
-####The seven components you’ll consider are:
+#### The seven components you’ll consider are:
 1. Inputs: The resources you need for your project
 2. Activities: What the staff or the program does with those resources
 3. Outputs: Tangible products, capacities, or deliverables that result from the activities
@@ -87,16 +87,16 @@ The logic model framework focuses on **visualizing the relationship** between **
 4. Identifying Activities: What are some high-level steps you must take to complete your project?
 
 > **Example:** 
->e.g. **_If_** I hire more staff for my project (input), **_then_** I can collect more data about who would benefit from my service (activity). **_If_** we have more data, **_then_** our predictive model will be more accurate (output). **_If_** our model is more accurate, **_then_** we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on. 
+>e.g. **If** I hire more staff for my project (input), **then** I can collect more data about who would benefit from my service (activity). **If** we have more data, **then** our predictive model will be more accurate (output). **If** our model is more accurate, **then** we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on. 
 
 Many people like to **work backwards** from impacts to inputs, since it is sometimes more intuitive. Pick the way you like best and go with it!
 
-![Example Logic Model]({{ site.baseurl }}/assets/images/01_figure07.png "Example Logic Model"))
+![Example Logic Model]({{ site.baseurl }}/assets/images/01_figure07.png "Example Logic Model")
 
-	To begin, simply **create six headers** as is shown in the diagram above — this can be done by hand, with sticky notes, or online. 
-	List everything that comes to mind when you answer the those **guiding questions** above, drawing a box around each entry. Finally, draw arrows between boxes to signify the ‘if-then’ relationship.
+To begin, simply **create six headers** as is shown in the diagram above — this can be done by hand, with sticky notes, or online. 
+List everything that comes to mind when you answer the those **guiding questions** above, drawing a box around each entry. Finally, draw arrows between boxes to signify the ‘if-then’ relationship.
 
-![Sample Logic Model]({{ site.baseurl }}/assets/images/01_figure08.png "Sample Logic Model"))
+![Sample Logic Model]({{ site.baseurl }}/assets/images/01_figure08.png "Sample Logic Model")
 A Sample Logic Model from [CDC.gov](https://www.cdc.gov/dhdsp/docs/logic_model.pdf)
 
 ## Still Stuck? Look at Strategic Planning Guides from Outside Organizations

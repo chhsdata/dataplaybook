@@ -28,6 +28,6 @@ In the past decade, public interest in big data and data-driven projects has sky
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/assess">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/plan_b_collect">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/analyze">Next &raquo;</a>
 </div>
