@@ -66,6 +66,6 @@ Some examples trends and how to find them:
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/define">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/implement">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/plan_c_find">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/communicate">Next &raquo;</a>
 </div>

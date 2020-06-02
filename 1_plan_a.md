@@ -105,6 +105,6 @@ A Sample Logic Model from [CDC.gov](https://www.cdc.gov/dhdsp/docs/logic_model.p
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/assess">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/plan">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/plan_b_collect">Next &raquo;</a>
 </div>

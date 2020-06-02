@@ -35,5 +35,5 @@ If you need help accessing any of the materials in the Playbook, please contact 
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/define">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/plan">Next &raquo;</a>
 </div>

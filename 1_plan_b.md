@@ -50,6 +50,6 @@ Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harva
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/assess">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/plan_b_collect">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/plan_c_find">Next &raquo;</a>
 </div>

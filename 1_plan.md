@@ -21,5 +21,5 @@ Whether you’re managing a team, analyzing or cleaning a portion the data, or d
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/assess">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/plan_a_goals">Next &raquo;</a>
 </div>

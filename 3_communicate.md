@@ -81,6 +81,6 @@ At CHHS, there are a few existing groups and initiatives that are in place to he
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="{{ site.baseurl }}/assess">&laquo; Prev</a>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/evaluate">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/analyze">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/maintain">Next &raquo;</a>
 </div>
