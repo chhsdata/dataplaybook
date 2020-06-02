@@ -5,7 +5,13 @@ permalink: /analyze/
 ---
 ## Section 2: Analyzing Your Data
 
-## Part 1: Learning Resources
+### Table of Contents
+###   Part A: Internally (at CHHS)
+###   Part B: Externally (Publicly-Available Data)
+
+___
+
+## Part A: Learning Resources
 
 ### Is my Data Cleaned?
 
@@ -25,7 +31,9 @@ Other Resources:
   * [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101) is one of the most popular online learning tools if you have more  specific questions about data analysis.
   * [Lynda](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) has a number of Tableau Learning Tutorials
 
-## Part 2: Review — Facts, Stats, and Trends
+___
+
+## Part B: Review — Facts, Stats, and Trends
 
 Data analysis can be daunting for the first-time data analyst. To simplify the vast work of  data science, we’ll stick to the “facts-stats-trends” framework:
 1. Facts are counts, sums, and numbers.  

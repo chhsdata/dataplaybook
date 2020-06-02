@@ -5,6 +5,11 @@ permalink: /communicate/
 ---
 ## Section 3: Communicating Your Results
 
+### Table of Contents
+###   Part A: Crafting your data narrative
+###   Part B: Designing Effective Visualizations
+###   Part C: Sharing with Others
+
 ## Part A: Crafting your data narrative
 Sharing your findings with the world is just like telling any good story — sometimes it’s more about the storyteller than the story itself. 
 
