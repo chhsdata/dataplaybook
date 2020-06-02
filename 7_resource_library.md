@@ -12,9 +12,6 @@ If you are looking for resources organized by play, check out the summaries incl
   [CHHS Home Page](http://www.chhs.ca.gov/ "CHHS.ca.gov")
   The following resources were developed to support the diverse portfolio of programs and technical infrastructure that CHHS manages.
 
-  <details>
-	<summary>CHHS Information Strategic Plan</summary>
-
 [Download the Strategic Plan]({{ site.baseurl }}/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf "CHHS Information Strategic Plan")
 
 [Download the Master Data Management (MDM) Strategy Addendum]({{ site.baseurl }}/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy")
@@ -26,22 +23,12 @@ The strategic plan considers:
 
 The evolution of technology has provided CHHS, its Departments, local government partners and providers with a unique opportunity to transform the operational paradigm from one focused on the autonomy of individual Departments or programs to one governed in a way that maximizes benefit to the Agency as a community. This convergence of business and technology, when coordinated and managed appropriately, will better enable more client-centric services, more efficient programmatic execution and better fiscal responsibility. The Agency strives to provide a strategic direction that will evolve the manner in which stakeholders within the Agency collaborate to drive better informed investment decisions, resulting in a more effective utilization of assets and human capital. As the costs and risks of technology have grown, the necessity for a more effective approach to the management of these expensive and critical systems has become a focal point of both the state and the federal government. 
 
-</details>
-
-<details>
-  <summary>CHHS Open Data Handbook</summary>
-
 The CHHS Open Data Handbook provides guidelines to identify, review, prioritize, and prepare publishable CHHS data for access by the public via the [CHHS Open Data Portal](https://data.chhs.ca.gov "CHHS Open Data Portal")—with a foundational emphasis on value, quality, data and metadata standards, and governance.
 
 The handbook focuses on general guidelines and thoughtful processes but also provides tools and resources that operationalize those processes. CHHS and its Departments and offices will use this handbook in their work as they consider various perspectives involved in governing business processes, data, and technology assets.
 
 
 [Access the Handbook](https://chhsdata.github.io/opendatahandbook "CHHS Open Data Handbook")
-
-</details>
-
-<details>
-  <summary>CHHS Data Sharing Framework</summary>
 
 Download the data sharing materials:
 
@@ -55,18 +42,11 @@ Data sharing at CHHS is governed by the CHHS data exchange agreement. The CHHS D
 
 Contact your Department’s data coordinator for information on how to find and exchange CHHS data.
 
-</details>
-
-<details>
-  <summary>CHHS Data De-Identification Guidelines</summary>
-
 [Download the Guidelines]({{ site.baseurl }}/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines")
 
 The CHHS Data De-Identification Guidelines describe a procedure to be used by Departments and offices in the Agency to assess data for public release. As part of the guidelines, specific actions that may be taken for each step in the procedure are described. These steps are intended to assist Departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) and the Health Insurance Portability and Accountability Act (HIPAA) to prevent the disclosure of personal information.
 
 The CHHS Data De-Identification Guidelines are focused on the assessment of aggregate or summary data for purposes of de-identification and public release. Aggregate data means collective data that relates to a group or category of services or individuals. The aggregate data may be shown in table form as counts, percentages, rates, averages, or other statistical groupings.
-
-</details>
 
 </details>
 
