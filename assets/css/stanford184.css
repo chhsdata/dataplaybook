@@ -1,11 +1,7 @@
 blockquote {
-	background-color: #d9e7fc;
+	background-color: #e0f6ff;
 	border-style: dotted;
 	border-color: #2a4875;
-}
+	font-color: black;
 
-.greyBox {
-	background-color: #d9dbde;
-	border-style: dotted;
-	border-color: #2a4875;
 }

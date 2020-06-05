@@ -6,12 +6,12 @@ permalink: /analyze/
 ## Section 2: Analyzing Your Data
 
 ### Table of Contents
-###   Part A: Internally (at CHHS)
-###   Part B: Externally (Publicly-Available Data)
+###   Part A: [Learning Resources](#resources "Learning Resources")
+###   Part B: [Review — Facts, Stats, and Trends](#review "Statistics Review")
 
 ___
 
-## Part A: Learning Resources
+## <a name="resources"></a> Part A: Learning Resources
 
 ### Is my Data Cleaned?
 
@@ -33,24 +33,24 @@ Other Resources:
 
 ___
 
-## Part B: Review — Facts, Stats, and Trends
+## <a name="review"></a> Part B: Review — Facts, Stats, and Trends
 
 Data analysis can be daunting for the first-time data analyst. To simplify the vast work of  data science, we’ll stick to the “facts-stats-trends” framework:
-1. Facts are counts, sums, and numbers.  
-2. Stats are basic descriptive statistics  (mean, median, mode, distribution)
-3. Trends are found by comparing data between two points in time or groups (e.g. percent change, percent different)
+>1. **Facts** are counts, sums, and numbers.  
+>2. **Stats** are basic descriptive statistics  (mean, median, mode, distribution)
+>3. **Trends** are found by comparing data between two points in time or groups (e.g. percent change, percent different)
     * You can compare **across time** in the same group (*longitudinal*), or **between groups** in the same time period (*cross-sectional*)
 
 ### Facts
 
-Facts are useful for providing a **high-level summary** of your data or methods. (*e.g. How many participants completed your program?  What was the average calorie intake of participants  at 4 weeks?*) 
+>Facts are useful for providing a **high-level summary** of your data or methods. (*e.g. How many participants completed your program?  What was the average calorie intake of participants  at 4 weeks?*) 
 
   * Facts can **contextualize** your data as percentages, fractions, or rates (*e.g. 100 participants  completed the program out of  150 = 67% completion rate*)
   * If you ever had benchmark measurements or metrics to set a baseline for your data, you can  compare facts with those to assess **whether some intervention was successful.** (*E.g. Only 80/150 participants  completed the program prior to our change in outreach. Thus, we increased completion by nearly 14% through this project.*)
 
 ### Stats
 
-Gathering meaningful statistics about your data is essential to gaining a deeper understanding into the impacts it had on your users. Even basic statistical transformations can reveal surprising patterns in your data.
+>Gathering meaningful statistics about your data is essential to gaining a deeper understanding into the impacts it had on your users. Even basic statistical transformations can reveal surprising patterns in your data.
 
   * Simply put, stats present high-level summaries and suggest implications of your data
   * Often the basis of simple charts and tables
@@ -63,7 +63,7 @@ Gathering meaningful statistics about your data is essential to gaining a deeper
 
 ### Trends
 
-Trends are what result when you combine your **facts** with your **stats** — they reveal broader patterns that describe your program’s impact and answer your guiding questions.
+>Trends are what result when you combine your **facts** with your **stats** — they reveal broader patterns that describe your program’s impact and answer your guiding questions.
 
 Some examples trends and how to find them:
   * Compare the average rate of completion of your project over time (How many participants  completed your program on average at three different timepoints?)
