@@ -9,12 +9,10 @@ With over 33,000 employees, we at CHHS make up the largest agency under Californ
 
 ## A data-driven framework and culture is necessary for highly-effective products and services
 
-<div class='blueBox'>
-### Did you know?
-  * More than 30 percent of businesses say big data and analytics have fundamentally changed business practices in their research and development departments. [(Forbes, 2018)](https://www.forbes.com/sites/louiscolumbus/2018/05/23/10-charts-that-will-change-your-perspective-of-big-datas-growth/#1aa044af2926)
+>### Did you know?
+>  * More than 30 percent of businesses say big data and analytics have fundamentally changed business practices in their research and development departments. [(Forbes, 2018)](https://www.forbes.com/sites/louiscolumbus/2018/05/23/10-charts-that-will-change-your-perspective-of-big-datas-growth/#1aa044af2926)
   * 79 percent of executives say that not embracing big data will cause companies to lose their competitive position and risk extinction. [(Forbes, 2018)](https://www.forbes.com/sites/louiscolumbus/2018/05/23/10-charts-that-will-change-your-perspective-of-big-datas-growth/#ceb2b0929268)
   * Businesses that use big data saw a profit increase of 8–10 percent and a 10 percent reduction in overall cost [(Entrepreneur, 2019)](https://www.entrepreneur.com/article/325923)
-</div>
 
 ## What’s inside
 
