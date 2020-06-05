@@ -7,7 +7,7 @@ title: Home
 
 With over 33,000 employees, we at CHHS make up the largest agency under California’s executive branch. Our 13 departments collectively have access to an unprecedented amount of data -- it is our mission to use this data to improve the programs and services we deliver to our clients, amplify the impact of the data reports we create, and to create an organizational culture that is focused on data-driven decision making.  
 
-##A data-driven framework and culture is necessary for highly-effective products and services
+## A data-driven framework and culture is necessary for highly-effective products and services
 
 <div class='blueBox'>
 ### Did you know?
