@@ -24,7 +24,7 @@ Your measurement data is the core data that informs the outcome of your project.
 ___
 
 This is the data you need to collect **after deploying your product or service** to determine whether or not it met your goals and was successful.
-  * [Key Performance Indicators](kpilibrary.com/) (KPIs) are also a great framework for measuring performance relative to your goals. 
+  * [Key Performance Indicators](http://kpilibrary.com/) (KPIs) are also a great framework for measuring performance relative to your goals. 
   * Check out [this resource](https://kpi.org/KPI-Basics) to learn what they are, why they work, and how to set effective KPIs
 
 ### **For Managers:** Readiness & Self-Assessment Data

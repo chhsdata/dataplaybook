@@ -22,7 +22,7 @@ A dataset that has duplicate entries or misspelled words can skew your outcomes.
 If you don’t have much experience with data analysis, it may be helpful to review some of the key concepts in statistics and math to make sure you understand what you are actually looking at during data analysis.
   * [Central Tendency](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php)
   * [Correlation](https://www.excelfunctions.net/excel-correl-function.html)
-  * [Paired t-test](www.real-statistics.com/students-t-distribution/paired-sample-t-test/)
+  * [Paired t-test](http://www.real-statistics.com/students-t-distribution/paired-sample-t-test/)
   * [Regression Analysis](https://www.qimacros.com/hypothesis-testing/regression/)
   * [Multiple Regression in Excel](https://www.businessinsider.com/understand-excel-multiple-regression-2014-10)
 

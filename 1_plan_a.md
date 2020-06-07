@@ -32,9 +32,9 @@ Your goals should be SMART — specific, measurable, achievable, realistic, and 
 Now that you have identified your goals, you must develop a strategy for achieving your desired outcomes. A Strategic Plan is first and foremost a **Roadmap to Success** – the more care and thought you put into your plan, the more likely you are to produce a successful data project.
 
 >### **Strategy Tip:** Find the *action words* that best describe the work you’ll do:
->___
+>
 >Action words are verbs that describe **how you will approach each task in this project.** They don’t describe your intended outcome (i.e. **increase** and **reduce** are not action words); rather, they describe roles you will take throughout your project to assure a successful outcome. 
->___
+>
 >If you are creating a product:
 >  * Update, Upgrade, Develop, Create, Implement, Evaluate, Produce
 >If you are managing a project:
@@ -71,7 +71,7 @@ This framework is most helpful for projects where you intend to **build some sor
 **Step 3:** Draw lines between use cases to reflect commonalities or relationships among them 
 >**Note**: Identify the use case with the greatest number of relationships/associations -- the most common use cases represent the functions in your project that should be essential.
 
-Also check out this [Online resource](https://online.visual-paradigm.com/diagrams/solutions/free-use-case-diagram-tool/) to build your own Use Case Diagram
+Also check out this [Online resource](https://online.visual-paradigm.com/diagrams/solutions/free-use-case-diagram-tool/) to build your own Use Case Diagram.
 
 ## <a name="logicmodel"></a> The Logic Model
 

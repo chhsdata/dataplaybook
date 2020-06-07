@@ -27,6 +27,20 @@ If you are ever stuck, contact your Department’s data coordinator for informat
 </details>
 
 <details>
+  <summary style="font-size:18pt; font-weight: bold;">Goal Setting</summary>
+
+* [SMART Goal checklist](https://www.mindtools.com/pages/article/smart-goals.htm)
+* [lucidchart.com](https://www.lucidchart.com/pages/uml-use-case-diagram) will help you create a use case diagram
+* [Visual Paradigm](https://online.visual-paradigm.com/diagrams/solutions/free-use-case-diagram-tool/) will also help you create a use case diagram
+* For managers, [key Performance Indicators](http://kpilibrary.com/) (KPIs) are also a great framework for measuring performance relative to your goals. 
+* Check out [this resource](https://kpi.org/KPI-Basics) to learn what they are, why they work, and how to set effective KPIs
+* Data readiness: Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-rubric-self-asssessment.pdf) offers a useful template.
+* [Analytics Capability Assessment for Human Service Agencies](https://chhsdata.github.io/dataplaybook/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) gives more specific data readiness guidance.
+* [Roadmap to Capacity Building in Analytics](https://chhsdata.github.io/dataplaybook/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf) - This document is dense, but gives great insight into what you need to carry out a successful product.
+
+</details>
+
+<details>
   <summary style="font-size:18pt; font-weight: bold;">Data Sources</summary>
 
 Public data resources are available from a number of online sources, including the federal government and non-profit organizations. Following is a partial list of select data resources that can help contribute to data projects and analyses.
@@ -62,6 +76,18 @@ There are a number of training resources available from reputable governmental a
 </details>
 
 <details>
+  <summary style="font-size:18pt; font-weight: bold;">Introductory Statistics Tools</summary>
+
+Here are some key concepts and help integrating them into Excel
+* [Central Tendency](https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php)
+* [Correlation](https://www.excelfunctions.net/excel-correl-function.html)
+* [Paired t-test](http://www.real-statistics.com/students-t-distribution/paired-sample-t-test/)
+* [Regression Analysis](https://www.qimacros.com/hypothesis-testing/regression/)
+* [Multiple Regression in Excel](https://www.businessinsider.com/understand-excel-multiple-regression-2014-10)
+* [Statistical Significance](https://hbr.org/2016/02/a-refresher-on-statistical-significance) 
+</details>
+
+<details>
   <summary style="font-size:18pt; font-weight: bold;">Data Visualization (Beginner to Advanced)</summary>
 
 If you just need a quick chart or table, check out these online tools — they are simpler to use than the advanced data visualization guides and may be more appropriate for your specific project:
@@ -70,7 +96,7 @@ If you just need a quick chart or table, check out these online tools — they a
  * [Infogram](https://infogram.com) (beginner-friendly, collaborative, focuses on design thinking principles)
 
 More sophisticated guides are listed below:
-* **Beginner: [databasic.io](https://databasic.io/) – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
+* **Beginner:** [databasic.io](https://databasic.io/) – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
 * **Beginner**: This [article](https://www.qlik.com/us/data-visualization) summarizing general Data Visualization strategies and common methods used in different professions and sectors.
 * **Beginner**: Tableau’s [Data Visualization for Beginners](https://www.tableau.com/learn/articles/data-visualization): a Definition & Learning Guide with helpful examples
 * **Beginner:** This Step-by-Step Guide to Data Visualization and Design written for beginners
