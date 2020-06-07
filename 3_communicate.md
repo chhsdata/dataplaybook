@@ -44,7 +44,7 @@ Is your purpose to **share something generally exciting** (informational) or do 
 
 ### General Tips
 
->  * Use a word editing app like [Hemingway](v) to **improve** the readability of your writing
+>  * Use a word editing app like [Hemingway](http://www.hemingwayapp.com) to **improve** the readability of your writing
 >    * Hemingway will highlight lengthy or run-on sentences, remove overly dense writing, offer alternatives for weak adverbs and phrases as well as poor formatting choices. 
 >  * **Connect** to your audience emotionally — how can you make this more personal?
 >  * **Visualize** your story with a storyboard (see MIT’s [guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) to finding a story in your data)
@@ -70,10 +70,10 @@ For more complex data projects, choosing the right visualization is more than ju
 >Here are some resources to help you understand **all types of data visualization**, **how to create** them, and **which choices are most appropriate** for your data:
 >  1. **Beginner**: This [article](https://www.qlik.com/us/data-visualization) summarizing general Data Visualization strategies and common methods used in different professions and sectors.
 >  2. **Beginner**: Tableau’s [Data Visualization for Beginners](https://www.tableau.com/learn/articles/data-visualization): a Definition & Learning Guide with helpful examples
->  3. Beginner: This Step-by-Step Guide to Data Visualization and Design written for beginners
+>  3. **Beginner:** This Step-by-Step Guide to Data Visualization and Design written for beginners
 >  4. **Beginner-Intermediate**: Kaggle’s [Data Visualization Course](https://www.kaggle.com/learn/data-visualization) teaches you how to implement some more basic, powerful data visualization techniques (line charts, scatter plots, and distributions) and how to choose the right one.
->  5. **Intermediate-Advanced**: The [Data Visualization Catalogue](https://datavizcatalogue.com/search.html) has a comprehensive list of charts that are separated by what data visualization function they employ. 
->. 6. **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data&nbsp;visualization&) — check to see if one is available!
+>  5. **Intermediate-Advanced**: The [Data Visualization Catalogue](https://datavizcatalogue.com/search.html) has a comprehensive list of charts that are separated by what data visualization function they employ.
+> 6. **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data&nbsp;visualization&) — check to see if one is available!
 
 ___
 

@@ -70,7 +70,7 @@ Some examples trends and how to find them:
   * How did the percent of people who reported high satisfaction with the program change over time? (Was the percentage higher in at one time? Why?)
   * Was one group more likely to experience unemployment one year after completion than another? 
 
->**Note**: When comparing distributions or central tendencies between two populations over time, you must prove any differences are statistically significant — that is, **it is more than 95% likely** that the differences you found between populations is actually due to your intervention and **not to random chance**. You can do this using something called a [t-test](www.real-statistics.com/students-t-distribution/paired-sample-t-test/).  Read more about statistical  significance [here](https://hbr.org/2016/02/a-refresher-on-statistical-significance).
+>**Note**: When comparing distributions or central tendencies between two populations over time, you must prove any differences are statistically significant — that is, **it is more than 95% likely** that the differences you found between populations is actually due to your intervention and **not to random chance**. You can do this using something called a [t-test](http://www.real-statistics.com/students-t-distribution/paired-sample-t-test/).  Read more about statistical  significance [here](https://hbr.org/2016/02/a-refresher-on-statistical-significance).
 
 <!-- Pagination -->
 <div class="pagination">

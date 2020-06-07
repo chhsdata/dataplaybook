@@ -9,44 +9,20 @@ If you are looking for resources organized by play, check out the summaries incl
 <details>
   <summary style="font-size:18pt; font-weight: bold;">Internal CHHS Strategies and Guidelines</summary>
 
-  [CHHS Home Page](http://www.chhs.ca.gov/ "CHHS.ca.gov")
-  The following resources were developed to support the diverse portfolio of programs and technical infrastructure that CHHS manages.
+If you are ever stuck, contact your Department’s data coordinator for information on how to find and exchange CHHS data.
 
-[Download the Strategic Plan]({{ site.baseurl }}/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf "CHHS Information Strategic Plan")
-
-[Download the Master Data Management (MDM) Strategy Addendum]({{ site.baseurl }}/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy")
-
-The strategic plan considers:
-* The scope and complexity of CHHS programs and initiatives; 
-* The diversity of project management and technical expertise amongst Departments; and 
-* The current state of the technology environment and the historical approach to siloed designs. 
-
-The evolution of technology has provided CHHS, its Departments, local government partners and providers with a unique opportunity to transform the operational paradigm from one focused on the autonomy of individual Departments or programs to one governed in a way that maximizes benefit to the Agency as a community. This convergence of business and technology, when coordinated and managed appropriately, will better enable more client-centric services, more efficient programmatic execution and better fiscal responsibility. The Agency strives to provide a strategic direction that will evolve the manner in which stakeholders within the Agency collaborate to drive better informed investment decisions, resulting in a more effective utilization of assets and human capital. As the costs and risks of technology have grown, the necessity for a more effective approach to the management of these expensive and critical systems has become a focal point of both the state and the federal government. 
-
-The CHHS Open Data Handbook provides guidelines to identify, review, prioritize, and prepare publishable CHHS data for access by the public via the [CHHS Open Data Portal](https://data.chhs.ca.gov "CHHS Open Data Portal")—with a foundational emphasis on value, quality, data and metadata standards, and governance.
-
-The handbook focuses on general guidelines and thoughtful processes but also provides tools and resources that operationalize those processes. CHHS and its Departments and offices will use this handbook in their work as they consider various perspectives involved in governing business processes, data, and technology assets.
-
-
-[Access the Handbook](https://chhsdata.github.io/opendatahandbook "CHHS Open Data Handbook")
-
-Download the data sharing materials:
-
-* [CHHS Data Sharing - Process Flow]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20Process%20Flow.pdf "CHHS Data Sharing - Process Flow")
-* [CHHS Data Sharing - Legal Agreement]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20Legal%20Agreement.pdf "CHHS Data Sharing - Legal Agreement")
-* [CHHS Data Sharing - Frequently Asked Questions (FAQs)]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20FAQs.pdf "CHHS Data Sharing - Frequently Asked Questions (FAQs)")
-* [Business Use Case Proposal - Form]({{ site.baseurl }}/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx "Business Use Case Proposal - Form")
-* [Business Use Case Proposal - Instructions]({{ site.baseurl }}/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf "Business Use Case Proposal - Instructions")
-
-Data sharing at CHHS is governed by the CHHS data exchange agreement. The CHHS Data Exchange Agreement is bifurcated into two parts—one master agreement with general legal boilerplate language and subordinate "Business Use Case Proposals" containing the specific business case to document each data exchange under the master agreement. The Business Use Case Proposal includes information such as data elements, intended use, etc. The master agreement, when coupled with the Business Use Case Proposal, forms the complete, standardized, legally-compliant data sharing agreement.
-
-Contact your Department’s data coordinator for information on how to find and exchange CHHS data.
-
-[Download the Guidelines]({{ site.baseurl }}/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines")
-
-The CHHS Data De-Identification Guidelines describe a procedure to be used by Departments and offices in the Agency to assess data for public release. As part of the guidelines, specific actions that may be taken for each step in the procedure are described. These steps are intended to assist Departments in assuring that data is de-identified for purposes of public release that meet the requirements of the California Information Practices Act (IPA) and the Health Insurance Portability and Accountability Act (HIPAA) to prevent the disclosure of personal information.
-
-The CHHS Data De-Identification Guidelines are focused on the assessment of aggregate or summary data for purposes of de-identification and public release. Aggregate data means collective data that relates to a group or category of services or individuals. The aggregate data may be shown in table form as counts, percentages, rates, averages, or other statistical groupings.
+* [CHHS Information Strategic Plan]({{ site.baseurl }}/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf "CHHS Information Strategic Plan")
+* [CHHS Master Data Management Strategy]({{ site.baseurl }}/documents/CHHS-Master-Data-Management-Strategy.pdf "CHHS Master Data Management Strategy")
+* [CHHS Open Data Portal](https://data.chhs.ca.gov "CHHS Open Data Portal")
+* [CHHS Open Data Handbook](https://chhsdata.github.io/opendatahandbook "CHHS Open Data Handbook")
+* Data sharing materials:
+  * [CHHS Data Sharing - Process Flow]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20Process%20Flow.pdf "CHHS Data Sharing - Process Flow")
+  * [CHHS Data Sharing - Legal Agreement]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20Legal%20Agreement.pdf "CHHS Data Sharing - Legal Agreement")
+  * [CHHS Data Sharing - Frequently Asked Questions (FAQs)]({{ site.baseurl }}/documents/datasharing/CHHS%20Data%20Sharing%20-%20FAQs.pdf "CHHS Data Sharing - Frequently Asked Questions (FAQs)")
+  * [Business Use Case Proposal - Form]({{ site.baseurl }}/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Form.docx "Business Use Case Proposal - Form")
+  * [Business Use Case Proposal - Instructions]({{ site.baseurl }}/documents/datasharing/Business%20Use%20Case%20Proposal%20-%20Instructions.pdf "Business Use Case Proposal - Instructions")
+* [CHHS Data De-Identification Guidelines]({{ site.baseurl }}/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines")
+* [U.S. Digital Services Playbook](https://playbook.cio.gov/ "U.S. Digital Services Playbook")
 
 </details>
 
@@ -82,30 +58,38 @@ There are a number of training resources available from reputable governmental a
   * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). **Provided by:** Tableau.com
   * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). **Provided by:** Lynda.com
   * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). **Provided by:** Coursera
-  * U.S. Digital Services Playbook
-[Access the Digital Services Playbook](https://playbook.cio.gov/ "U.S. Digital Services Playbook")
-
-The American people expect to interact with government through digital channels such as websites, email, and mobile applications. By building better digital services that meet the needs of the people that use our services, we can make the delivery of our policy and programs more effective.
-
-One way to advance smarter digital service delivery is by putting the right processes and practices in place to drive outcomes and accountability and allow people and companies to do their best work. [The US Digital Services (USDS)](https://www.usds.gov/ "United States Digital Service") Playbook documents these best practices and processes.
-
-The Digital Services Playbook identifies a series of “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services. The plays outline an approach to delivering services that increases our ability to be flexible, iterative and, most importantly, to focus on the needs of the people that use our services.
 
 </details>
 
 <details>
-  <summary style="font-size:18pt; font-weight: bold;">Analysis Tools</summary>
+  <summary style="font-size:18pt; font-weight: bold;">Data Visualization (Beginner to Advanced)</summary>
 
-There are a number of technical resources available from reputable governmental and non-governmental sources. Following is a partial list of select technical resources that can help contribute to data projects and analyses.
-* [databasic.io](https://databasic.io/) – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
-* [D3.js](https://d3js.org/) – Data-Driven Documents D3 is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
-* [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) – A library of different information visualization types, how each method works and what it is best suited for.
-* [Vega](https://vega.github.io/vega/) – A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format and generate web-based views using Canvas or SVG.
-* [Color Contrast Grid](http://contrast-grid.eightshapes.com/) – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast.  
+If you just need a quick chart or table, check out these online tools — they are simpler to use than the advanced data visualization guides and may be more appropriate for your specific project:
+ * [Google Charts](https://developers.google.com/chart/) (interactive charts & simple data tools)
+ * [DataWrapper](https://www.datawrapper.de) (charts, tables, and maps)
+ * [Infogram](https://infogram.com) (beginner-friendly, collaborative, focuses on design thinking principles)
+
+More sophisticated guides are listed below:
+* **Beginner: [databasic.io](https://databasic.io/) – A suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.
+* **Beginner**: This [article](https://www.qlik.com/us/data-visualization) summarizing general Data Visualization strategies and common methods used in different professions and sectors.
+* **Beginner**: Tableau’s [Data Visualization for Beginners](https://www.tableau.com/learn/articles/data-visualization): a Definition & Learning Guide with helpful examples
+* **Beginner:** This Step-by-Step Guide to Data Visualization and Design written for beginners
+* **Beginner-Intermediate**: Kaggle’s [Data Visualization Course](https://www.kaggle.com/learn/data-visualization) teaches you how to implement some more basic, powerful data visualization techniques (line charts, scatter plots, and distributions) and how to choose the right one.
+* **Intermediate**:[Vega](https://vega.github.io/vega/) – A visualization grammar, a declarative language for creating, saving, and sharing interactive visualization designs. With Vega, you can describe the visual appearance and interactive behavior of a visualization in a JSON format and generate web-based views using Canvas or SVG.
+* **Intermediate-Advanced**: The [Data Visualization Catalogue](https://datavizcatalogue.com/search.html) has a comprehensive list of charts that are separated by what data visualization function they employ.
+* **Advanced:** [D3.js](https://d3js.org/) – Data-Driven Documents D3 is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
+* **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data&nbsp;visualization&) — check to see if one is available!
+
 </details>
 
+<details>
+  <summary style="font-size:18pt; font-weight: bold;">Presenting your Data</summary>
 
+* [Color Contrast Grid](http://contrast-grid.eightshapes.com/) – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
+* Use a word editing app like [Hemingway](http://www.hemingwayapp.com) to **improve** the readability of your writing. Hemingway will highlight lengthy or run-on sentences, remove overly dense writing, offer alternatives for weak adverbs and phrases as well as poor formatting choices. 
+* **Visualize** your story with a storyboard (see MIT’s [guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) to finding a story in your data)
 
+</details>
 <hr>
 
 <!-- Pagination -->
