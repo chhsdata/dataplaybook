@@ -16,7 +16,7 @@ A number of incredibly valuable research projects and compiled/cleaned datasets 
   Until now,  we’ve used the words “data product” and “data project” interchangeably, but the two concepts are worth differentiating before this section. A **project** might come to mind when you think of any enterprise or initiative related to engineering, science, and data, such as building a bridge  or conducting a research study. A **product** is more often associated with business, markets, and consumer satisfaction.
   Projects have a **short-term scope** (i.e. a set start and end-date), are meticulously **planned** through use of budgets, schedules, and deadlines, and are comprised of a team of **technical experts** (such as engineers, physicists, mathematicians, etc). They are intended to deliver an **output** timely, safely, and effectively.
 
-![Project Life Cycle]({{ site.baseurl }}/assets/images/04f_figure04.png )
+![Project Life Cycle]({{ site.baseurl }}/assets/images/04_figure04.png )
 
   **Products** are technically a **subset of projects;** that is, every product is a project, but not every project is a product. They differ from projects namely in their purpose, how they get there, and what they do after delivering some outcome. At its core, a product is **anything intended to meet some need** of the customer, which is often a moving target that morphs and changes over time. Where projects are concerned with budgets and schedules, products rely on **markets, customers**, and **trends**, and require a team of flexible, creative, and intuitive individuals to effectively understand how to address the needs of the customer. 
   Bringing product design principles and practices to a data-driven endeavor that might traditionally fall in the “project” category will ensure your outcome more effectively meets the needs of the clients who use CHHS programs and services. What’s more, the product mindset can teach you to be adaptable, flexible, and creative; three skills necessary to building longer-lasting and more innovative solutions. 
@@ -35,7 +35,7 @@ The product lifecycle is the natural process of conception and decline undergone
 >4. Decline Stage
 >  * The product becomes obsolete or maintenance is stopped
 
-![Project Life Cycle2]({{ site.baseurl }}/assets/images/04f_figure05.png )
+![Project Life Cycle2]({{ site.baseurl }}/assets/images/04_figure05.png )
 
 With these stages in mind, **ask yourself the following questions:**
 
