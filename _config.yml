@@ -19,3 +19,6 @@ github:
 
 # Google Analytics
 google_analytics: UA-56144207-2
+
+plugins:
+  - jemoji
