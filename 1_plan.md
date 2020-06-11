@@ -12,13 +12,13 @@ permalink: /plan/
 
 ___
 
-## Taking the time to plan your project is essential. 
-Whether you’re managing a team, analyzing or cleaning a portion the data, or drawing conclusions from your findings, completing any portion of the project requires a great deal of thought and planning. In the following section, we’ll provide a clear, step-by-step guide to the entire planning process, including everything you need to know about **creating goals, determining a plan, and getting your data.** It is our hope that you leave this section with a detailed and specific plan, and the confidence that you have the tools to carry out a successful project. 
+**Taking the time to plan your project is essential.** 
+Whether you’re managing a team, analyzing or cleaning a portion the data, or drawing conclusions from your findings, completing **any portion of the project** requires a great deal of thought and planning. In the following section, we’ll provide a clear, step-by-step guide to the entire planning process, including everything you need to know about **creating goals, determining a plan, and getting your data.** It is our hope that you leave this section with a detailed and specific plan, and the confidence that you have the tools to carry out a successful project. 
 
 >### This section will: 
 >  * Help you identify the right questions and **goals** to guide your data collection process
 >  * Describe **what data you will need** to successfully complete your project
->  * Provide several frameworks to help you generate specific strategies to employ
+>  * Provide helpful frameworks to jump-start your **strategic planning  process**
 
 <!-- Pagination -->
 <div class="pagination">
