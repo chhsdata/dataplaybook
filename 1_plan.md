@@ -20,6 +20,12 @@ Whether you’re managing a team, analyzing or cleaning a portion the data, or d
 >  * Describe **what data you will need** to successfully complete your project
 >  * Provide helpful frameworks to jump-start your **strategic planning  process**
 
+| For Managers | For Analysts |
+| ----------- | ----------- |
+| - Setting KPIs and measuring performance | - Getting the data you need — list of Useful contacts |
+| - Assessing your department’s data organization and data strategy | - All things public data |
+| - Assessing Readiness and Resources | - Review of Data Sharing Agreement and Simplifying Interdepartmental Access to Data |
+
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/">&laquo; Prev</a>
