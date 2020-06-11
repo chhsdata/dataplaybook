@@ -5,10 +5,16 @@ permalink: /plan_b_collect/
 ---
 ## Planning Part B: What Data You Will Need
 
+### Table of Contents:
+###   1. [For Analysts](#analysts)
+###   2. [For Managers](#managers)
+
+___
+
   With your goals and strategy successfully outlined, you can now think about what data or measurements you need to collect to answer your guiding questions, as well as the data you need to determine if you are ready to proceed with data collection. 
   If you’re a manager, you’ll also need to define your outcome measures and performance/self-assessment metrics to maintain the integrity of your project and ensure you’re supporting your team and stakeholders as best you can. 
 
-## For Analysts
+## <a name="analysts"></a> For Analysts
 
 Before proceeding, you should go through a **Readiness Checklist** to ensure you’ve considered your own strengths, weaknesses, and that of your manager and team. Get the support or learning you need now to prevent misunderstandings or frustrations later in the process.
 
@@ -36,7 +42,7 @@ Your **program data** is the core data of this project — it’s the specific m
 
 It can be useful to review all your data assets with these questions in mind. Contact your department’s data coordinator for more information about the types of program data you collect in your department by emailing CHHS@osi.ca.gov.
 
-### **For Managers:** 
+## <a name="analysts"></a> For Managers:
 
   Managing a team at CHHS is challenging —  in addition to setting and working toward your own personal goals, you must also assess the performance of your team and support their continuing learning; set the broader goals that guide larger initiatives, programs, or departments; and work toward capacity building in analytics, data literacy/governance, and much more.  
   The following section is written for a wide range of manager roles, including the larger cohort of managers who supervise analysts and technical employees (SSM1s) to the smaller cohort of branch-level directors or managers working on capacity, vision, and strategy of their department. 

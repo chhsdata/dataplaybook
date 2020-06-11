@@ -19,9 +19,9 @@ This playbook is intended to help you with your data project from start to finis
 >:white_check_mark: Identifying your Data Sources
   
 >#### 2. **[Analyzing]({{ site.baseurl }}/analyze/)** Your Data
->:white_check_mark: Cleaning and De-Identifying Your Dataset
->:white_check_mark: Learning Resources
->:white_check_mark: Review: Facts, Stats and Trends
+>:white_check_mark:Cleaning and De-Identifying Your Dataset
+>:white_check_mark:Learning Resources
+>:white_check_mark:Review: Facts, Stats and Trends
 
 >#### 3. **[Communicating]({{ site.baseurl }}/communicate/)** Your Results
 >:white_check_mark: Crafting your Data Narrative

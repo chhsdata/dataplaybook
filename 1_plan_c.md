@@ -5,6 +5,13 @@ permalink: /plan_c_find/
 ---
 ## Planning Part C: Where to find your data
 
+### Table of Contents:
+###   1. [Program Data](#program)
+###   2. [Data in Other Departments](#departments)
+###   3. [External Data](#external)
+
+___
+
   The final step of the planning process is also **the most important** and **crucial** to successful execution of your project: determining what data you need and where you will find it. 
   This step can be time-consuming and frustrating, but the effort you put in will pay itself back ten-fold when you find yourself  sitting down to start data analysis. Accurate, validated, and comprehensive data is the cornerstone to any data-driven initiative. It is critical to prioritize reliability and integrity of the data in order to ensure the legitimacy of your findings. 
   In most data-driven companies, the **“80/20 Rule”** applies to data projects: 80% of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20% spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. 
@@ -12,11 +19,11 @@ permalink: /plan_c_find/
 
 ![resource flow]({{ site.baseurl }}/assets/images/01c_figure01.png )
 
-## Option 1: Program Data
+## <a name="program"></a> Option 1: Program Data
 
 In most cases, you’ll be working with your **Program Data** — data that is owned by your department and collected by or for your program. This data resides within your department, and is easily accessible through your department’s **Data Coordinator**, who is your first resource to seek out when you need help thinking of what data to source for your project or where to find it. Please email CHHS@osi.ca.gov for help with contacting your department’s data coordinator. 
 
-## Option 2: Data in Other Departments
+## <a name="departments"></a> Option 2: Data in Other Departments
 
   In a few cases, you may find that your department does not have enough data for you to proceed with data analysis. To ensure you have a sufficient amount of data to being your analysis, you are encouraged to look to other departments’ data assets and determine if they'd be appropriate for your project.  
   Your first step to finding data in other departments is to check the CHHS [Open Data Portal](https://data.chhs.ca.gov/), our database for all CHHS data that is publicly-available.
@@ -42,7 +49,7 @@ To get data via the Data Sharing Agreement, you must **contact your department�
 
 ![data exchange flow2]({{ site.baseurl }}/assets/images/01c_figure03.png )
 
-## Option 3: Externally (Publicly-Available Data)
+## <a name="external"></a> Option 3: Externally (Publicly-Available Data)
 
 In the past decade, public interest in big data and data-driven projects has skyrocketed. As a result, there is a **wealth of data available** for free that may help you contextualize your results, find baseline measurements, or contribute to your findings. This section showcases **some of our favorite sources** of publicly available data.
 

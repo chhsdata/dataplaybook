@@ -10,6 +10,8 @@ permalink: /analyze/
 ###   Part B: [Learning Resources](#resources "Learning Resources")
 ###   Part C: [Review — Facts, Stats, and Trends](#review "Statistics Review")
 
+___
+
 ## <a name="cleaning"></a> Part A: Cleaning & De-Identifying your Dataset
 
 A dataset that has duplicate entries or misspelled words can skew your outcomes. Check out Microsoft Office’s [Top Ten Ways to Clean your Data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19) before starting your analysis.
