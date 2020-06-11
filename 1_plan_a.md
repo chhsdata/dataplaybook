@@ -80,7 +80,7 @@ The logic model framework focuses on **visualizing the relationship** between **
 ![Flow of Logic Model]({{ site.baseurl }}/assets/images/01_figure07.png "Flow of Logic Model")
 Flow of Logic Model
 
-#### The seven "components" you’ll consider are:
+### The seven "components" you’ll consider are:
 1. Inputs: The resources you need for your project
 2. Activities: What the staff or the program does with those resources
 3. Outputs: Tangible products, capacities, or deliverables that result from the activities

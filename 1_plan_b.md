@@ -5,7 +5,8 @@ permalink: /plan_b_collect/
 ---
 ## Planning Part B: What Data to Collect
 
-With your goals and strategy successfully outlined, you can now think about **what data or measurements** you need to answer your guiding questions. If you’re a manager, you’ll also need to **define your outcome measures** and **performance/self-assessment metrics** to maintain the integrity of your project and ensure you’re supporting your team and stakeholders as best you can. 
+  With your goals and strategy successfully outlined, you can now think about what data or measurements you need to collect to answer your guiding questions, as well as the data you need to determine if you are ready to proceed with data collection. 
+  If you’re a manager, you’ll also need to define your outcome measures and performance/self-assessment metrics to maintain the integrity of your project and ensure you’re supporting your team and stakeholders as best you can. 
 
 ### Measurement Data
 

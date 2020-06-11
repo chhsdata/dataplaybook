@@ -5,16 +5,44 @@ permalink: /plan_c_find/
 ---
 ## Planning Part C: Where to find your data
 
-___
+  The final step of the planning process is also **the most important** and **crucial** to successful execution of your project: determining what data you need and where you will find it. 
+  This step can be time-consuming and frustrating, but the effort you put in will pay itself back ten-fold when you find yourself  sitting down to start data analysis. Accurate, validated, and comprehensive data is the cornerstone to any data-driven initiative. It is critical to prioritize reliability and integrity of the data in order to ensure the legitimacy of your findings. 
+  In most data-driven companies, the **“80/20 Rule”** applies to data projects: 80% of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20% spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. 
+  In this section, you’ll find information on **accessing Internal Data (both within your department and in others)** as well as **External Data** (data owned by some outside agency/organization, and typically publicly available). Use the **Process Flow Chart** on the following page to choose which resource — the Data Sharing Agreement, the Open Data Portal, your department’s stored data, or publicly available data— is appropriate for each of your data sources. 
 
-### Option 1: Part A: Internally (at CHHS)
+![resource flow]({{ site.baseurl }}/assets/images/01c_figure01.png )
 
-A significant emphasis in our overall data initiative is the collaboration and sharing of data assets between CHHS departments. We want to work toward **refining our process of data sharing** so it is easy and efficient in order to encourage greater interdepartmental collaboration and communication. 
-What follows is a summary of each department within CHHS and the data assets they control. This table is a work in progress, and anyone from within a particular department can add  to this table by contacting their director here. 
+## Option 1: Program Data
 
-___
+In most cases, you’ll be working with your **Program Data** — data that is owned by your department and collected by or for your program. This data resides within your department, and is easily accessible through your department’s **Data Coordinator**, who is your first resource to seek out when you need help thinking of what data to source for your project or where to find it. Please email CHHS@osi.ca.gov for help with contacting your department’s data coordinator. 
 
-### Option 2: Externally (Publicly-Available Data)
+## Option 2: Data in Other Departments
+
+  In a few cases, you may find that your department does not have enough data for you to proceed with data analysis. To ensure you have a sufficient amount of data to being your analysis, you are encouraged to look to other departments’ data assets and determine if they'd be appropriate for your project.  
+  Your first step to finding data in other departments is to check the CHHS [Open Data Portal](https://data.chhs.ca.gov/), our database for all CHHS data that is publicly-available.
+
+### Data Sharing Agreement:
+
+  Accessing private data in other departments is dictated by the **CHHS Data Sharing Agreement**, a [legal document](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS&nbsp;Data&nbsp;Sharing&nbsp;-&nbsp;Legal Agreement.pdf) that entitles any department to accessing another’s data assets through a [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Form.docx). Only proceed  with this section if you’ve (1) decided that some of  the data you need is **not already available through your department** and (2) is **NOT found on the [Open Data Portal](https://data.chhs.ca.gov/),** then this is your next step.
+
+>**Note:** Read the Data De-Identification Guidelines (in Section 2, Part 1: Cleaning/De-Identifying your Dataset) before sharing any data from your department.
+
+The goals of the **Data Sharing Agreement** are the following:
+  * Establish a legal framework for data initiatives
+  * Maximize appropriate sharing to increase positive outcomes and customer service
+  * Ensure privacy and security protections
+  * Reduce risk and use of duplicative resources
+  * Standardize data use agreements among CHHS Departments and offices
+  * Reduce contracting and data use agreement redundancies
+  * Track activity for better understanding of common data sharing needs between CHHS departments
+
+![data exchange flow]({{ site.baseurl }}/assets/images/01c_figure02.png )
+
+To get data via the Data Sharing Agreement, you must **contact your department’s Data Coordinator** and submit a [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Form.docx); this ensures proper documentation of what data you need, why you need it, and your commitment to several requirements, such as preserving the shared dataset in the form it was given to you. For more detailed instructions, visit the Business Use Case [instructions](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Instructions.pdf) or view the [FAQ](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS&nbsp;Data&nbsp;Sharing&nbsp;-&nbsp;FAQs.pdf).
+
+![data exchange flow2]({{ site.baseurl }}/assets/images/01c_figure03.png )
+
+## Option 3: Externally (Publicly-Available Data)
 
 In the past decade, public interest in big data and data-driven projects has skyrocketed. As a result, there is a **wealth of data available** for free that may help you contextualize your results, find baseline measurements, or contribute to your findings. This section showcases **some of our favorite sources** of publicly available data.
 

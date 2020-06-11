@@ -6,16 +6,28 @@ permalink: /analyze/
 ## Section 2: Analyzing Your Data
 
 ### Table of Contents
-###   Part A: [Learning Resources](#resources "Learning Resources")
-###   Part B: [Review — Facts, Stats, and Trends](#review "Statistics Review")
+###   Part A: [Cleaning your Dataset](#cleaning "Cleaning & De-Identifying your Dataset")
+###   Part B: [Learning Resources](#resources "Learning Resources")
+###   Part C: [Review — Facts, Stats, and Trends](#review "Statistics Review")
 
-___
+## <a name="cleaning"></a> Part A: Cleaning & De-Identifying your Dataset
 
-## <a name="resources"></a> Part A: Learning Resources
+A dataset that has duplicate entries or misspelled words can skew your outcomes. Check out Microsoft Office’s [Top Ten Ways to Clean your Data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19) before starting your analysis.
 
-### Is my Data Cleaned?
+### CHHS Data De-Identification Guidelines
 
-A dataset that has duplicate entries or misspelled words can skew your outcomes. Check out Microsoft Office’s [Top Ten Ways to Clean your Data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19) before starting your analysis. 
+  Every single employee of CHHS — whether working with data in a technical capacity, as a manager, an analyst, or otherwise -- is responsible for ensuring **no personal or redacted information is ever shared throughout their project**. The [De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) will walk you through this process. 
+  As Departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee put together the following guidelines to ensure a standard of data governance across CHHS. 
+  The CHHS Data De-Identification Guidelines support CHHS governance goals to reduce inconsistency of practices across Departments, align standards used across Departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the CHHS Open Data Portal.
+See the full guidelines [here](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf).
+
+### De-Identification Considerations:
+
+1. The CHHS Data De-Identification Guidelines are the default policy for CHHS departments. If a CHHS Department wants to customize the guidelines, it must have appropriate references to departmental processes and must file a copy of their guidelines with the Office of the Agency Information Office.
+2. While most state agencies are covered by the California Information Practices Act (IPA), some are also covered by or impacted by HIPAA, the United States Health Insurance Portability and Accountability Act. Unlike the IPA, which applies to all personal information, HIPAA only applies to certain health or healthcare-related information. HIPAA requirements apply in combination with IPA requirements.
+3. For Departments covered by HIPAA, de-identification must meet the HIPAA standard. The CHHS Data De-Identification Guidelines serve as a tool to make and document an expert determination consistent with the HIPAA standard.
+
+## <a name="resources"></a> Part B: Learning Resources
 
 ### Learning Resources
 
@@ -33,7 +45,7 @@ Other Resources:
 
 ___
 
-## <a name="review"></a> Part B: Review — Facts, Stats, and Trends
+## <a name="review"></a> Part C: Review — Facts, Stats, and Trends
 
 Data analysis can be daunting for the first-time data analyst. To simplify the vast work of  data science, we’ll stick to the “facts-stats-trends” framework:
 >1. **Facts** are counts, sums, and numbers.  
