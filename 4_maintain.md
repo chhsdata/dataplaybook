@@ -9,7 +9,7 @@ permalink: /maintain/
 ###   Part A: [Automating the Maintenance of Your Dataset](#automate)
 ###   Part B: [From Data Projects to Data Products](#projects)
 ###   Part C: [The Product Lifecycle](#lifecycle)
-###   For the Manager: Retrieving and Implementing User Feedback(#feedback)
+###   For the Manager: [Retrieving and Implementing User Feedback](#feedback)
 
 ___
 

@@ -14,19 +14,19 @@ This playbook is intended to help you with your data project from start to finis
 ### Inside, you will find **four chapters**:
 
 >#### 1. **[Planning]({{ site.baseurl }}/plan/)** Your Data Project
->:white_check_mark: setting goals and strategy
->:white_check_mark: what data you will need
->:white_check_mark: Identifying your Data Sources
+>* setting goals and strategy
+>* what data you will need
+>* Identifying your Data Sources
   
 >#### 2. **[Analyzing]({{ site.baseurl }}/analyze/)** Your Data
->:white_check_mark:Cleaning and De-Identifying Your Dataset
->:white_check_mark:Learning Resources
->:white_check_mark:Review: Facts, Stats and Trends
+>* Cleaning and De-Identifying Your Dataset
+>* Learning Resources
+>* Review: Facts, Stats and Trends
 
 >#### 3. **[Communicating]({{ site.baseurl }}/communicate/)** Your Results
->:white_check_mark: Crafting your Data Narrative
->:white_check_mark: Designing Effective Visualizations
->:white_check_mark: Sharing your Findings with Others
+>* Crafting your Data Narrative
+>* Designing Effective Visualizations
+>* Sharing your Findings with Others
 
 >#### 4. **[Concluding]({{ site.baseurl }}/maintain/)** Your Project
 >:white_check_mark: Product lifecycle & User Feedback
