@@ -21,18 +21,20 @@ First, a bit about goals: for your project to execute smoothly, it is best to ch
 
 ![SMART Goal Framework]({{ site.baseurl }}/assets/images/01_figure05.png "SMART Goal Framework")
 
-> **Hint:** Goals often fall into one of the following categories:
->  * **Increase** something (e.g. increase healthy behaviors in a population)
->  * **Make** something  (e.g. produce a mapping/visualization of all COVID-19 cases across California)
->  * **Improve** something (e.g. improve living conditions of a population)
->  * **Reduce** something (e.g. reduce number of smokers in California)
+| **Hint:** Goals often fall into one of the following categories: |
+|---------|
+| - **Increase** something (e.g. increase healthy behaviors in a population) |
+| - **Make** something  (e.g. produce a mapping/visualization of all COVID-19 cases across California) |
+| - **Improve** something (e.g. improve living conditions of a population) |
+| - **Reduce** something (e.g. reduce number of smokers in California) |
 
 ## <a name="strategicplan"></a> Step 2: Develop a Strategic Plan
 
 Now that you have identified your goals, you must develop a strategy for achieving your desired outcomes. A Strategic Plan is first and foremost a **Roadmap to Success** – the more care and thought you put into your plan, the more likely you are to produce a successful data project.
 
->### Did you know?
-> CHHS has its own [Strategic Plan](https://chhsdata.github.io/dataplaybook/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf) that summarizes our vision and goals for every department’s products and services. While not a substitute for your strategic plan, it can give you ideas and and helps you ensure your strategy aligns with CHHS’ guiding principles and mission statement.
+| Did you know? |
+|--------|
+| CHHS has its own [Strategic Plan](https://chhsdata.github.io/dataplaybook/documents/CHHS%20Information%20Strategic%20Plan%202016.pdf) that summarizes our vision and goals for every department’s products and services. While not a substitute for your strategic plan, it can give you ideas and and helps you ensure your strategy aligns with CHHS’ guiding principles and mission statement. |
 
 Utilize a **strategic planning framework** such as the use case diagram or a logic model. These frameworks will help you explicitly define each step necessary to achieve your goals as well as anticipate what challenges you may face throughout your project.
 
@@ -62,14 +64,9 @@ This framework is most helpful for projects where you intend to **build some sor
 
 ### Instructions for building a Use Case Diagram:
 
-| **Step 1:** Start by defining your actors, or the users that interact with your system. they can be anything from a person to an organization or outside system that interacts with your product. |
-| >**Note**: Think broadly -- your users may include institutions both within and outside of CHHS as well as specific populations of the public |
-
-| **Step 2:** For each user, list all the ways they can interact with your system (these are the “use cases”) |
-| >**Note**: Ensure you consider alternate/undesirable courses of events and use cases that aren’t obvious |
-
-| **Step 3:** Draw lines between use cases to reflect commonalities or relationships among them. |
-| >**Note**: Identify the use case with the greatest number of relationships/associations -- the most common use cases represent the functions in your project that should be essential. |
+| **Step 1:** Start by defining your actors, or the users that interact with your system. they can be anything from a person to an organization or outside system that interacts with your product. <br> **Note**: Think broadly -- your users may include institutions both within and outside of CHHS as well as specific populations of the public |
+| **Step 2:** For each user, list all the ways they can interact with your system (these are the “use cases”) <br> **Note**: Ensure you consider alternate/undesirable courses of events and use cases that aren’t obvious |
+| **Step 3:** Draw lines between use cases to reflect commonalities or relationships among them. <br> **Note**: Identify the use case with the greatest number of relationships/associations -- the most common use cases represent the functions in your project that should be essential. |
 
 Also check out this [Online resource](https://online.visual-paradigm.com/diagrams/solutions/free-use-case-diagram-tool/) to build your own Use Case Diagram.
 
@@ -81,13 +78,7 @@ The logic model framework focuses on **visualizing the relationship** between **
 Flow of Logic Model
 
 ### The seven "components" you’ll consider are:
-1. Inputs: The resources you need for your project
-2. Activities: What the staff or the program does with those resources
-3. Outputs: Tangible products, capacities, or deliverables that result from the activities
-4. Outcomes: Changes that occur in other people or conditions because of the activities and outputs
-5. Impacts: The most distal/long-term outcomes
-6. Assumptions: Your beliefs about the program and the resources involved (including how successful you you think it will be or the challenges you may face)
-7. Moderators: Contextual factors that are out of control of the program but may help or hinder your efforts. These may influence participation, implementation, achievement of your outcomes.
+| 1. Inputs: The resources you need for your project <br>2. Activities: What the staff or the program does with those resources<br>3. Outputs: Tangible products, capacities, or deliverables that result from the activities<br>4. Outcomes: Changes that occur in other people or conditions because of the activities and outputs<br>5. Impacts: The most distal/long-term outcomes<br>6. Assumptions: Your beliefs about the program and the resources involved (including how successful you you think it will be or the challenges you may face)<br>7. Moderators: Contextual factors that are out of control of the program but may help or hinder your efforts. These may influence participation, implementation, achievement of your outcomes.
 
 > **Example:** 
 >e.g. **If** I hire more staff for my project (input), **then** I can collect more data about who would benefit from my service (activity). **If** we have more data, **then** our predictive model will be more accurate (output). **If** our model is more accurate, **then** we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on. 
