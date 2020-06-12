@@ -6,6 +6,7 @@ permalink: /resource_library/
 Below you can explore different data resources. Click on each heading to expand the section and see more details.
 If you are looking for resources organized by play, check out the summaries included in the beginning of each play.
 
+<a name="top"></a>
 ### Table of Contents
 ###   1. [Internal CHHS Strategies and Guidelines](#internal)
 ###   2. [Goal Setting](#goals)
@@ -34,6 +35,8 @@ If you are ever stuck, contact your Department’s data coordinator for informat
 * [CHHS Data De-Identification Guidelines]({{ site.baseurl }}/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines")
 * [U.S. Digital Services Playbook](https://playbook.cio.gov/ "U.S. Digital Services Playbook")
 
+[Click for Back to Top](#top)
+
 ## <a name="goals"></a>Goal Setting
 
 * [SMART Goal checklist](https://www.mindtools.com/pages/article/smart-goals.htm)
@@ -44,6 +47,8 @@ If you are ever stuck, contact your Department’s data coordinator for informat
 * Data readiness: Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-rubric-self-asssessment.pdf) offers a useful template.
 * [Analytics Capability Assessment for Human Service Agencies](https://chhsdata.github.io/dataplaybook/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) gives more specific data readiness guidance.
 * [Roadmap to Capacity Building in Analytics](https://chhsdata.github.io/dataplaybook/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf) - This document is dense, but gives great insight into what you need to carry out a successful product.
+
+[Click for Back to Top](#top)
 
 ## <a name="data"></a>Data Sources
 
@@ -57,6 +62,8 @@ Public data resources are available from a number of online sources, including t
 * [CalEnviro Screen](https://oehha.ca.gov/calenviroscreen "CalEnviro Screen") - A mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects.
 * [California Healthy Places Index](https://healthyplacesindex.org/ "California Healthy Places Index") - A tool to explore community conditions that predict life expectancy. It contains user-friendly mapping and data resources at the census tract level across California. 
 * [CHHS Open Data Portal](https://data.chhs.ca.gov/ "CHHS Open Data Portal") - Offers access to standardized data that can be easily retrieved, combined, downloaded, sorted, searched, analyzed, redistributed and re-used by individuals, business, researchers, journalists, developers, and government to process, trend, and innovate.
+
+[Click for Back to Top](#top)
 
 ## <a name="skills"></a>Skill Building
 
@@ -73,6 +80,8 @@ There are a number of training resources available from reputable governmental a
   * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). **Provided by:** Lynda.com
   * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). **Provided by:** Coursera
 
+[Click for Back to Top](#top)
+
 ## <a name="stats"></a>Introductory Statistics Tools
 
 Here are some key concepts and help integrating them into Excel
@@ -82,6 +91,8 @@ Here are some key concepts and help integrating them into Excel
 * [Regression Analysis](https://www.qimacros.com/hypothesis-testing/regression/)
 * [Multiple Regression in Excel](https://www.businessinsider.com/understand-excel-multiple-regression-2014-10)
 * [Statistical Significance](https://hbr.org/2016/02/a-refresher-on-statistical-significance) 
+
+[Click for Back to Top](#top)
 
 ## <a name="visualize"></a>Data Visualization (Beginner to Advanced)
 
@@ -101,12 +112,15 @@ More sophisticated guides are listed below:
 * **Advanced:** [D3.js](https://d3js.org/) – Data-Driven Documents D3 is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. D3’s emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation.
 * **All levels**: Coursera often has free online [Data Visualization Courses](https://www.coursera.org/search?query=data&nbsp;visualization&) — check to see if one is available!
 
+[Click for Back to Top](#top)
+
 ## <a name="present"></a>Presenting your Data
 
 * [Color Contrast Grid](http://contrast-grid.eightshapes.com/) – Test many foreground and background color combos for compliance with WCAG 2.0 minimum contrast. 
 * Use a word editing app like [Hemingway](http://www.hemingwayapp.com) to **improve** the readability of your writing. Hemingway will highlight lengthy or run-on sentences, remove overly dense writing, offer alternatives for weak adverbs and phrases as well as poor formatting choices. 
 * **Visualize** your story with a storyboard (see MIT’s [guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) to finding a story in your data)
 
+[Click for Back to Top](#top)
 
 <!-- Pagination -->
 <div class="pagination">
