@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1C. Find your Data 
+title: 		1C. Find your Data 
 permalink: /plan_c_find/
 ---
 ## Planning Part C: Where to find your data
@@ -42,8 +42,6 @@ The goals of the **Data Sharing Agreement** are the following:
   * Standardize data use agreements among CHHS Departments and offices
   * Reduce contracting and data use agreement redundancies
   * Track activity for better understanding of common data sharing needs between CHHS departments
-
-![data exchange flow]({{ site.baseurl }}/assets/images/01c_figure02.png )
 
 To get data via the Data Sharing Agreement, you must **contact your department’s Data Coordinator** and submit a [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Form.docx); this ensures proper documentation of what data you need, why you need it, and your commitment to several requirements, such as preserving the shared dataset in the form it was given to you. For more detailed instructions, visit the Business Use Case [instructions](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Instructions.pdf) or view the [FAQ](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS&nbsp;Data&nbsp;Sharing&nbsp;-&nbsp;FAQs.pdf).
 

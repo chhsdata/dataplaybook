@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 1. Plan 
+title: 1. Planning your Data Project 
 permalink: /plan/
 ---
 ## Section 1: Planning for your Data Project
 
 ### Table of Contents:
-###   A. [Determining Goals and Strategy]({{ site.baseurl }}/plan_a_goals/)
-###   B. [What Data to Collect]({{ site.baseurl }}/plan_b_collect/)
-###   C. [Where to Find the Data you Need]({{ site.baseurl }}/plan_c_find/)
+###   Part A. [Determining Goals and Strategy]({{ site.baseurl }}/plan_a_goals/)
+###   Part B. [What Data to Collect]({{ site.baseurl }}/plan_b_collect/)
+###   Part C. [Where to Find the Data you Need]({{ site.baseurl }}/plan_c_find/)
 
 ___
 
