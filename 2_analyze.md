@@ -5,6 +5,7 @@ permalink: /analyze/
 ---
 ## Section 2: Analyzing Your Data
 
+<a name="top"></a>
 ### Table of Contents
 ###   Part A: [Cleaning your Dataset](#cleaning "Cleaning & De-Identifying your Dataset")
 ###   Part B: [Learning Resources](#resources "Learning Resources")
@@ -20,6 +21,7 @@ A dataset that has duplicate entries or misspelled words can skew your outcomes.
 
   Every single employee of CHHS — whether working with data in a technical capacity, as a manager, an analyst, or otherwise -- is responsible for ensuring **no personal or redacted information is ever shared throughout their project**. The [De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) will walk you through this process. 
   As Departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee put together the following guidelines to ensure a standard of data governance across CHHS. 
+![De Identification Contents]({{ site.baseurl }}/assets/images/03_figure05.png)
   The CHHS Data De-Identification Guidelines support CHHS governance goals to reduce inconsistency of practices across Departments, align standards used across Departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the CHHS Open Data Portal.
 See the full guidelines [here](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf).
 
@@ -28,6 +30,10 @@ See the full guidelines [here](https://chhsdata.github.io/dataplaybook/documents
 1. The CHHS Data De-Identification Guidelines are the default policy for CHHS departments. If a CHHS Department wants to customize the guidelines, it must have appropriate references to departmental processes and must file a copy of their guidelines with the Office of the Agency Information Office.
 2. While most state agencies are covered by the California Information Practices Act (IPA), some are also covered by or impacted by HIPAA, the United States Health Insurance Portability and Accountability Act. Unlike the IPA, which applies to all personal information, HIPAA only applies to certain health or healthcare-related information. HIPAA requirements apply in combination with IPA requirements.
 3. For Departments covered by HIPAA, de-identification must meet the HIPAA standard. The CHHS Data De-Identification Guidelines serve as a tool to make and document an expert determination consistent with the HIPAA standard.
+
+>[Click for Back to Top](#top)
+
+___
 
 ## <a name="resources"></a> Part B: Learning Resources
 
@@ -44,6 +50,8 @@ Other Resources:
   * [Coursera](https://www.coursera.org/courses?query=beginner&nbsp;data&nbsp;analysis) almost always has free online classes for new or experienced  data analysts
   * [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles/data-analysis-101) is one of the most popular online learning tools if you have more  specific questions about data analysis.
   * [Lynda](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html) has a number of Tableau Learning Tutorials
+
+>[Click for Back to Top](#top)
 
 ___
 
@@ -85,6 +93,8 @@ Some examples trends and how to find them:
   * Was one group more likely to experience unemployment one year after completion than another? 
 
 >**Note**: When comparing distributions or central tendencies between two populations over time, you must prove any differences are statistically significant — that is, **it is more than 95% likely** that the differences you found between populations is actually due to your intervention and **not to random chance**. You can do this using something called a [t-test](http://www.real-statistics.com/students-t-distribution/paired-sample-t-test/).  Read more about statistical  significance [here](https://hbr.org/2016/02/a-refresher-on-statistical-significance).
+
+>[Click for Back to Top](#top)
 
 <!-- Pagination -->
 <div class="pagination">

@@ -5,6 +5,7 @@ permalink: /maintain/
 ---
 ## Section 4: Concluding Your Project
 
+<a name="top"></a>
 ### Table of Contents
 ###   Part A: [Automating the Maintenance of Your Dataset](#automate)
 ###   Part B: [From Data Projects to Data Products](#projects)
@@ -19,6 +20,10 @@ A number of incredibly valuable research projects and compiled/cleaned datasets 
 
   First, see the [Data De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) to ensure your dataset is de-identified and all redacted information removed. Next, go to the [CHHS Open Data Portal](https://data.chhs.ca.gov/). [OpenGov.com](OpenGov.com), the host of the data portal, runs the site on an open-source data platform called [CKAN](ckan.org) which provides a FileStore API that enables **automation of dataset updates**. See Python documentation [here](https://docs.ckan.org/en/latest/maintaining/filestore.html#filestore-api).
 
+>[Click for Back to Top](#top)
+
+___
+
 ## <a name="projects"></a> Part B: From Data Projects to Data Products 
 
   Until now,  we’ve used the words “data product” and “data project” interchangeably, but the two concepts are worth differentiating before this section. A **project** might come to mind when you think of any enterprise or initiative related to engineering, science, and data, such as building a bridge  or conducting a research study. A **product** is more often associated with business, markets, and consumer satisfaction.
@@ -28,6 +33,10 @@ A number of incredibly valuable research projects and compiled/cleaned datasets 
 
   **Products** are technically a **subset of projects;** that is, every product is a project, but not every project is a product. They differ from projects namely in their purpose, how they get there, and what they do after delivering some outcome. At its core, a product is **anything intended to meet some need** of the customer, which is often a moving target that morphs and changes over time. Where projects are concerned with budgets and schedules, products rely on **markets, customers**, and **trends**, and require a team of flexible, creative, and intuitive individuals to effectively understand how to address the needs of the customer. 
   Bringing product design principles and practices to a data-driven endeavor that might traditionally fall in the “project” category will ensure your outcome more effectively meets the needs of the clients who use CHHS programs and services. What’s more, the product mindset can teach you to be adaptable, flexible, and creative; three skills necessary to building longer-lasting and more innovative solutions. 
+
+>[Click for Back to Top](#top)
+
+___
 
 ## <a name="lifecycle"></a> Part C: The Product Lifecycle
 
@@ -53,6 +62,10 @@ With these stages in mind, **ask yourself the following questions:**
 >* Given all this knowledge, how can it be effectively used?
 
 Your answers will inform how you choose to maintain your product or project over time, and will help you anticipate the natural rise and fall that will occur. 
+
+>[Click for Back to Top](#top)
+
+___
 
 ## <a name="feedback"></a> For the Manager: Retrieving and Implementing User Feedback
 
@@ -87,6 +100,8 @@ When it comes to organizing your feedback, it generally depends on the product o
 ### Step Three: Act on Feedback
 
 The most important part of getting feedback is **actually acting on it** — get your team together to brainstorm ways to meet the developing needs of the customer, and improve it in any way you can. 
+
+>[Click for Back to Top](#top)
 
 <!-- Pagination -->
 <div class="pagination">

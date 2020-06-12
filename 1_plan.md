@@ -27,15 +27,7 @@ Whether you’re managing a team, analyzing or cleaning a portion the data, or d
 | - Assessing your department’s data organization and data strategy | - All things public data |
 | - Assessing Readiness and Resources | - Review of Data Sharing Agreement and Simplifying Interdepartmental Access to Data |
 
-## <a name="goals-strategy"> Planning Part A: Determining Goals and Strategy
-
-### Table of Contents:
-###   Part A1. [Identify Questions and Goals](#goals "goals & objectives")
-###   Part A2. [Develop a Strategic Plan](#strategicplan "Strategic Plan")
-###   Part A3. [The Use Case Diagram](#usecase "Use Case Diagram")
-###   Part A4. [The Logic Model](#logicmodel "Logic Model")
-
-___
+## <a name="goals-strategy"> Part A: Determining Goals and Strategy
 
 ## <a name="goals"></a> Step 1: Identify your Guiding Questions and Set your Goals
 
@@ -128,13 +120,9 @@ A Sample Logic Model from [CDC.gov](https://www.cdc.gov/dhdsp/docs/logic_model.p
 
 >[Click for Back to Top](#top)
 
-## <a name="collect"></a>Planning Part B: What Data You Will Need
-
-### Table of Contents:
-###   Part B1. [For Analysts](#analysts)
-###   Part B2. [For Managers](#managers)
-
 ___
+
+## <a name="collect"></a>Planning Part B: What Data You Will Need
 
   With your goals and strategy successfully outlined, you can now think about what data or measurements you need to collect to answer your guiding questions, as well as the data you need to determine if you are ready to proceed with data collection. 
   If you’re a manager, you’ll also need to define your outcome measures and performance/self-assessment metrics to maintain the integrity of your project and ensure you’re supporting your team and stakeholders as best you can. 
@@ -223,17 +211,11 @@ Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harva
 Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-rubric-self-asssessment.pdf) has specific questions to identify where departments can better use data at the organizational and strategic level
 ![Harvard Assessment 2]({{ site.baseurl }}/assets/images/01b_figure02.png )
 
-
 >[Click for Back to Top](#top)
 
-## <a name="find"></a> Planning Part C: Where to find your data
-
-### Table of Contents:
-###   Part C1. [Program Data](#program)
-###   Part C2. [Data in Other Departments](#departments)
-###   Part C3. [External Data](#external)
-
 ___
+
+## <a name="find"></a> Part C: Where to find your data
 
   The final step of the planning process is also **the most important** and **crucial** to successful execution of your project: determining what data you need and where you will find it. 
   This step can be time-consuming and frustrating, but the effort you put in will pay itself back ten-fold when you find yourself  sitting down to start data analysis. Accurate, validated, and comprehensive data is the cornerstone to any data-driven initiative. It is critical to prioritize reliability and integrity of the data in order to ensure the legitimacy of your findings. 
