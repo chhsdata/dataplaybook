@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /plan_b_collect/
 ---
 ## Planning Part B: What Data You Will Need

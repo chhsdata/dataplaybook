@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /plan_a_goals/
 ---
 ## Planning Part A: Determining Goals and Strategy

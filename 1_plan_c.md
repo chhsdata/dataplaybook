@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /plan_c_find/
 ---
 ## Planning Part C: Where to find your data
