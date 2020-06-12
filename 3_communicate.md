@@ -39,17 +39,14 @@ Your data story can and should change based on your intended audience. The conte
 >    * If *decisional*: present the findings in a way that obviously supports some change or recommendation
 >      * This often requires you to contextualize your information — what else should your audience know to reach your conclusion?
 
-### General Tips
-
->  * Use a word editing app like [Hemingway](http://www.hemingwayapp.com) to **improve** the readability of your writing
->    * Hemingway will highlight lengthy or run-on sentences, remove overly dense writing, offer alternatives for weak adverbs and phrases as well as poor formatting choices. 
->  * **Connect** to your audience emotionally — how can you make this more personal?
->  * **Visualize** your story with a storyboard (see MIT’s [guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) to finding a story in your data)
->  * Find the right **balance** between words/explanation and figures/tables/images
->    * This will largely depend on who your intended audience is and what medium you are using — *digital products* should be more visual while *reports or prints* should rely more on words
->  * Similarly, balance your **quantitative data** with **qualitative data**  — too much dry facts or too many numbers may work against a compelling data story
->    * *Anecdotes, stories*, and *contextualizing comments* also count
->  * Start with your ultimate **goal**: What message do you want the audience to walk away with? 
+| General Tips |
+|-------|
+|- Use a word editing app like [Hemingway](http://www.hemingwayapp.com) to **improve** the readability of your writing<br />- Hemingway will highlight lengthy or run-on sentences, remove overly dense writing, offer alternatives for weak adverbs and phrases as well as poor formatting choices. |
+|- **Connect** to your audience emotionally — how can you make this more personal? |
+|- **Visualize** your story with a storyboard (see MIT’s [guide](https://datatherapy.org/activities/activity-finding-a-story-in-data/) to finding a story in your data) |
+|- Find the right **balance** between words/explanation and figures/tables/images<br />- This will largely depend on who your intended audience is and what medium you are using — digital products should be more visual while reports or prints should rely more on words |
+|- Similarly, balance your **quantitative data** with **qualitative data**  — too much dry facts or too many numbers may work against a compelling data story<br />- Anecdotes, stories, and contextualizing comments also count |
+|- **Start** with your ultimate **goal**: What message do you want the audience to walk away with? |
 
 ___
 
@@ -57,10 +54,8 @@ ___
 
 Finding  the ‘best’ way to visualize your data takes time and experience — if you’re a beginner, **focus your efforts** on learning from others and refining your methods to master the art of **translating data to diagrams.**
 
->If you just need a quick chart or table, check out these online tools — they are simpler to use than the advanced data visualization guides and may be more appropriate for your specific project:
->  * [Google Charts](https://developers.google.com/chart/) (interactive charts & simple data tools)
->  * [DataWrapper](https://www.datawrapper.de) (charts, tables, and maps)
->  * [Infogram](https://infogram.com) (beginner-friendly, collaborative, focuses on design thinking principles)
+|If you just need a quick chart or table, check out these online tools — they are simpler to use than the advanced data visualization guides and may be more appropriate for your specific project: |
+| - [Google Charts](https://developers.google.com/chart/) (interactive charts & simple data tools)<br />  - [DataWrapper](https://www.datawrapper.de) (charts, tables, and maps)<br />  - [Infogram](https://infogram.com) (beginner-friendly, collaborative, focuses on design thinking principles) |
 
 For more complex data projects, choosing the right visualization is more than just deciding between a pie chart vs. a bar graph — it’s about understanding your audience’s learning style and design preferences, leaning in to your creative side, and asking for lots of feedback. 
 

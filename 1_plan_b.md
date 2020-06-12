@@ -49,7 +49,7 @@ It can be useful to review all your data assets with these questions in mind. Co
 
 As a manager, you may be in charge of managing the overall performance and strategy of the project or program; you also may need to assess the performance of the team itself, and the department’s resources. This requires defining and measuring **outcome data**, monitoring your team’s or program’s **performance**, and assessing your department’s **current data assets and analytic capabilities**.
 
-| The following section contains a number of frameworks and resources to **assess your Team’s Capabilities… |
+| The following section contains a number of frameworks and resources to assess your Team’s Capabilities… |
 |----------|
 | …related to projects and programs |
 | - **Assessing Readiness**: considering the scope, risks, limitations of your data project<br />- **Measuring Performance**: Setting Key Performance Indicators (KPIs) for the project and your team<br />- **Determining outcome measures**: benchmark, baseline, and comparative data |
