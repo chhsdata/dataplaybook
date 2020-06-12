@@ -22,13 +22,11 @@ Before proceeding, you should go through a **Readiness Checklist** to ensure you
 
 Ask yourself: Do you have the **Support, Knowledge, and Resources** to Complete your Project?
 
->  * Do my managers/directors have the bandwidth to support me?
->  * Do I/my team have enough expertise to complete this project?
->  * Who is my department’s **Data Coordinator**? (The individual responsible for knowing the data assets held by your department)
->    * Contact CHHS@osi.ca.gov to find your Departments Data Coordinator
->  * Do I have access to the data I need to complete the project?
->  * Do I know the statistical methods required to analyze my data?
-Your measurement data is the core data that informs the outcome of your project. If it’s not clear to you what data you need to measure, try **thinking about your purpose** in initiating/participating in this project. What is the need of your consumers/users that you are trying  to meet? What will this data tell you about how things should should change?
+| - Do my managers/directors have the bandwidth to support me? |
+| - Do I/my team have enough expertise to complete this project? |
+| - Who is my department’s **Data Coordinator**? (The individual responsible for knowing the data assets held by your department) <br />- Contact CHHS@osi.ca.gov to find your Departments Data Coordinator |
+| - Do I have access to the data I need to complete the project? |
+| - Do I know the statistical methods required to analyze my data? |
 
 ### Step 2: Review Your Program Data
 
@@ -51,15 +49,12 @@ It can be useful to review all your data assets with these questions in mind. Co
 
 As a manager, you may be in charge of managing the overall performance and strategy of the project or program; you also may need to assess the performance of the team itself, and the department’s resources. This requires defining and measuring **outcome data**, monitoring your team’s or program’s **performance**, and assessing your department’s **current data assets and analytic capabilities**.
 
->### The following section contains a number of frameworks and resources to **assess your Team’s Capabilities…**
->#### …related to projects and programs
->* **Assessing Readiness**: considering the scope, risks, limitations of your data project
->* **Measuring Performance**: Setting Key Performance Indicators (KPIs) for the project and your team
->* **Determining outcome measures**: benchmark, baseline, and comparative data
->#### …at the department level
->* **Strategic Use of Data**: how effectively does the department utilize data to inform decisions and strategy? 
->* **Capacity Building**: Improving internal capacity, assessing management strategy & organization
->* **Data Governance & Management**: Management & Security of Data, Improving Data Literacy, data de-identification guidelines
+| The following section contains a number of frameworks and resources to **assess your Team’s Capabilities… |
+|----------|
+| …related to projects and programs |
+| - **Assessing Readiness**: considering the scope, risks, limitations of your data project<br />- **Measuring Performance**: Setting Key Performance Indicators (KPIs) for the project and your team<br />- **Determining outcome measures**: benchmark, baseline, and comparative data |
+| …at the department level |
+| - **Strategic Use of Data**: how effectively does the department utilize data to inform decisions and strategy? <br />- **Capacity Building**: Improving internal capacity, assessing management strategy & organization<br />- **Data Governance & Management**: Management & Security of Data, Improving Data Literacy, data de-identification guidelines |
 
 ### Managers of Projects and Programs: Assessing Readiness
 

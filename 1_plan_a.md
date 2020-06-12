@@ -75,28 +75,27 @@ Also check out this [Online resource](https://online.visual-paradigm.com/diagram
 The logic model framework focuses on **visualizing the relationship** between **inputs**, **outcomes**, and **costs** associated with your project. It is a **graphical model** where each component (or “phase”) of your project relates to a list of intended effects in **an implicit, ‘if-then’ way**. 
 
 ![Flow of Logic Model]({{ site.baseurl }}/assets/images/01_figure07.png "Flow of Logic Model")
-Flow of Logic Model
 
 |The seven "components" you’ll consider are:|
 |-----------|
-| 1. Inputs: The resources you need for your project |
-| 2. Activities: What the staff or the program does with those resources |
-| 3. Outputs: Tangible products, capacities, or deliverables that result from the activities |
-| 4. Outcomes: Changes that occur in other people or conditions because of the activities and outputs |
-| 5. Impacts: The most distal/long-term outcomes |
-| 6. Assumptions: Your beliefs about the program and the resources involved (including how successful you you think it will be or the challenges you may face) |
-| 7. Moderators: Contextual factors that are out of control of the program but may help or hinder your efforts. These may influence participation, implementation, achievement of your outcomes. |
+| **1. Inputs:** The resources you need for your project |
+| **2. Activities:** What the staff or the program does with those resources |
+| **3. Outputs:** Tangible products, capacities, or deliverables that result from the activities |
+| **4. Outcomes:** Changes that occur in other people or conditions because of the activities and outputs |
+| **5. Impacts:** The most distal/long-term outcomes |
+| **6. Assumptions:** Your beliefs about the program and the resources involved (including how successful you you think it will be or the challenges you may face) |
+| **7. Moderators:** Contextual factors that are out of control of the program but may help or hinder your efforts. These may influence participation, implementation, achievement of your outcomes. |
 
 > **Example:** 
 >e.g. **If** I hire more staff for my project (input), **then** I can collect more data about who would benefit from my service (activity). **If** we have more data, **then** our predictive model will be more accurate (output). **If** our model is more accurate, **then** we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on. 
 
 To begin, simply **create six headers** as is shown in the diagram above — this can be done by hand, with sticky notes, or online. 
 
-### Guiding Questions:
-1. Identifying Impact: What measurable change are you seeking to achieve in the long-term?
-2. Identifying Outcomes: What measurable changes are you seeking to achieve in the short-term? 
-3. Identifying Outputs: What tangible outcomes can you measure immediately following the implementation of your product/project?
-4. Identifying Activities: What are some high-level steps you must take to complete your project?
+>### Guiding Questions:
+>1. Identifying Impact: What measurable change are you seeking to achieve in the long-term?
+>2. Identifying Outcomes: What measurable changes are you seeking to achieve in the short-term? 
+>3. Identifying Outputs: What tangible outcomes can you measure immediately following the implementation of your product/project?
+>4. Identifying Activities: What are some high-level steps you must take to complete your project?
 
 List everything that comes to mind when you answer the those **guiding questions** above, drawing a box around each entry. Finally, draw arrows between boxes to signify the ‘if-then’ relationship.
 
