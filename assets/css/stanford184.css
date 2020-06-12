@@ -8,9 +8,10 @@ blockquote {
 
 table {
 	background-color: #f0f0f0;
+	color: black;
 }
 
-tr:nth-child(even) {
+tr:nth-child(odd) {
 	background-color: #f0f0f0;
 }
 
