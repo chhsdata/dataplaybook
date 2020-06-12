@@ -196,7 +196,7 @@ It is imperative for managers to regularly assess and improve how effectively th
 
 ### Building Analytic Capacity
 
-For managers interested in these types of assessments or improving the current heat the of their data structures, check out additional resources on building Capability and Capacity in your department (such as the Analytics Capability Assessment for Human Service Agencies.
+For managers interested in these types of assessments, check out additional resources on building Capability and Capacity in your department (such as the [Analytics Capability Assessment for Human Service Agencies](https://chhsdata.github.io/dataplaybook/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf).
 
 >**Note**: For more concrete recommendations to build analytic capacity, check out this [Roadmap to Capacity Building in Analytics](https://chhsdata.github.io/dataplaybook/documents/APHSA-Roadmap-to-Capacity-Building-in-Analytics-White-Paper.pdf). It will cover: 
 >* All staff/Human Resource Needs for a successful team
