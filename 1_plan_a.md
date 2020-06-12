@@ -64,9 +64,9 @@ This framework is most helpful for projects where you intend to **build some sor
 
 ### Instructions for building a Use Case Diagram:
 
-| **Step 1:** Start by defining your actors, or the users that interact with your system. they can be anything from a person to an organization or outside system that interacts with your product. <br> **Note**: Think broadly -- your users may include institutions both within and outside of CHHS as well as specific populations of the public |
-| **Step 2:** For each user, list all the ways they can interact with your system (these are the “use cases”) <br> **Note**: Ensure you consider alternate/undesirable courses of events and use cases that aren’t obvious |
-| **Step 3:** Draw lines between use cases to reflect commonalities or relationships among them. <br> **Note**: Identify the use case with the greatest number of relationships/associations -- the most common use cases represent the functions in your project that should be essential. |
+| **Step 1:** Start by defining your actors, or the users that interact with your system. they can be anything from a person to an organization or outside system that interacts with your product. <br /> **Note**: Think broadly -- your users may include institutions both within and outside of CHHS as well as specific populations of the public |
+| **Step 2:** For each user, list all the ways they can interact with your system (these are the “use cases”) <br /> **Note**: Ensure you consider alternate/undesirable courses of events and use cases that aren’t obvious |
+| **Step 3:** Draw lines between use cases to reflect commonalities or relationships among them. <br /> **Note**: Identify the use case with the greatest number of relationships/associations -- the most common use cases represent the functions in your project that should be essential. |
 
 Also check out this [Online resource](https://online.visual-paradigm.com/diagrams/solutions/free-use-case-diagram-tool/) to build your own Use Case Diagram.
 
@@ -77,8 +77,15 @@ The logic model framework focuses on **visualizing the relationship** between **
 ![Flow of Logic Model]({{ site.baseurl }}/assets/images/01_figure07.png "Flow of Logic Model")
 Flow of Logic Model
 
-### The seven "components" you’ll consider are:
-| 1. Inputs: The resources you need for your project <br>2. Activities: What the staff or the program does with those resources<br>3. Outputs: Tangible products, capacities, or deliverables that result from the activities<br>4. Outcomes: Changes that occur in other people or conditions because of the activities and outputs<br>5. Impacts: The most distal/long-term outcomes<br>6. Assumptions: Your beliefs about the program and the resources involved (including how successful you you think it will be or the challenges you may face)<br>7. Moderators: Contextual factors that are out of control of the program but may help or hinder your efforts. These may influence participation, implementation, achievement of your outcomes. |
+|The seven "components" you’ll consider are:|
+|-----------|
+| 1. Inputs: The resources you need for your project |
+| 2. Activities: What the staff or the program does with those resources |
+| 3. Outputs: Tangible products, capacities, or deliverables that result from the activities |
+| 4. Outcomes: Changes that occur in other people or conditions because of the activities and outputs |
+| 5. Impacts: The most distal/long-term outcomes |
+| 6. Assumptions: Your beliefs about the program and the resources involved (including how successful you you think it will be or the challenges you may face) |
+| 7. Moderators: Contextual factors that are out of control of the program but may help or hinder your efforts. These may influence participation, implementation, achievement of your outcomes. |
 
 > **Example:** 
 >e.g. **If** I hire more staff for my project (input), **then** I can collect more data about who would benefit from my service (activity). **If** we have more data, **then** our predictive model will be more accurate (output). **If** our model is more accurate, **then** we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on. 

@@ -14,13 +14,13 @@ This playbook is intended to help you with your data project from start to finis
 ### Inside, you will find **four chapters**:
 
 | 1. **[Planning]({{ site.baseurl }}/plan/)** Your Data Project |
-| - Setting goals and strategy<br>- What data you will need<br>- Identifying your Data Sources |
+| - Setting goals and strategy<br />- What data you will need<br />- Identifying your Data Sources |
 | 2. **[Analyzing]({{ site.baseurl }}/analyze/)** Your Data |
-|- Cleaning and De-Identifying Your Dataset<br>- Learning Resources<br>- Review: Facts, Stats and Trends |
+|- Cleaning and De-Identifying Your Dataset<br />- Learning Resources<br />- Review: Facts, Stats and Trends |
 | 3. **[Communicating]({{ site.baseurl }}/communicate/)** Your Results |
-|- Crafting your Data Narrative<br>- Designing Effective Visualizations<br>- Sharing your Findings with Others |
+|- Crafting your Data Narrative<br />- Designing Effective Visualizations<br />- Sharing your Findings with Others |
 | 4. **[Concluding]({{ site.baseurl }}/maintain/)** Your Project |
-|- Product lifecycle & User Feedback<br>- Product Design Strategies |
+|- Product lifecycle & User Feedback<br />- Product Design Strategies |
 
 Additionally, we’ve created a [Resource Library]({{ site.baseurl }}/resource_library/) with a quick summary of all public data sources, skill building and training resources, and useful data analysis tools and software included in the playbook. 
 
