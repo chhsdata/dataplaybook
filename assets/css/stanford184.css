@@ -10,7 +10,7 @@ table {
 	background-color: #f0f0f0;
 }
 
-table:nth-child(even) {
+table:nth-child(odd) {
 	background-color: #f0f0f0;
 }
 
