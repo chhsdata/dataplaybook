@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2. Analyze
+title:  Analyze your Data
 permalink: /analyze/
 ---
 ## Section 2: Analyzing Your Data

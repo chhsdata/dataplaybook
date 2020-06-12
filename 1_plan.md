@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1. Planning your Data Project 
+title:  Planning your Data Project 
 permalink: /plan/
 ---
 ## Section 1: Planning for your Data Project

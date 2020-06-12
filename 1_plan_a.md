@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 		1A. Goals 
+title: 	Planning Goals 
 permalink: /plan_a_goals/
 ---
 ## Planning Part A: Determining Goals and Strategy

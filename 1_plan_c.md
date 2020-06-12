@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 		1C. Find your Data 
+title: 	Plan and Find your Data 
 permalink: /plan_c_find/
 ---
 ## Planning Part C: Where to find your data

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 		1B. Data Requirements
+title: 	Planning Data Requirements
 permalink: /plan_b_collect/
 ---
 ## Planning Part B: What Data You Will Need

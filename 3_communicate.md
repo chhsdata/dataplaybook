@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3. Communicate Results
+title: Communicate Results
 permalink: /communicate/
 ---
 ## Section 3: Communicating Your Results
