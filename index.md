@@ -25,7 +25,7 @@ This playbook is intended to help you with your data project from start to finis
 Additionally, we’ve created a [Resource Library]({{ site.baseurl }}/resource_library/) with a quick summary of all public data sources, skill building and training resources, and useful data analysis tools and software included in the playbook. 
 
 ## Our goals for this playbook
-This playbook is a living, breathing document that will change and adapt based on our collective experiences. We highly encourage you to [contribute]({{ site.baseurl }}/resource_library/) to the resource library or [share your data story]({{ site.baseurl }}/success_stories/) -- collaboration will be essential to shaping our organizational culture. It is our hope that each user of this playbook leaves feeling more empowered by the skills they’ve gained and inspired to bring about meaningful change. 
+This playbook is a living, breathing document that will change and adapt based on our collective experiences. We highly encourage you to [contribute]({{ site.baseurl }}/resource_library/) to the resource library or share your data story -- collaboration will be essential to shaping our organizational culture. It is our hope that each user of this playbook leaves feeling more empowered by the skills they’ve gained and inspired to bring about meaningful change. 
 
 
 If you need help accessing any of the materials in the Playbook, please contact <dataplaybook@chhs.ca.gov>.
