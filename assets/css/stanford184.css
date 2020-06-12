@@ -9,3 +9,11 @@ blockquote {
 table {
 	background-color: #f0f0f0;
 }
+
+table:nth-child(even) {
+	background-color: #f0f0f0;
+}
+
+td {
+    border: none;
+}
