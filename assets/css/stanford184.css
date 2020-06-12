@@ -9,6 +9,8 @@ blockquote {
 table {
 	background-color: #f0f0f0;
 	color: black;
+	border-style: dotted;
+	border-color: #63676e;
 }
 
 tr:nth-child(even) {
