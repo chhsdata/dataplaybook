@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Communicate Results
+title: Communicating Your Results
 permalink: /communicate/
 ---
 ## Section 3: Communicating Your Results
@@ -81,7 +81,7 @@ Across the agency, there are a few existing groups and initiatives that exist to
 
   * There are a number of “**Data Showcase Teams**” across the agency. They organize events to build a shared understanding of data, celebrate successes and failures, and lear from each other’s projects.
   * Your department or program may have an **established visual and brand style** that provides credibility to your data analysis, thus increasing its chances of publication. These styles standardize color themes, fonts, and citation formats across agency publications.
-  * A repository of **CHHS data assets** is currently underway to streamline creation, maintenance, and sharing of each department’s resources. Contribute your data here. 
+  * A repository of **CHHS data assets** is currently underway to streamline creation, maintenance, and sharing of each department’s resources. 
 
 <!-- Pagination -->
 <div class="pagination">

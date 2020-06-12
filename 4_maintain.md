@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conclude
+title: Concluding your Project
 permalink: /maintain/
 ---
 ## Section 4: Concluding Your Project

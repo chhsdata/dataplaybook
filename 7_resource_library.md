@@ -3,8 +3,7 @@ layout: page
 title: Resource Library
 permalink: /resource_library/
 ---
-Below you can explore different data resources. Click on each heading to expand the section and see more details.
-If you are looking for resources organized by play, check out the summaries included in the beginning of each play.
+Below you can explore different data resources. Click on each heading to navigate to each section of resources.
 
 <a name="top"></a>
 ### Table of Contents
