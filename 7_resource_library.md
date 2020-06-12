@@ -11,10 +11,9 @@ If you are looking for resources organized by play, check out the summaries incl
 ###   1. [Internal CHHS Strategies and Guidelines](#internal)
 ###   2. [Goal Setting](#goals)
 ###   3. [Data Sources](#data)
-###   4. [Skill Building](#skills)
-###   5. [Introductory Statistics Tools](#stats)
-###   6. [Data Visualization (Beginner to Advanced)](#visualize)
-###   7. [Presenting your Data](#present)
+###   4. [Introductory Statistics Tools](#stats)
+###   5. [Data Visualization (Beginner to Advanced)](#visualize)
+###   6. [Presenting your Data](#present)
 
 ___
 
@@ -66,25 +65,6 @@ Public data resources are available from a number of online sources, including t
 * [CalEnviro Screen](https://oehha.ca.gov/calenviroscreen "CalEnviro Screen") - A mapping tool that helps identify California communities that are most affected by many sources of pollution, and where people are often especially vulnerable to pollution’s effects.
 * [California Healthy Places Index](https://healthyplacesindex.org/ "California Healthy Places Index") - A tool to explore community conditions that predict life expectancy. It contains user-friendly mapping and data resources at the census tract level across California. 
 * [CHHS Open Data Portal](https://data.chhs.ca.gov/ "CHHS Open Data Portal") - Offers access to standardized data that can be easily retrieved, combined, downloaded, sorted, searched, analyzed, redistributed and re-used by individuals, business, researchers, journalists, developers, and government to process, trend, and innovate.
-
->[Click for Back to Top](#top)
-
-___
-
-## <a name="skills"></a>Skill Building
-
-There are a number of training resources available from reputable governmental and non-governmental sources. Following is a partial list of select training resources that can help contribute to data projects and analyses.
-* [Strategies for Collecting Data, Analyzing Data, and Reporting the Results](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Strategies%20for%20Collecting%20Data,%20Analyzing%20Data,%20and%20Reporting%20the%20Results) – Data analysis is the process of describing and interpreting quantitative information. This introductory seminar will guide students through the three basic steps involved in conducting research: collecting data, analyzing data, and reporting the results. **Provided by:** CalHR
-* [How to Lead with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=How%20to%20Lead%20with%20Data) – As government leaders, we all know that we need to do more to take advantage of the power of data to improve the communities we serve. One of the biggest challenges to realizing this goal is to understand how government leaders value data in advancing strategic priorities, optimizing operations, and building trust with their customers. **Provided by:** CalHR
-* [Communicating with Data](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Communicating%20with%20Data) – This course will help you present numerical data to managers, decision makers, or the general public so they can readily understand the data. You will learn concepts, conventions, and mechanics behind the effective use of tables, charts, and graphs. **Provided by:** CalHR
-* Microsoft Excel – Training to help you create, format, and analyze Excel data tables. **Provided by:** CalHR
-  * [Excel Level 1](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%201)
-  * [Excel Level 2](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202) **·** [Pivot Tables, Charts, and Filters](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Pivot%20Tables,%20Charts%20and%20Filters)){:target="_blank"} **·** <a href="http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%202%20(Formulas)" target="_blank">Formulas</a>
-  * [Excel Level 3](http://www.calhr.ca.gov/Training/Pages/course-description.aspx?class=Excel%20Level%203)
-* Tableau Business Intelligence and Analytics – Training to help your work with Tableau Desktop and other Tableau tools.
-  * [Tableau Desktop and Web Authoring Help](https://onlinehelp.tableau.com/current/pro/desktop/en-us/default.htm). **Provided by:** Tableau.com
-  * [Tableau Essentials Training](https://www.lynda.com/Tableau-tutorials/Tableau-9-Essential-Training/386886-2.html). **Provided by:** Lynda.com
-  * [Data Visualization and Communication with Tableau](https://www.coursera.org/learn/analytics-tableau/). **Provided by:** Coursera
 
 >[Click for Back to Top](#top)
 
