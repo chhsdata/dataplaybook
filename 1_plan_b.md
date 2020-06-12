@@ -93,6 +93,9 @@ For managers interested in these types of assessments or improving the current h
 
 You may also be tasked with assessing the quality of your department’s data management and data governance, or working on capacity-building frameworks to improve data literacy and analysis skills.
 
+![Harvard Assessment 1]({{ site.baseurl }}/assets/images/01b_figure01.png )
+![Harvard Assessment 2]({{ site.baseurl }}/assets/images/01b_figure02.png )
+
 <!-- Pagination -->
 <div class="pagination">
   <a class="pagination-item older" href="{{ site.baseurl }}/plan_b_collect">&laquo; Prev</a>
