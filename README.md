@@ -22,6 +22,7 @@
 
 ### [Resource Library](7_resource_library.md)
 
+### [Search](search.md)
 
 ## Change Log
 

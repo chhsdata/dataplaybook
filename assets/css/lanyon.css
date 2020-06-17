@@ -59,11 +59,11 @@ h1, h2, h3, h4, h5, h6 {
  * use an outter wrap to position the sidebar without interferring with the
  * regular page content.
  */
-
+/*
 .wrap {
   position: relative;
   width: 100%;
-}
+}*/
 
 
 /*
@@ -557,7 +557,7 @@ a.pagination-item:hover {
  * aside when toggled.
  */
 
-.sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
+/*.sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
   -webkit-transform: translateX(0);
       -ms-transform: translateX(0);
           transform: translateX(0);
@@ -567,9 +567,9 @@ a.pagination-item:hover {
 }
 .sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
-}
+}*/
 
-/* Only one tweak for a reverse layout */
+/* Only one tweak for a reverse layout 
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
-}
+}*/

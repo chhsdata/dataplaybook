@@ -3,71 +3,29 @@ layout: default
 title: Home
 ---
 ![California Health and Human Services Agency Data Playbook - 3rd Edition]({{ site.baseurl }}/assets/images/00_figure01.png "California Health and Human Services Agency Data Playbook - 3rd Edition")
-
-## Five plays for your Department
-
-Here are five plays designed to help Departments utilize data to inform program and policy development. These plays can also be used to navigate CHHS Governance processes. Each section features detailed best practices. 
-
-A play contains data strategies, approaches and actions a Department may use to  administer programs and address policy issues.
-
-1. Define: goals & objectives
-2. Assess: tools & capabilities
-3. Implement: plan & strategy
-4. Evaluate: outcomes & impacts
-5. Share: progress & results
-
 ## Data changes everything
 
->Our goal is to leverage our internal data to **improve the programs and services** we deliver to our clients.
+With over 33,000 employees, we at CHHS make up the largest agency under California’s executive branch. Our 13 departments collectively have access to an unprecedented amount of data -- it is our mission to use this data to improve the programs and services we deliver to our clients, amplify the impact of the data reports we create, and to create an organizational culture that is focused on data-driven decision making.  
 
-The Playbook can be used by Departments to solve problems with data. It is designed to help build an organizational culture that is focused on data and data-driven decision making. Departments can leverage the various components of the Playbook as they see fit and can customize the Playbook to their needs. 
+## What’s inside
 
-The Playbook serves as a hub for data-related resources available to all Departments. It is designed to be a **“living document”** that will change and adapt based on our collective experiences. Departments are encouraged to contribute to our library of  resources.
+This playbook is intended to help you with your data project from start to finish. Every member of CHHS -- from the data novice to the data expert -- will find something useful here, whether it’s learning how to analyze a dataset for the first time or refining your knowledge of advanced data visualization. 
 
-The Playbook is a mechanism for us to disseminate best practices and lessons learned across the Agency. It consists of numerous toolkits that will help Department staff navigate data projects and allow us to discuss data-related issues and projects with common terminology.
+### Inside, you will find **four chapters**:
 
->Organizations are often data-rich but insight-poor.
+| 1. **[Planning]({{ site.baseurl }}/plan/)** Your Data Project |
+| - Setting goals and strategy<br />- What data you will need<br />- Identifying your Data Sources |
+| 2. **[Analyzing]({{ site.baseurl }}/analyze/)** Your Data |
+|- Cleaning and De-Identifying Your Dataset<br />- Learning Resources<br />- Review: Facts, Stats and Trends |
+| 3. **[Communicating]({{ site.baseurl }}/communicate/)** Your Results |
+|- Crafting your Data Narrative<br />- Designing Effective Visualizations<br />- Sharing your Findings with Others |
+| 4. **[Concluding]({{ site.baseurl }}/maintain/)** Your Project |
+|- Product lifecycle & User Feedback<br />- Product Design Strategies |
 
-The primary objective is to help Departments increase their efficiency and effectiveness–we do not want to just move data across Departments, rather we want to leverage data to improve outcomes for our clients and the effectiveness of our programs.
+Additionally, we’ve created a [Resource Library]({{ site.baseurl }}/resource_library/) with a quick summary of all public data sources, skill building and training resources, and useful data analysis tools and software included in the playbook. 
 
-## Playbook users
-
-![Use the Playbook throughout the data management lifecycle.]({{ site.baseurl }}/assets/images/00_figure02.png "Use the Playbook throughout the data management lifecycle.")
-
->Use the Playbook throughout the data management lifecycle
-
-The Playbook is designed with the analyst as the primary user. It will serve as a resource and a guide to help build the necessary skillsets within the existing workforce to not only think differently about data, but to proactively utilize data to improve the programs and services delivered. 
-
-These plays are designed to provide a high-level overview for Departmental leadership, managers and supervisors.  
-
-The plays are intended for program and data analysts; budget analysts; procurement analysts; and policy and legislative analysts. 
-
-The Departments can help us identify additional users who may benefit from the Playbook. As we build a culture of data, we hope to not only focus on existing data consumers, but expand how staff across Agency utilize data in their day-to-day work.
-
-![Leadership, Culture, Environment]({{ site.baseurl }}/assets/images/00_figure03.png "Leadership, Culture, Environment")
-
-## When to use the Playbook
-
-The Playbook may be used in different scenarios and for different purposes by different users.
-
-For example, the Playbook may be utilized as Departments are developing IT-related projects. This can be a tool to help Departments navigate the Agency Information Governance review and approval processes. 
-
-The Playbook may be leveraged by program and budget staff in the development of Budget Change Concepts (BCCs) and Budget Change Proposals (BCPs). 
-
-The Playbook may be used  by program and legislative affairs staff in the development of Legislative Proposals and/or Enrolled Bill Reports (EBRs). 
-
-![How do you leverage this tool?]({{ site.baseurl }}/assets/images/00_figure04.png "How do you leverage this tool?")
-
->Departments should leverage this Playbook as a tool with existing processes to maximize impact.
-
-## Resources and More
-
-In addition to the five plays, the Playbook also includes action items, a resource library, and a list of CHHS Data-Driven Success Stories to help you tackle your data project. You can copy the Playbook on GitHub to make it your own and share it with your organization.
-
-- [Action Items]({{ site.baseurl }}/action_items/)
-- [Resource Library]({{ site.baseurl }}/resource_library/)
-- [Success Stories]({{ site.baseurl }}/success_stories/)
-- [GitHub Project](https://github.com/CHHSData/DataPlaybook)
+## Our goals for this playbook
+This playbook is a living, breathing document that will change and adapt based on our collective experiences. We highly encourage you to [contribute]({{ site.baseurl }}/resource_library/) to the resource library or share your data story -- collaboration will be essential to shaping our organizational culture. It is our hope that each user of this playbook leaves feeling more empowered by the skills they’ve gained and inspired to bring about meaningful change. 
 
 
 If you need help accessing any of the materials in the Playbook, please contact <dataplaybook@chhs.ca.gov>.
@@ -75,5 +33,5 @@ If you need help accessing any of the materials in the Playbook, please contact 
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="{{ site.baseurl }}/define">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/plan">Next &raquo;</a>
 </div>

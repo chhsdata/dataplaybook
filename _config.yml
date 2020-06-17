@@ -2,18 +2,23 @@
 title:            DATA PLAYBOOK
 tagline:          'California Health and Human Services Agency'
 description:      'CHHS Data Playbook'
-url:              'https://chhsdata.github.io/dataplaybook'
-baseurl:          'https://chhsdata.github.io/dataplaybook'
+url:              'https://gellertnp.github.io/dataplaybook'
+baseurl:          'https://gellertnp.github.io/dataplaybook'
+
+# markdown:         CommonMarkGhPages
 
 author:
   name:           'California Health and Human Services Agency'
   url:            https://twitter.com/chhsagency
 
 # Custom vars
-version:          3.0 | November 2018
+version:          4.0 | May 2020
 
 github:
-  repo:           https://github.com/CHHSData/DataPlaybook
+  repo:           https://github.com/gellertnp/DataPlaybook
 
 # Google Analytics
 google_analytics: UA-56144207-2
+
+plugins:
+  - jemoji
