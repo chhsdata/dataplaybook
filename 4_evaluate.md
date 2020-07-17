@@ -14,7 +14,7 @@ process improvement.”**
 
 **Impact Evaluations** – assess short term objectives, which suggest that your larger goals are being achieved. Impact evaluations are much easier to measure because they consider benefits in terms of changes in beliefs and attitudes, skills, behavior and/or policies, structures and systems.
 
-**Outcome Evaluations** – assess how effective you have been in meeting big picture goals. The difficulties associated with outcome evaluations include: attributing change to any one particular project; long periods between the project and being able to see change; and finding reliable and valid ways of gathering this type of information.
+**Outcome Evaluations** – assess how effective you have been in meeting big picture goals. The difficulties associated with outcome evaluations include: attributing change to any one particular project; longer periods between the project and being able to see change; and finding reliable and valid ways of gathering this type of information.
 
 ![How do you measure success?]({{ site.baseurl }}/assets/images/04_figure01.png "How do you measure success?")
 
